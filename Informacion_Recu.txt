@@ -1,0 +1,186 @@
+﻿Inteligencia Artificial en nuestra vida cotidiana
+Tushar Janardan Pawar, Karla Irazu Ventura-Hernandez, Jose Luis Olivares-Romero*
+
+
+https://www.inecol.mx/index.php/divulgacion/ciencia-hoy/inteligencia-artificial-en-nuestra-vida-cotidiana
+La inteligencia artificial ya está transformando nuestra vida cotidiana, mejorando la eficiencia y personalizando experiencias en sectores como la salud, la educación y el entretenimiento, ofreciendo nuevas oportunidades y retos.
+En la actualidad, es difícil imaginar cómo podríamos gestionar nuestras actividades diarias sin el apoyo indispensable de los teléfonos móviles e Internet; su integración en nuestro día a día solo encuentra límites en los confines de nuestra creatividad. Hace apenas algo más de veinticinco años, Internet empezaba a tejer su red alrededor del globo, y poco tiempo después, Google daba sus primeros pasos en el vasto mundo digital. Desde aquel entonces, estas tecnologías han experimentado una evolución vertiginosa, catapultándonos hacia la era de la Inteligencia Artificial, lo que alguna vez fue relegado al ambito de la ciencia ficcion, hoy en día es una frontera tecnológica que redefine continuamente lo que es posible.
+La historia de la inteligencia artificial es un fascinante viaje a través de décadas de investigación y descubrimientos y la misma se remonta a mediados del siglo XX, cuando pioneros como Alan Turing, quien fue un brillante matematico, sentaron las bases teóricas de la computación y la inteligencia artificial. En la década de 1950, científicos como como John McCarthy, Marvin Minsky, Allen Newell y Herbert A. Simon comenzaron a desarrollar las primeras ideas y algoritmos que darían forma al campo de la IA. Sus contribuciones incluyeron el desarrollo del primer programa de ajedrez y el concepto de redes neuronales artificiales. A lo largo de los años, investigadores de todo el mundo han continuado avanzando en el campo de la inteligencia artificial, creando algoritmos más sofisticados, modelos de aprendizaje automático y sistemas de IA capaces de realizar tareas cada vez más complejas. Este legado de innovación y colaboración ha llevado a la IA a convertirse en una fuerza transformadora en la sociedad moderna.
+
+
+En la sociedad mexicana la IA ha impactado de manera multifacetica y profunda. ¿Pero como definimos a la IA? Esta se refiere a la capacidad de cualquier máquina para simular la inteligencia humana, y actualmente esta transformado numerosos aspectos de la vida en México, desde la economía hasta la atención médica y la educación. Por ejemplo, en el ámbito económico, la implementación de sistemas de IA ha mejorado la eficiencia en diversas industrias mexicanas, ya que interviene en procesos de automatización en la manufactura hasta la optimización de cadenas de suministro y la personalización en el comercio electrónico, la IA ha permitido a las empresas mexicanas aumentar su competitividad a nivel nacional e internacional.
+En el sector de la salud, la inteligencia artificial ha facilitado diagnósticos más precisos y rápidos, así como tratamientos más personalizados. En México, donde el acceso a la atención médica puede ser limitado en ciertas regiones, la IA ha ayudado a superar barreras geográficas al permitir consultas médicas a distancia y el análisis de grandes volúmenes de datos para identificar tendencias y patrones en la salud pública, y no solo eso tambien han intervenido en el crecimiento exponencial de nuevos medicamentos y automatización procesos de obtención de los mismos a través del diseño y modelado molecular. Lo que nos permite generar librerias de compuestos bioactivos para tratar difetrnetes enfermedades. Mientras que en el ámbito educativo, la IA ha abierto nuevas oportunidades de aprendizaje a través de plataformas en línea y herramientas de enseñanza adaptativas. En un país tan diverso como México, con una amplia variedad de idiomas y culturas, la IA ha ayudado a personalizar la educación para satisfacer las necesidades individuales de los estudiantes, promoviendo la inclusión y la igualdad de oportunidades. En este sentido y culturalmente, la IA ha inspirado una amplia gama de obras de arte, música y literatura. Desde películas como "Ex Machina" hasta libros como "El juego de Ender" de Orson Scott Card, la IA ha capturado la imaginación de escritores, directores y artistas de todo el mundo. Además, la IA ha sido una fuente de inspiración para muchos músicos y artistas, que han utilizado la tecnología para crear obras de arte innovadoras y emocionantes. Hablando de términos económicos, la IA ha tenido un impacto significativo en la forma en que trabajamos y hacemos negocios. En el ámbito laboral, la automatización impulsada por la IA ha transformado numerosas industrias, desde la manufactura hasta la atención médica y el transporte. Si bien la automatización ha aumentado la eficiencia y reducido los costos en muchos casos, también ha planteado interrogantes sobre el futuro del empleo y la necesidad de reentrenamiento y reconversión laboral.
+Sin embargo, el impacto de la inteligencia artificial en la sociedad mexicana no está exento de desafíos y preocupaciones. La automatización impulsada por la IA plantea interrogantes sobre el futuro del empleo, especialmente en sectores tradicionales como la agricultura y la manufactura, donde muchos trabajadores podrían enfrentarse a la obsolescencia laboral. Además, existen preocupaciones éticas y sociales en torno al uso de la IA, incluida la privacidad de los datos, el sesgo algorítmico y la falta de transparencia en los sistemas de IA. En México, como en otros lugares del mundo, es fundamental establecer marcos regulatorios sólidos y promover un debate público informado para garantizar que la inteligencia artificial se utilice de manera ética y responsable.
+En conclusión, el desarrollo de la inteligencia artificial ha tenido un impacto significativo en la sociedad mexicana, desde mejoras en la economía y la atención médica hasta nuevas formas de aprendizaje y enseñanza. Sin embargo, es importante abordar los desafíos y preocupaciones asociados con la IA para garantizar que sus beneficios se distribuyan de manera justa y equitativa en toda la sociedad.
+
+
+Principales usos de la IA en nuestra vida diaria
+https://www.universidadunie.com/blog/usos-ia-vida-cotidiana
+
+
+Hace unos años apenas la conocíamos, pero ahora, la inteligencia artificial (IA) está cada vez más presente en muchos aspectos de nuestra vida cotidiana, muchas veces incluso de manera imperceptible. Mismamente en nuestra propia casa podemos encontrar este tipo de tecnología en asistentes virtuales como Siri, Alexa y Google Assistant. Estos asistentes utilizan IA para comprender comandos de voz, responder preguntas y controlar dispositivos del hogar inteligente, facilitando tareas diarias como establecer recordatorios, reproducir música y proporcionar actualizaciones del clima​​​​.
+Pero no solo encontramos IA en nuestros hogares. Esta tecnología se extiende a muchos otros ámbitos, como las recomendaciones personalizadas en plataformas de streaming y compras online, el reconocimiento facial, los sistemas de navegación y transporte inteligente. En este artículo te lo contamos con más detalle, explorando cómo la IA está transformando nuestra vida diaria y dónde puedes encontrarla en acción​​​​​​.
+Si este campo te interesa y quieres aprender más sobre la digitalización de procesos empresariales, el Blockchain, la Ciberseguridad o el Internet de las Cosas (IoT), aparte de la inteligencia artificial, en UNIE Universidad ofrecemos el grado en Ingeniería Informática donde además de adquirir conocimientos prácticos, aprenderás a aplicarlos en la realidad de las organizaciones.
+Aplicaciones de la inteligencia artificial en la vida cotidiana
+Recomendaciones personalizadas en plataformas de streaming y compras online
+Las plataformas de streaming como Netflix y Spotify, así como los sitios de compras online como Amazon, utilizan algoritmos de IA para ofrecer recomendaciones personalizadas. Estos sistemas analizan tus preferencias y comportamientos previos para sugerir contenido y productos que podrían interesarte. Esto no solo mejora la experiencia del usuario, sino que también ayuda a descubrir nuevas películas, series, canciones y productos que de otra manera podrías haber pasado por alto​​​​.
+Reconocimiento facial y de voz en dispositivos móviles
+El reconocimiento facial se ha convertido en una característica común en muchos teléfonos inteligentes, permitiendo a los usuarios desbloquear sus dispositivos de manera segura y rápida con solo mirarlos. Asimismo, el reconocimiento de voz mejora la interacción con aplicaciones y servicios, facilitando tareas como dictar mensajes, buscar información en la web y controlar funciones del dispositivo sin necesidad de tocarlo​​​​.
+Sistemas de navegación y transporte inteligente
+Aplicaciones de navegación como Google Maps y Waze utilizan IA para proporcionar actualizaciones de tráfico en tiempo real, sugerir rutas alternativas y predecir tiempos de llegada. Estas aplicaciones analizan datos de millones de usuarios para optimizar rutas y evitar congestiones, haciendo que los desplazamientos sean más eficientes y menos estresantes. Además, la IA está siendo incorporada en vehículos autónomos y sistemas de transporte público para mejorar la seguridad y la eficiencia del transporte​​​​.
+Usos innovadores de la IA que no imaginabas
+Diagnóstico médico y análisis de imágenes médicas
+La inteligencia artificial está revolucionando la medicina, especialmente en el diagnóstico y análisis de imágenes médicas. Herramientas de IA pueden detectar enfermedades como el cáncer de mama en mamografías con una precisión más rápida y precisa que los métodos tradicionales. Además, la IA ayuda a los radiólogos a identificar anomalías en escáneres y resonancias magnéticas, mejorando el diagnóstico y tratamiento de los pacientes​​​​.
+Agricultura de precisión y monitoreo de cultivos
+En la agricultura, la IA se utiliza para optimizar el rendimiento de los cultivos. Los agricultores emplean drones y sensores que recogen datos sobre las condiciones del suelo, la humedad y la salud de las plantas. Estos datos son analizados por algoritmos de IA para tomar decisiones informadas sobre el riego, la fertilización y la detección temprana de plagas o enfermedades, lo que aumenta la productividad y reduce el uso de recursos​​​​.
+Creación de arte y música mediante algoritmos
+La creatividad no es exclusiva de los humanos. Los algoritmos de IA están creando arte y música muy innovadores. Programas como DeepArt y MuseNet generan obras de arte visual y composiciones musicales que pueden competir con las creadas por artistas humanos. Estas herramientas analizan vastas cantidades de datos artísticos y musicales para aprender estilos y técnicas, permitiendo la creación de piezas originales y únicas​​​​.
+Predicción de desastres naturales
+La IA también juega un papel crucial en la predicción y gestión de desastres naturales. Sistemas avanzados pueden analizar datos meteorológicos y sísmicos para predecir eventos como terremotos, huracanes e inundaciones con mayor precisión. Esto permite a las autoridades tomar medidas preventivas y prepararse mejor para mitigar los efectos de estos desastres, salvando vidas y reduciendo daños materiales​​​​.
+Impacto de la inteligencia artificial en la sociedad y el medio ambiente
+Monitoreo ambiental y conservación de recursos naturales
+La inteligencia artificial se utiliza para monitorear el medio ambiente y ayudar en la conservación de los recursos naturales. Por ejemplo, los sensores y drones equipados con IA pueden recopilar datos sobre la calidad del aire y el agua, así como sobre la biodiversidad en diversas áreas. Estos datos son analizados para detectar cambios y problemas ambientales, permitiendo a los científicos y autoridades tomar decisiones informadas para proteger el entorno natural​​​​.
+Mejora en la eficiencia energética y reducción de emisiones
+La IA también juega un papel crucial en la mejora de la eficiencia energética y la reducción de emisiones de carbono. Los sistemas de gestión de energía basados en IA optimizan el uso de energía en edificios y hogares, ajustando automáticamente la iluminación y la climatización según las necesidades reales. Además, las redes eléctricas inteligentes utilizan IA para equilibrar la oferta y la demanda de energía, reduciendo el desperdicio y las emisiones asociadas​​​​.
+Soluciones para ciudades inteligentes (smart cities)
+En las ciudades inteligentes, la inteligencia artificial se utiliza para mejorar la infraestructura urbana y la calidad de vida de los habitantes. Por ejemplo, los sistemas de tráfico inteligentes gestionan el flujo de vehículos para reducir atascos y mejorar la seguridad vial. También se utilizan tecnologías de IA para gestionar los servicios públicos, como el suministro de agua y electricidad, haciendo que sean más eficientes y sostenibles​​​​.
+Educación personalizada y tutoría inteligente
+En el ámbito educativo, la IA ofrece soluciones para una enseñanza más personalizada. Las plataformas de aprendizaje en línea utilizan algoritmos de IA para adaptar los contenidos educativos a las necesidades y el ritmo de cada estudiante. Además, los sistemas de tutoría inteligente pueden proporcionar ayuda adicional a los estudiantes en áreas donde tienen dificultades, mejorando su comprensión y rendimiento académico​​​​.
+Si te interesa este campo, en UNIE Universidad ofrecemos un Máster Universitario en Tecnología Educativa Online cuyo contenido está muy relacionado con la transformación tecnológica a las aulas y diseñado para ponerte al día en base al Marco de Referencia de la Competencia Digital Docente de 2022.
+Según un estudio de McKinsey & Company, se espera que la IA contribuya con hasta $13 billones de dólares a la economía global para 2030, impulsando la productividad y la innovación en diversos sectores​​. Este crecimiento está acompañado por avances en la personalización de la educación, la optimización de la eficiencia energética, y la creación de ciudades inteligentes más sostenibles. Sin embargo, a medida que la IA continúa evolucionando, es crucial gestionar su desarrollo de manera ética y equitativa para maximizar sus beneficios y mitigar posibles riesgos​​​​.
+
+
+Qué es la Inteligencia Artificial y cómo influye en nuestra vida
+https://www.enae.es/blog/la-inteligencia-artificial-en-la-vida-cotidiana
+Evolución de la Inteligencia Artificial
+Desde la Antigüedad, la especie humana ha soñado con la máquina, con diseñar y construir ingenios que le hicieran más fáciles las tareas más frecuentes. Incluso para el mero entretenimiento se desarrollaron mecanismos autómatas que reproducían figuras de seres vivos y realizaban movimientos de forma repetitiva.
+A finales del siglo XV personajes como Leonardo da Vinci esbozaron nuevos artificios, pero no consta que llegaran a materializarse. En cambio, en el XVII y XVIII no solo se proyectaron, si no que se construyeron. Fue finalmente en el XX cuando la robótica comenzó a extenderse enfocada hacia la actividad industrial.
+Además de la industria, las máquinas, transformaron otras actividades económicas y de la vida más allá de lo laboral. Y sin embargo, la auténtica revolución se produjo cuando el hombre afrontó el reto de aportar a los ingenios la capacidad de aprender, de razonar como podría hacerlo la especie humana, sacar sus propias conclusiones y actuar de forma autónoma.
+Muy lejos de imaginar a los robots humanoides de las películas de ficción, la ciencia –especialmente la informática- ha desarrollado otros ‘cerebros’.
+Pero vayamos por partes. La palabra robot tiene un origen checo y el primero en utilizarla fue el escritor Karel Capek en 1921 (ahora se cumple un siglo de su acuñación) y en su lengua original significa servidumbre o trabajo forzado. Por tanto, el robot es aquello destinado a realizar las tareas más duras al servicio del hombre.
+La robótica, por tanto, era mecánica y física; pero si se le aplica electrónica, matemáticas e informática aparece un nuevo tipo de robótica que ya tiene inteligencia, artificial, pero inteligencia. Como se ha descrito, los nuevos ingenios ya interpretan datos y situaciones; analizan problemas y aplican soluciones.
+Desde la década de los cuarenta del siglo pasado existe la computación, que no deja de ser una programación para que una máquina responda a una tarea previamente planificada. La Inteligencia Artificial (IA) va más allá y esa misma programación enseña a la máquina a dar sus propias respuestas tanto con los datos que se le han introducido como con la interacción con los usuarios y aplica el autoaprendizaje. Así, la definición de Inteligencia Artificial podría ser: Simulación de la inteligencia humana por parte de las máquinas.
+Un reto en este tipo de programación lo propuso en 1950 el matemático Alan Turing. “Un sistema es lo suficientemente inteligente si consigue hacerse pasar por humano ante las preguntas de un juez”. Este británico está considerado como uno de los padres de la computación, quien destacó por valorar que la categoría de una máquina podría juzgarse por su capacidad para responder como lo haría un humano. Es decir, no podría distinguirse entre una y otra.
+Ejemplos
+En la vida diaria hay cientos de ejemplos de inteligencia artificial aunque no seamos conscientes de ello, desde la ubicación de los productos en el lineal de un supermercado a un coche autónomo. Veamos algunos de ellos.
+La vivienda inteligente
+Los termostatos para la refrigeración ya son inteligentes. Han tomado conocimiento de las personas que ocupan la zona, de la temperatura exterior y de cuáles son nuestras preferencias. El ‘cerebro’ del regulador dictará las órdenes precisas al sistema de calefacción o de frío para bajar o subir temperaturas.
+Asimismo en las viviendas, distintos sensores graban nuestras costumbres y la IA encenderá automáticamente la luz cuando sea la hora de levantarnos, nos recordará la toma de medicación o avisará a un sistema de emergencia si una persona no sigue sus pautas habituales.
+Asimismo, soltamos un artilugio al suelo (la aspiradora) y reconoce su espacio, sabe dónde está. Ha ‘memorizado’ previamente la sala y en su ‘cerebro’ ha introducido longitudes, mobiliario, alfombras. Es capaz de hacer su trabajo sobre un plano previamente elaborado por ella misma. Su dispositivo es inteligencia artificial.
+Los algoritmos son fundamentales para realizar estas tareas. La Real Academia de la Lengua define algoritmo como: “Conjunto ordenado y finito de operaciones que permite hallar la solución de problema”. O, lo que es lo mismo, los ‘casos’ que se ha enseñado a la computadora para que actúe de forma autónoma.
+Correo electrónico
+El ‘simple’ email es otro caso de IA. La mayoría de los servicios de correo electrónico reconocen e identifican correos no deseados y spam, saben cuáles serán aceptador por el receptor y cuáles seleccionan para dirigirlos a carpetas no principales.
+Las relaciones virtuales
+Las redes sociales monitorean a tiempo real nuestras preferencias, nuestros gustos, el perfil de nuestros contactos. Con estos datos nos van a sugerir ‘amistades’ o perfiles a los que seguir, nos van a hacer recomendaciones y lo que aún sorprende: nos van a presentar publicidad individualizada sobre productos o servicios que hemos buscado en algún momento.
+Para ello, el sistema se basa en nuestra emocionalidad y sitios web que hayamos visitado. Un sistema de Inteligencia Artificial puede redirigirnos a los estrenos de películas de nuestros géneros preferidos porque nos ha hecho un seguimiento de búsqueda.
+Música, cine, ocio
+El ocio es uno de los espacios preferidos por la Inteligencia Artificial. No es ocio, si no nuestro ocio. ¿Cómo? Sabe qué vemos a través de Netflix, HBO, etc…. también lo que escuchamos en Spotify. ¿Cómo es posible que nos ofrezca pop, rock, latinoamericano, folclore o melódica? Un servidor nos sigue y analiza preferencias, conoce cuáles son nuestras descargas, sabe lo que escuchamos y en su Inteligencia Artificial ‘piensa’ qué nos gusta para ofrecérnoslo… es cierto que nos ofrece un servicio, pero también publicidad.
+Los buscadores
+¿Y Google?... Ésta sería la ‘madre de casi todos los corderos’. Es uno de los grandes ejemplos de la Inteligencia Artificial en la vida cotidiana. No solo predice nuestras búsquedas (buscador), sino que también lo utiliza en su correo electrónico, en la aplicación de Mapas, en Ads (anuncios), en la búsqueda de sinónimos, de palabras similares, etc.
+El ecommerce
+El comercio electrónico, la venta por Internet, llegó, incluso igualó al presencial y lo superó durante el confinamiento. ¿Qué es, en qué se fundamenta? ¿Cómo es posible que nuestro ordenador personal sepa lo que vamos a buscar? Respuesta: Inteligencia artificial. Los ecommerce a los que recurrimos han recopilado información sobre nuestros hábitos y nos van a personalizar la oferta.
+Como si fuera George Orwel y su novela ‘1984’ (escrita 35 años antes, en 1949), la red de redes (Internet) es el Gran Hermano que todo lo sabe y todo lo vigila. Y hoy habría que decir, todo lo interpreta y se adelanta a nuestra orden, incluso a nuestro pensamiento.
+Diagnósticos médicos
+En la medicina, una máquina es capaz de hacer un diagnóstico bastante preciso conociendo qué dolencias, síntomas y analítica presentamos. De esta manera, muchos tratamientos nos pueden venir impuestos si el ingenio sabe cuál es nuestro perfil, morfología y/o ADN.
+El GPS
+El GPS ya no se comunica solo con una serie de satélites y triangula nuestra ubicación. Ahora también conoce dónde hemos estado y, posiblemente, dónde vamos a ir. Ha reconocido nuestras rutas, hábitos y otras costumbres. Sabrá dirigirnos… pero hemos perdido el anonimato.
+Asistentes de voz
+Los nombres Siri, Cortana, Alexa y otros más son comunes en nuestra vida. Los hemos incorporado al día a día. Les llamamos y nos responden desde un altavoz inteligente. Son asistentes de voz capaces de procesar lenguajes naturales (PLN) interpretar la orden dada o la pregunta hecha y nos reproducirá música o nos leerá un boletín meteorológico.
+El teléfono
+Los teléfonos inteligentes también cuentan con este tipo de tecnología, ya no exclusivamente como asistentes de voz si no en un sinfín de aplicaciones. Por ejemplo, las aplicaciones para realizar fotografías son capaces de identificar los encuadres más adecuados si te realizas un selfie.
+La IA en el supermercado
+La Inteligencia Artificial también está detrás del orden en los lineales de los supermercados. Los sistemas instalados por las principales cadenas de distribución han estudiado nuestros hábitos de consumo, días de compra, horarios, preferencias, recorridos por los establecimientos. Con estos y otros tantos datos más, la IA diseña las pautas para colocar los productos en los distintos pasillos, a la entrada o al fondo e incluso la altura a la que debe ponerse en las estanterías.
+Y, al igual que facilita la experiencia de compra al consumidor, la IA optimiza la gestión de los stock. Asimismo, la incorporación de asistentes virtuales permite durante la compra recibir sugerencias personalizadas, ofertas y hasta nos puede diseñar una ruta por el interior del supermercado.
+Atención al cliente, los chatbots
+Los chatbots son, por último, otro ejemplo de Inteligencia Artificial. Estos robots virtuales simulan a un ser humano durante una conversación, por lo que se han convertido prácticamente en indispensables en los servicios de atención al cliente. Pueden mantener distintas conversaciones al mismo tiempo y suponen un gran ahorro en personal.
+En el ámbito profesional y/educativo
+En el plano profesional o académico, la IA permite optimizar los procesos. Es decir, puede generar textos, interpretar datos, recopilar información,...o automatizar multitud de acciones para reducir costes y tiempo. En definitiva, es una excelente herramienta para apoyar el desempeño. 
+Uno de los factores fundamentales para obtener el máximo rendimiento de la Inteligencia Artificial, radican en la formación, un instrumento esencial para saber cómo explotar esta tecnología y obtener ventajas competitivas optimizando procesos, automatizando tareas, creando nuevas líneas de negocio, etc. En ENAE contamos con módulos sobre Inteligencia Artificial dentro de varios de nuestros programas formativos, como el Máster Internacional en Marketing Digital con Mención en Inteligencia Artificial
+
+
+
+
+Inteligencia Artificial Generativa: Qué es, aplicaciones y ejemplos
+
+
+https://www.thecoreschool.com/blog/ia-generativa/#:~:text=%C2%BFQu%C3%A9%20es%20la%20IA%20Generativa,%2C%20m%C3%BAsica%2C%20videos%20y%20m%C3%A1s.
+
+
+La inteligencia artificial generativa (IA generativa) está revolucionando el mundo de una manera que hasta hace poco parecía sacada de la ciencia ficción. Ya no se trata solo de que las máquinas analicen datos: ahora también pueden crear contenido, como si tuvieran creatividad propia. Hablamos de textos, imágenes, música, código, videos y diseños que antes solo podían surgir de una mente humana.
+Su presencia se está haciendo sentir en todos lados: desde el entretenimiento y la moda, hasta el marketing y el desarrollo de software. Lo interesante es cómo está cambiando la forma en que trabajamos, creamos e innovamos. Empresas más ágiles, diseñadores con nuevas herramientas en sus manos, y programadores que ahora tienen un copiloto inteligente ayudándolos a construir más rápido y mejor. La IA generativa no solo está transformando industrias; está dando forma a una nueva era creativa.
+¿Qué es la IA Generativa?
+La inteligencia artificial generativa es una subcategoría de la inteligencia artificial que se centra en crear contenido a partir de datos ya existentes. A diferencia de otras IA que clasifican, ordenan o predicen, esta genera nuevas creaciones: textos, imágenes, música, videos y más.
+Su funcionamiento se basa en aprender patrones de grandes volúmenes de datos y, posteriormente, generar resultados que parecen creados por humanos. Esta tecnología ha evolucionado rápidamente y se integra cada vez más en herramientas cotidianas y procesos creativos.
+Si quieres ser un experto en IA generativa, una excelente opción es formarte en nuestro Máster en Comunicación Digital, donde podrás conocer a fondo cómo funcionan estos modelos y su aplicación en entornos reales.
+¿Cómo funciona la IA generativa?
+El núcleo de la IA generativa está formado por redes neuronales profundas y técnicas de aprendizaje automático como el deep learning. Los modelos se entrenan con grandes conjuntos de datos y aprenden a replicar patrones complejos.
+Entre los modelos más populares se encuentran:
+* GPT (Generative Pre-trained Transformer): Ideal para generar texto coherente y contextualizado.
+* GANs (Generative Adversarial Networks): Perfectas para generar imágenes, vídeos o incluso estilos artísticos.
+Estos sistemas aprenden, ajustan y refinan sus resultados para producir contenido que muchas veces es indistinguible del creado por humanos.
+Tipos de Inteligencia Artificial Generativa
+La IA generativa abarca una amplia variedad de aplicaciones, herramientas y formatos. Cada tipo de IA está diseñada para generar un tipo específico de contenido, y su uso varía según el contexto.
+Creación de textos con IA
+Modelos como GPT permiten generar artículos, guiones, descripciones de productos, correos electrónicos y más. Se utilizan en redacción automatizada, asistentes virtuales y herramientas de productividad. También son clave para personalizar contenido al usuario final y ahorrar tiempo en tareas repetitivas.
+Elaboración de código con inteligencia artificial
+Herramientas como Codex de OpenAI permiten escribir código, detectar errores y sugerir mejoras automáticamente. Esto revoluciona la forma en la que los desarrolladores crean software, aumentando la eficiencia y disminuyendo el margen de error. Además, estos sistemas pueden aprender estilos de programación específicos y adaptarse a diferentes lenguajes, siendo especialmente útiles en áreas como la programación para videojuegos, donde la rapidez y precisión en el desarrollo son clave para convertir una idea en una experiencia jugable.
+Imágenes con IA
+La IA generativa también es capaz de componer piezas musicales originales. Al analizar estructuras, armonías y estilos, puede generar música de fondo para videos, jingles publicitarios o incluso álbumes completos, según los parámetros dados. Se ha convertido en una herramienta valiosa para compositores, productores y creadores de contenido.
+Crea vídeos con IA
+La generación de videos con IA abarca desde la creación automática de guiones hasta la edición y producción visual. Estas tecnologías permiten generar animaciones, doblajes automáticos, efectos visuales y videos completos sin intervención humana directa. Se utilizan en cine, videojuegos, marketing y educación.
+IA generativa multimodal
+La IA multimodal combina distintos tipos de datos como texto, imágenes y sonidos. Por ejemplo, un sistema puede generar una imagen y una descripción coherente basada en una sola entrada. Este enfoque es ideal para aplicaciones en realidad aumentada, diseño de experiencias inmersivas, publicidad interactiva y contenido educativo personalizado.
+Aplicaciones prácticas de la IA Generativa
+Las aplicaciones reales de la IA generativa son amplias y crecen constantemente. Aquí te mostramos cómo está transformando algunos de los sectores más importantes: 
+* Empresas: Las empresas están adoptando la IA generativa para automatizar tareas administrativas, generar informes, redactar correos o construir presentaciones automáticamente. Además, permite personalizar experiencias para los clientes, mejorar los chatbots de atención al cliente y acelerar el desarrollo de nuevos productos mediante generación de prototipos.
+* Entretenimiento: En el entretenimiento, la IA se usa para escribir guiones, crear efectos especiales, generar personajes o música personalizada, y desarrollar videojuegos. Permite reducir costos, acortar tiempos de producción y crear contenido a medida para diferentes audiencias.
+* Marketing y publicidad: La IA generativa transforma el marketing digital, ya que permite crear anuncios automatizados, textos para redes sociales, imágenes atractivas y campañas completas en minutos. Además, ofrece segmentación precisa y personalización de mensajes según cada cliente.
+* Diseño y moda: En diseño y moda, la IA generativa permite crear nuevas colecciones, diseñar patrones únicos y generar logotipos o gráficos originales. También se usa para experimentar con nuevas combinaciones de estilo y color, ofreciendo soluciones creativas sin necesidad de intervención humana directa.
+Prompts en la inteligencia artificial generativa
+Un prompt es la entrada de texto que se le da al modelo de IA para que genere una respuesta o contenido. Es fundamental en sistemas como GPT, DALL·E o ChatGPT. Cuanto más claro, preciso y detallado sea el prompt, mejor será el resultado obtenido.
+Por ejemplo:
+* Prompt simple: “Escribe un poema sobre el mar.”
+* Prompt detallado: “Escribe un poema en tono nostálgico, con rima ABAB, sobre un marinero perdido en el mar.”
+La correcta formulación de prompts es clave para aprovechar el potencial creativo de estas herramientas.
+Ejemplos de IA Generativa
+Algunos ejemplos de uso actual de la IA generativa incluyen:
+* ChatGPT: Para atención al cliente mediante chatbots inteligentes, redacción de correos, tutorías educativas personalizadas y generación de ideas creativas para contenido.
+* DALL·E: Su uso se da en diseño de productos, ilustraciones para libros o producción visual para campañas publicitarias.
+* Codex: Se aplica en la creación rápida de prototipos de software, aplicaciones web y automatización de tareas repetitivas de programación.
+Riesgos de la IA Generativa
+Aunque sus beneficios son evidentes, la IA generativa también plantea desafíos éticos, de seguridad y sociales.
+Deepfakes
+Los deepfakes son uno de los principales riesgos: vídeos hiperrealistas generados por IA que hacen parecer que alguien dijo o hizo algo que nunca ocurrió. Se utilizan en campañas de desinformación, fraudes o incluso chantajes, y representan una amenaza para la confianza pública y la seguridad individual.
+Cibercrimen
+La IA generativa puede facilitar el phishing avanzado, creando correos falsos muy convincentes, o generar malware personalizado. Además, puede utilizarse para difundir noticias falsas o manipular contenido con fines maliciosos.
+Impacto laboral de la IA
+La automatización mediante IA generativa está cambiando el panorama laboral. Aunque crea nuevos empleos y aumenta la productividad, también reemplaza tareas humanas en áreas como redacción, diseño y programación. Esto exige una reformulación de las habilidades laborales y una adaptación rápida a nuevos roles.
+
+
+Genera texto, imágenes, código y más con la IA de Google Cloud
+https://cloud.google.com/use-cases/generative-ai?hl=es
+
+
+¿Qué es la IA generativa?
+
+
+La IA generativa o inteligencia artificial generativa hace referencia al uso de la IA para crear contenido, como texto, imágenes, música, audio y vídeos.
+La IA generativa se basa en modelos fundacionales, es decir, grandes modelos de IA, que pueden realizar varias tareas a la vez y llevar a cabo tareas preconfiguradas, como resúmenes, preguntas y respuestas, clasificación, etc. Además, al requerir una preparación mínima, los modelos básicos se pueden adaptar a casos prácticos concretos con muy pocos datos de ejemplo.
+
+
+¿Cómo funciona la IA generativa?
+La IA generativa usa un modelo de aprendizaje automático para aprender los patrones y las relaciones de un conjunto de datos de contenido creado por personas. A continuación, utiliza los patrones aprendidos para generar contenido.
+La forma más habitual de preparar un modelo de IA generativa es usar el aprendizaje supervisado, que es un conjunto de contenido creado por personas y las etiquetas correspondientes. A continuación, aprende a generar contenido similar al creado por personas y etiquetado con las mismas etiquetas.
+¿Cómo ha evolucionado la tecnología de IA generativa?
+La evolución de la IA generativa ha sido rápida y sigue cambiando. Los primeros modelos, como las cadenas de Márkov y las RNNs, sentaron las bases, pero a menudo tenían dificultades para generar resultados matizados y coherentes. Después, surgieron las redes generativas antagónicas (GAN), que ampliaron los límites de la creación de imágenes y produjeron elementos visuales sorprendentemente realistas. Sin embargo, las GANs no estaban exentas de desafíos, ya que a veces tenían problemas de estabilidad.
+La introducción de modelos basados en transformadores, como BERT y GPT, se considera un punto de inflexión. Estos modelos revolucionaron el procesamiento del lenguaje natural (PLN), ya que demostraron una capacidad sin precedentes para entender y generar texto similar al humano. Tras este éxito, GPT-2 y GPT-3 demostraron aún más el inmenso potencial de la IA generativa, cautivando al mundo con sus impresionantes capacidades de generación de texto.
+Por su parte, los autoencoders variacionales (VAE) y los modelos de difusión han avanzado en la síntesis de imágenes, lo que ha abierto nuevas posibilidades para las aplicaciones creativas. A medida que la IA generativa siga avanzando, el futuro será muy prometedor. Las investigaciones en curso se centran en mejorar la eficiencia y la interpretabilidad, así como en abordar las consideraciones éticas.
+
+
+Ética de la inteligencia artificial
+Gracias a su singular mandato sobre bioética, la UNESCO ha liderado durante décadas los esfuerzos internacionales para garantizar que la ciencia y la tecnología se desarrollen dentro de un marco ético.
+Ya se trate de la investigación genética, del cambio climático o de la investigación científica, la UNESCO ha elaborado normas universales para maximizar los beneficios de los descubrimientos científicos, minimizando al mismo tiempo los riesgos a la baja, garantizando su contribución a un mundo más inclusivo, sostenible y pacífico. También ha identificado retos fronterizos en ámbitos como la ética de la neurotecnología, la ingeniería climática y el Internet de las cosas.
+
+
+El rápido auge de la inteligencia artificial (IA) ha generado nuevas oportunidades a nivel global: desde facilitar los diagnósticos de salud hasta posibilitar las conexiones humanas a través de las redes sociales, así como aumentar la eficiencia laboral mediante la automatización de tareas.
+Sin embargo, estos rápidos cambios también plantean profundos dilemas éticos, que surgen del potencial que tienen los sistemas basados en IA para reproducir prejuicios, contribuir a la degradación del clima y amenazar los derechos humanos, entre otros. Estos riesgos asociados a la IA se suman a las desigualdades ya existentes, perjudicando aún más a grupos históricamente marginados.
