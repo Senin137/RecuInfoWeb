@@ -341,7 +341,7 @@ Sí, la información sobre el monto de 1,900 pesos y el objetivo de apoyar el tr
 
 Sí, el artículo se basa directamente en el boletín de prensa oficial y en las declaraciones hechas durante la conferencia matutina del 6 de febrero.
 
-*Link 8*
+*Link 9*
 
 *Relevancia*
 • ¿La información responde adecuadamente a la consulta?
@@ -383,3 +383,158 @@ Sí, confirma nuevamente el monto de $1,900 bimestrales y el enfoque exclusivo p
 
 Sí, este documento sintetiza lo que varios medios locales (como el del Link 7) publicaron ese día, concentrando la información en un solo archivo oficial.
 
+Relevancia:
+
+¿La información responde adecuadamente a la consulta?
+
+Sí, de manera muy directa. El artículo reporta específicamente el evento de entrega de las becas en el auditorio del Instituto Tecnológico de Morelia ocurrido alrededor del 9 de febrero de 2026.
+
+¿Aporta datos sustantivos o solo contenido descriptivo?
+
+Aporta datos sustantivos como el monto de 1,900 pesos bimestrales y menciona otros apoyos complementarios como la entrega de un chip con datos móviles para internet gratuito. También añade el anuncio de una convocatoria en marzo para un proyecto de red social mexicana.
+
+Autoridad:
+
+¿Quién emite la información?
+
+El medio periodístico digital Cambio de Michoacán.
+
+¿Tiene atribuciones formales para difundirla?
+
+Sí, tiene atribución periodística. Al ser un medio con trayectoria en el estado, actúa como cronista de los eventos gubernamentales y sociales locales.
+
+Sesgo informativo:
+
+¿El lenguaje es neutral o valorativo?
+
+Es mixto. Mantiene un tono informativo sobre el evento, pero utiliza lenguaje valorativo al calificar la beca como un "símbolo de justicia social" y resaltar que Michoacán es el "primer estado" con este tipo de apoyo universal para transporte.
+
+¿Se identifican actores políticos o autoridades específicas?
+
+Sí, identifica al gobernador Alfredo Ramírez Bedolla como la figura central del evento.
+
+¿Se utilizan elementos visuales recurrentes (colores, logotipos, nombres)?
+
+El sitio utiliza su propio diseño editorial, pero menciona y acredita fotografías de la Agencia de Comunicación Gráfica que capturan el acto institucional.
+
+Redundancia:
+
+¿Se repite la misma narrativa en múltiples fuentes?
+
+Sí, la narrativa del apoyo para aliviar gastos de transporte en estudiantes de colonias alejadas es consistente con los boletines de la SEP (Link 2) y el IEMSYSEM (Link 4).
+
+¿Existe replicación de contenido entre sitios distintos?
+
+Sí, la estructura de la noticia es similar a la de MiMorelia (Link 6), lo que refuerza que ambos medios cubrieron el mismo acto público en el Tecnológico.
+
+---
+
+***Parte 4***
+
+**Instituciones y actores recurrentes
+La difusión del mensaje no es aislada, sino que sigue una jerarquía clara de mando y repetición**:
+
+
+*Poder Ejecutivo Federal*: La Presidenta Claudia Sheinbaum funciona como la figura que otorga validez política y origen al programa dentro del "Plan Michoacán por la Paz y la Justicia".
+
+*Secretaría de Educación Pública* (SEP): El secretario Mario Delgado es el actor técnico recurrente encargado de explicar la cobertura y los montos.
+
+*Gobierno del Estado de Michoacán*: El gobernador Alfredo Ramírez Bedolla aparece en todas las fuentes como el ejecutor directo y responsable de la logística en territorio.
+
+*IEMSYSEM*: El instituto liderado por Mariana Sosa Olmeda actúa como el brazo operativo que comunica las fechas y sedes de entrega.
+
+*Coordinación Nacional de Becas*: Julio César León Trujillo es la fuente recurrente para cifras presupuestarias y la vinculación con otras becas como "Rita Cetina".
+
+**Plataformas que funcionan como nodos principales
+La estrategia utiliza tres niveles de plataformas para asegurar que el mensaje llegue a los estudiantes**:
+
+
+*Nodos Oficiales* (gob.mx): Funcionan como el repositorio de la verdad legal y técnica; son la fuente primaria de donde beben los demás canales.
+
+*Redes Sociales* (Facebook/X): Utilizadas como nodos de notificación inmediata. La página del Gobierno de Michoacán sirve para publicar evidencia visual (fotos) de las entregas, lo que genera certidumbre en los beneficiarios.
+
+*Instituciones Educativas* (Nodos de destino): El Tec de Morelia, la UMSNH y la UTM funcionan como el punto de contacto final donde el mensaje se vuelve acción (la entrega física).
+
+**Mecanismos de amplificación del mensaje
+Se identifican tres formas en las que el mensaje se vuelve masivo**:
+
+*Redundancia de Datos*: Todas las fuentes, desde el boletín técnico hasta la nota de prensa local, repiten sin variaciones el monto de $1,900 bimestrales y el enfoque en transporte, lo que evita la desinformación.
+
+*Efecto de Eco en Medios Locales*: Portales como MiMorelia o Cambio de Michoacán amplifican la información oficial, dándole un matiz de noticia comunitaria que facilita su difusión entre alumnos y padres de familia.
+
+*Simbología Política*: El uso de nombres históricos como Gertrudis Bocanegra y el nombre del plan ("Paz y Justicia") ayuda a que el mensaje sea más recordable y se asocie a una identidad regional y nacional específica.
+
+---
+
+**Parte 5**
+
+• ***¿La difusión analizada cumple un fin informativo o rebasa hacia lo promocional?***
+
+La difusión es híbrida. Aunque cumple con informar fechas (febrero 2026) , montos ($1,900 bimestrales) y sedes (Tec de Morelia) , rebasa lo informativo al utilizar frases como "un abrazo que les manda la Presidenta" o vincular el éxito del programa a la "Transformación". Este lenguaje adjetivado otorga al mensaje un carácter predominantemente promocional.
+
+• ***¿Se mantiene la neutralidad institucional exigida por el Artículo 134?***
+
+La neutralidad se ve comprometida. Se identifica una personalización constante al atribuir el beneficio a figuras específicas (Claudia Sheinbaum y Alfredo Ramírez) en lugar de presentarlo como un derecho público impersonal. La propaganda incluye imágenes y nombres de servidores públicos vinculados directamente a la entrega del apoyo , lo cual entra en tensión con la prohibición de promoción personalizada dictada por el Artículo 134.
+
+• ***¿Se identifican posibles riesgos de uso no neutral de espacios o recursos institucionales?***
+
+Se identifican tres riesgos principales:
+
+Apropiación política: Presentar el programa como un logro de administración ("Plan Michoacán") y no como una política de Estado permanente.
+
+Instrumentalización de espacios: El uso de auditorios universitarios (como el del Tec de Morelia) para eventos que resaltan la imagen del gobernante ante la comunidad estudiantil.
+
+Ambigüedad digital: El uso de hashtags y lemas gubernamentales en redes sociales institucionales que desdibujan la frontera entre información pública y propaganda política.
+
+---
+
+**Parte 6**
+
+***Análisis de la Actividad: Feria de la Salud***
+
+*Tipo de evento*: Se trata de una jornada de salud preventiva y servicios de bienestar social. En este marco, se destaca la instalación de un módulo de vacunación contra el sarampión.
+
+*Actores participantes*:
+
+*Instituciones Educativas*: El Tecnológico de Morelia (como sede y participante) y la Universidad Michoacana de San Nicolás de Hidalgo (UMSNH).
+
+*Autoridades de Salud*: La Secretaría de Salud de Michoacán (SSM), que coordina los esquemas de vacunación.
+
+*Forma de difusión*: El evento se difunde principalmente a través de medios digitales locales (como el diario Cambio de Michoacán) y portales de noticias institucionales que detallan la ubicación y el propósito de los módulos
+
+---
+
+**Parte 7**
+
+**Conclusión Técnica del Análisis de Información
+Calidad y efectividad de las consultas**
+
+Las consultas empleadas demostraron una alta efectividad operativa al utilizar operadores avanzados como site: y filetype:. Esta segmentación permitió filtrar el ruido informativo de redes sociales y blogs secundarios, logrando el acceso a documentos de alto valor técnico como la SÍNTESIS EJECUTIVA del Congreso de Michoacán y versiones estenográficas presidenciales. La precisión en el uso de términos específicos (como "Bocanegra" en lugar de "Sánchez") resultó determinante para obtener datos exactos sobre la logística en el Tec de Morelia.
+
+***Diversidad y confiabilidad de las fuentes
+Se logró una triangulación de información a través de una matriz de fuentes diversa***:
+
+*Fuentes Primarias*: Portales oficiales de la SEP y Presidencia de la República que establecen el marco normativo.
+
+*Fuentes Operativas*: El sitio del IEMSYSEM que detalla la ejecución local.
+
+*Fuentes Secundarias*: Medios de comunicación locales (MiMorelia, Cambio de Michoacán) que funcionan como testigos del despliegue en campo. Esta diversidad garantiza la confiabilidad, ya que las cifras de inversión ($769 MDP) y montos ($1,900) son consistentes en todos los registros.
+
+***Patrones de difusión detectados
+El ecosistema informativo sigue un patrón de jerarquía vertical y replicación horizontal***:
+
+*Jerarquía*: El mensaje nace en el nivel federal (Presidencia/SEP), se adapta al nivel estatal (Gobierno de Michoacán) y se ejecuta en nodos locales (Tec de Morelia).
+
+*Replicación*: Los nodos principales (redes sociales institucionales) emiten fragmentos de información que son amplificados por medios locales, manteniendo una narrativa unificada centrada en el "acompañamiento educativo" y la "justicia social".
+
+***Recuperación de información y neutralidad institucional***
+
+El proceso de recuperación reveló una tensión significativa con el Artículo 134 Constitucional. Mientras que la información técnica es recuperable, está frecuentemente envuelta en narrativas de promoción personalizada. El uso de frases valorativas como "un abrazo de la Presidenta" o la centralización de las entregas en la figura del Gobernador indica que la difusión institucional prioriza la vinculación del beneficio con actores políticos específicos sobre la neutralidad puramente informativa.
+
+***Limitaciones del análisis realizado***
+
+*Temporalidad*: El análisis se basa en un corte informativo específico (febrero 2026), por lo que no puede prever cambios en las reglas de operación futuros.
+
+*Acceso a datos privados*: No fue posible analizar métricas de interacción interna o comentarios en redes sociales protegidas (como perfiles cerrados de alumnos), lo que limita la comprensión del impacto real en la percepción del estudiante.
+
+*Alcance Geográfico*: El enfoque principal se mantuvo en Morelia; la efectividad de la difusión en zonas rurales o alejadas de Michoacán podría presentar patrones distintos de recuperación de información
