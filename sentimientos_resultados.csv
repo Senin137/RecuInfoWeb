@@ -1,0 +1,101 @@
+texto,sentimiento,probabilidad
+El autocompletado de este IDE es bastante lento cuando el proyecto supera los mil archivos.,neg,0.9001191958702819
+La nueva actualización de la extensión de Python arruinó la indentación automática.,neg,0.9093609363566686
+Es increíble lo fácil que es configurar un entorno virtual con esta herramienta.,pos,0.9963771114816977
+El compilador tardó 45 segundos en generar el binario final.,neu,0.7610604172163138
+No entiendo por qué quitaron el botón de acceso rápido al depurador en esta versión.,neg,0.872892231717317
+Me encanta que ahora se integre nativamente con Git sin necesidad de plugins extra.,pos,0.9972758425510166
+El modo oscuro de la interfaz tiene un contraste excelente para trabajar de noche.,pos,0.9983637225396369
+"Siempre que intento abrir un archivo CSV muy grande, el editor se queda congelado.",neg,0.8245365479738658
+"La refactorización de código se hace casi de manera mágica, me ahorra horas.",pos,0.9992795037712934
+El log de errores muestra un mensaje hexadecimal que no ayuda en nada a resolver el problema.,neg,0.9723509107053357
+Para esta práctica utilizaremos el framework de React en el frontend.,neu,0.9778954741130756
+La documentación oficial está desactualizada respecto a la última versión estable.,neu,0.8399145421159865
+Pude resolver el bug de concurrencia gracias a la herramienta de profiling.,neg,0.5566373379786828
+El atajo de teclado para comentar bloques de código dejó de funcionar tras actualizar.,pos,0.5549562164509761
+"El consumo de RAM del entorno de desarrollo no baja de los 4GB, es excesivo.",neg,0.8363953774090812
+"La sintaxis del lenguaje es muy limpia, pero la curva de aprendizaje del framework es empinada.",neg,0.39143230869849577
+Logré implementar el algoritmo de búsqueda en grafos sin utilizar recursividad.,neu,0.6248887306391311
+El soporte técnico del IDE tardó tres semanas en responder mi ticket.,neg,0.7089754946524945
+"Configurar el linter por primera vez es tedioso, aunque después vale la pena.",pos,0.4566248729244324
+Se requiere una versión de Node igual o superior a la 18.x para ejecutar el script.,neu,0.9995662917908701
+El descriptor SIFT detectó los puntos clave perfectamente incluso con cambios de iluminación.,neg,0.39143230869849577
+El modelo de Deep Learning requiere demasiada capacidad de cómputo para lo que hace.,pos,0.4880101630471082
+Entrenar esta red neuronal tomó 14 horas continuas en la GPU.,neu,0.634267825221955
+Prefiero usar técnicas clásicas de visión por computadora porque son más predecibles matemáticamente.,neg,0.39143230869849577
+La librería de OpenCV falló al intentar abrir el flujo de video de la cámara web.,neg,0.39143230869849577
+"El dataset original contiene 5,000 imágenes etiquetadas manualmente.",neu,0.9990570167057644
+Increíble la precisión que logramos en la detección de bordes usando el filtro de Canny.,pos,0.6155012042189187
+El ruido gaussiano en las imágenes médicas está afectando la etapa de segmentación.,neu,0.6248887306391311
+El script de preprocesamiento normaliza los píxeles a valores entre 0 y 1.,neu,0.634267825221955
+Los resultados del artículo no son reproducibles porque no publicaron los hiperparámetros.,neg,0.720216606498195
+"La API de reconocimiento facial es rapidísima, aunque falla con personas usando mascarilla.",neg,0.5566373379786828
+Extraer las características usando SURF fue mucho más eficiente que intentar una red convolucional.,neg,0.39143230869849577
+El accuracy del modelo se estancó en 82% sin importar cuántas épocas más lo entrene.,neu,0.7610604172163138
+Me fascina la elegancia matemática detrás de las transformadas de Hough.,neg,0.39143230869849577
+La función de binarización de Otsu calculó el umbral incorrecto para este lote de fotos.,neg,0.39143230869849577
+Reducir la dimensionalidad con PCA mejoró notablemente el tiempo de inferencia.,neg,0.39143230869849577
+El clasificador SVM separó las clases con un margen muy claro.,neg,0.39143230869849577
+La matriz de confusión muestra demasiados falsos positivos en la clase minoritaria.,neg,0.39143230869849577
+El tutorial sobre detección de blobs está muy bien explicado paso a paso.,neg,0.39143230869849577
+"Al exportar el modelo a ONNX, el tamaño del archivo se redujo a la mitad.",neg,0.39143230869849577
+La base de datos relacional completó la migración sin pérdida de registros.,neg,0.5566373379786828
+El query de SQL está haciendo un escaneo completo de la tabla y colapsando el servidor.,pos,0.8663583349754683
+"Excelente latencia en los servidores de la región este, apenas 12ms.",pos,0.9770044217214263
+Intentar configurar los contenedores de Docker en Windows sigue siendo un dolor de cabeza.,pos,0.4566248729244324
+El balanceador de carga distribuyó el tráfico equitativamente durante el pico de usuarios.,neg,0.39143230869849577
+La API REST responde con un error 500 intermitente que nadie sabe explicar.,neg,0.7901340053050232
+"Me gusta la interfaz de administración del clúster, pero le faltan opciones de monitoreo en tiempo real.",pos,0.6155012042189187
+El backup automático se ejecuta todos los días a las 3:00 AM.,neu,0.9987459582323511
+Perdimos dos horas de producción porque el certificado SSL expiró y no hubo alerta.,neg,0.995780314323894
+La arquitectura de microservicios hizo que el despliegue fuera extremadamente ágil.,neg,0.39143230869849577
+No puedo creer que sigan guardando las contraseñas en texto plano en la base de datos.,neg,0.720216606498195
+El servicio de mensajería asíncrona procesó un millón de eventos por minuto sin problemas.,neg,0.5566373379786828
+"La conexión al servidor SSH se cierra por timeout cada cinco minutos, es frustrante.",pos,0.6155012042189187
+El caché de Redis redujo el tiempo de carga de la página de inicio en un 80%.,neu,0.7610604172163138
+El script de automatización borró accidentalmente el directorio de configuraciones.,neg,0.8825460480360254
+Desplegar la aplicación en la nube fue mucho más caro de lo que habíamos presupuestado.,neg,0.39143230869849577
+La migración a GraphQL simplificó muchísimo las consultas desde las aplicaciones móviles.,neg,0.39143230869849577
+El uso de CPU del servidor de base de datos se mantiene estable en 45%.,neu,0.992497088122728
+Restaurar el sistema desde el último snapshot fue rápido e intuitivo.,neg,0.39143230869849577
+Las políticas de CORS en este servidor están configuradas de manera demasiado restrictiva.,pos,0.9417618206326313
+La rúbrica del proyecto final no especifica si debemos incluir pruebas unitarias.,neg,0.720216606498195
+El profesor explicó maravillosamente el concepto de complejidad algorítmica.,neg,0.39143230869849577
+La impresora 3D se atascó a mitad de la noche y arruinó una pieza de 10 horas.,neu,0.4729393060878358
+El laminador Cura generó unos soportes imposibles de remover sin romper el modelo.,neg,0.39143230869849577
+Las instrucciones de la práctica de laboratorio están llenas de ambigüedades.,neu,0.6248887306391311
+Me sorprende la calidad del acabado superficial al imprimir con PETG a esta temperatura.,neg,0.39143230869849577
+Reparar el archivo STL con MeshLab fue súper sencillo y rápido.,neg,0.39143230869849577
+El examen parcial abarcará desde el capítulo 1 hasta el 4 del libro de texto.,neu,0.9973129286078989
+El sistema de gestión escolar se cae siempre en temporada de inscripciones.,neg,0.39143230869849577
+Me encantó cómo el asesor de tesis estructuró el cronograma de investigación.,pos,0.6155012042189187
+La presentación sobre descriptores visuales me ayudó a entender por qué no todo es Deep Learning.,neg,0.8331234256926954
+"El aula virtual no permite adjuntar archivos mayores a 5MB, lo cual es inútil para código compilado.",pos,0.7752145040928362
+La cama caliente de la impresora no alcanza los 80 grados necesarios para ABS.,neu,0.4804748749346672
+El código que compartieron en el repositorio de la clase compila a la primera.,pos,0.6155012042189187
+Las calificaciones del primer corte ya fueron publicadas en el portal institucional.,neg,0.39143230869849577
+"Aunque la teoría fue densa, los ejercicios prácticos aterrizaron muy bien los conceptos.",neu,0.6248887306391311
+El filamento se rompió por exceso de humedad dentro del extrusor.,neg,0.5566373379786828
+Exportar el documento de Org-mode a PDF con LaTeX dio un formato impecable.,pos,0.6155012042189187
+La retroalimentación del código fue dura pero extremadamente constructiva.,pos,0.6155012042189187
+No tuvimos suficiente tiempo en el laboratorio para terminar de armar el circuito.,neg,0.720216606498195
+La aplicación móvil se cierra sola al intentar usar la cámara en Android 13.,neu,0.7610604172163138
+El nuevo diseño del dashboard es moderno y muy intuitivo para el usuario final.,neg,0.5566373379786828
+La resolución del monitor secundario no se ajusta correctamente en Linux.,neg,0.720216606498195
+Escribir la documentación técnica en Markdown me resulta muy productivo.,neg,0.39143230869849577
+"El parche de seguridad solucionó la vulnerabilidad, pero rompió la compatibilidad hacia atrás.",neg,0.39143230869849577
+El paquete de instalación incluye un script de desinstalación limpia.,neg,0.5566373379786828
+Es la tercera vez esta semana que la VPN corporativa me desconecta sin motivo.,neg,0.39143230869849577
+El gestor de dependencias resolvió todos los conflictos de versiones automáticamente.,neu,0.644212019770309
+La animación de carga es fluida y hace que la espera se sienta mucho menor.,pos,0.6155012042189187
+Los atajos de teclado me permiten editar texto sin quitar las manos de la posición base.,neg,0.5566373379786828
+El sistema reporta una fuga de memoria cada vez que se instancia esa clase.,neg,0.39143230869849577
+La actualización del firmware del router tomó menos de cinco minutos.,neg,0.5566373379786828
+Trabajar con expresiones regulares largas a menudo resulta en código difícil de mantener.,pos,0.6155012042189187
+El modo de depuración paso a paso es la mejor característica de este software.,pos,0.6155012042189187
+La batería del teclado inalámbrico dura casi seis meses con uso diario.,pos,0.4880101630471082
+Los colores de la terminal por defecto son difíciles de leer contra un fondo oscuro.,pos,0.6155012042189187
+Implementar el patrón Singleton aquí resolvió el problema de instancias múltiples.,neg,0.7089754946524945
+El foro de la comunidad resolvió mi duda técnica mucho más rápido que el manual oficial.,neg,0.5566373379786828
+El framework de pruebas genera reportes de cobertura en formato HTML detallado.,neg,0.39143230869849577
+El diseño responsivo de la web falla completamente al visualizarse en tablets en modo horizontal.,pos,0.6155012042189187
