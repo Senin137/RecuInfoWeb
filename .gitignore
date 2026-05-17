@@ -1,0 +1,10 @@
+venv_infweb/
+capturas/
+video/
+images/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
