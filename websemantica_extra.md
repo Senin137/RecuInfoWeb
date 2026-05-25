@@ -1,5 +1,8 @@
 # Actividades extras Web Semántica (post-lectura)
 
+**Estudiante:** [Eladio Martinez Ambriz / 22120687]
+**Fecha: 25/05/2026**
+
 ## Misión A: Comprueba el glosario (sin memorizar a ciegas)
 
 **1. Completa la tabla: escribe una frase en tus palabras (no copies la analogía literal del documento).**
