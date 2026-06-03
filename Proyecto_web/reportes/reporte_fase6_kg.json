@@ -1,0 +1,179 @@
+{
+  "fase": "Fase 6 - Knowledge Graph Semántico",
+  "fecha": "2026-06-03T02:40:10",
+  "entrada": "/home/yayo/Documentos/Proyecto_web/datos/dataset_analizado.json",
+  "total_noticias": 1364,
+  "total_triples": 35444,
+  "salidas": {
+    "turtle": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/simanw.ttl",
+    "rdf_xml": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/simanw.rdf",
+    "json_ld": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/simanw.jsonld",
+    "reporte": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_fase6_kg.json"
+  },
+  "consultas_sparql": {
+    "conteo_por_categoria": [
+      {
+        "categoria": "ciencia",
+        "total": "309"
+      },
+      {
+        "categoria": "economia",
+        "total": "295"
+      },
+      {
+        "categoria": "tecnologia",
+        "total": "293"
+      },
+      {
+        "categoria": "deportes",
+        "total": "263"
+      },
+      {
+        "categoria": "gobierno",
+        "total": "127"
+      },
+      {
+        "categoria": "mundo",
+        "total": "77"
+      }
+    ],
+    "noticias_negativas": [
+      {
+        "titulo": "Tras probarlos, los expertos de Xataka coinciden: estos son los mejores móviles de 2026",
+        "score": "-0.9948"
+      },
+      {
+        "titulo": "El problema no es que los cargos intermedios se estén jubilando en masa. Es que la generación Z no quiere su puesto",
+        "score": "-0.9886"
+      },
+      {
+        "titulo": "Estamos obsesionados con el magnesio como suplemento a la dieta. Su \"sobredosis\" tiene un nombre: hipermagnesemia",
+        "score": "-0.9872"
+      },
+      {
+        "titulo": "‘Minecraft’ no parece el mejor sitio para calcular pi: dos investigadores han encontrado cómo aproximarlo dentro del juego",
+        "score": "-0.9864"
+      },
+      {
+        "titulo": "iPhone 18 Pro y iPhone 18 Pro Max: todo lo que creemos saber sobre los nuevos móviles de Apple",
+        "score": "-0.9864"
+      },
+      {
+        "titulo": "China ha desarrollado una IA capaz de coordinar drones con un objetivo muy concreto: matar a los enemigos con un acierto del 100%",
+        "score": "-0.9842"
+      },
+      {
+        "titulo": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
+        "score": "-0.9842"
+      },
+      {
+        "titulo": "El mayor error que puedes cometer la noche antes de la Selectividad no es dejarte un tema sin mirar: es no dormir",
+        "score": "-0.9831"
+      },
+      {
+        "titulo": "Un inquilino entrega al propietario un piso con un desconchón en la bañera y meses después le reclama 5.100 euros por los daños: la justicia dice que eran desperfectos por el desgaste habitual y no por un mal uso",
+        "score": "-0.9826"
+      },
+      {
+        "titulo": "2026 será un año histórico para los smartphones. El peor año de la historia, concretamente",
+        "score": "-0.9823"
+      }
+    ],
+    "categorias_enlazadas": [
+      {
+        "categoria": "https://simanw.local/recurso/categoria_tecnologia",
+        "wikidata": "http://www.wikidata.org/entity/Q11016",
+        "etiqueta": "tecnología"
+      },
+      {
+        "categoria": "https://simanw.local/recurso/categoria_ciencia",
+        "wikidata": "http://www.wikidata.org/entity/Q336",
+        "etiqueta": "ciencia"
+      },
+      {
+        "categoria": "https://simanw.local/recurso/categoria_economia",
+        "wikidata": "http://www.wikidata.org/entity/Q8134",
+        "etiqueta": "economía"
+      },
+      {
+        "categoria": "https://simanw.local/recurso/categoria_gobierno",
+        "wikidata": "http://www.wikidata.org/entity/Q7188",
+        "etiqueta": "gobierno"
+      },
+      {
+        "categoria": "https://simanw.local/recurso/categoria_mundo",
+        "wikidata": "http://www.wikidata.org/entity/Q16502",
+        "etiqueta": "mundo"
+      }
+    ],
+    "noticias_con_datos_abiertos": [
+      {
+        "titulo": "La mayoría de autónomos en España tiene más de 45 años y la generación Z en España no parece querer emprender. El SEPE ve aquí un reto",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Por qué Alemania prohibió el servicio de taxis Uber",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Familia Rockefeller se desprenderá de inversiones en combustibles fósiles",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Vinculan el fracking con el aumento de sismos en Estados Unidos",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "No, que la madre trabaje no perjudica el desarrollo de sus hijos: “El empleo no es una amenaza”",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho de Ormuz se prolonga",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "España propone a México duplicar el comercio bilateral para 2030",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Las claves de un ultimátum: cómo Washington consumó el jaque al decaído turismo en Cuba",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Las medidas para contener el alza de bajas laborales encallan: el Gobierno intenta sumar a la patronal a un pacto de mínimos",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "La realidad paralela de Trump, en otra dimensión",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Hemos pasado años desentrañando una señal del espacio que no debería existir. Y al fin tenemos una \"piedra Rosetta\" para descifrarla",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "Dyson 2014: La élite de los inventores muestra sus mejores proyectos",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "Rápido y hacia arriba: cómo el ascensor lo cambió todo",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "La receta de una obra maestra: el ‘panettone’ según la ciencia",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "La luz artificial alarga el ciclo de crecimiento de las plantas en las zonas urbanas",
+        "dataset": "Emisiones y cambio climático"
+      }
+    ]
+  },
+  "validacion": {
+    "conforms": true,
+    "noticias_validadas": 1364,
+    "sin_titulo": 0,
+    "sin_url": 0,
+    "criterio": "Cada simanw:Noticia debe tener simanw:titulo y simanw:url."
+  }
+}

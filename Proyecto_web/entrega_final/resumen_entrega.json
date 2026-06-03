@@ -1,0 +1,108 @@
+{
+  "fecha": "2026-06-03T02:54:03",
+  "estado": "entrega_final_generada",
+  "noticias": 1364,
+  "triples_kg": 35444,
+  "reportes": {
+    "txt": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_final_simanw.txt",
+    "markdown": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_final_simanw.md",
+    "json": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_final_simanw.json"
+  },
+  "artefactos_principales": [
+    {
+      "ruta": "config/fuentes_rss.json",
+      "existe": true,
+      "tamano_bytes": 2463
+    },
+    {
+      "ruta": "datos/dataset_maestro.json",
+      "existe": true,
+      "tamano_bytes": 1409084
+    },
+    {
+      "ruta": "datos/dataset_nlp.json",
+      "existe": true,
+      "tamano_bytes": 2160022
+    },
+    {
+      "ruta": "datos/dataset_analizado.json",
+      "existe": true,
+      "tamano_bytes": 2417634
+    },
+    {
+      "ruta": "datos/dataset_depurado_ac8.json",
+      "existe": true,
+      "tamano_bytes": 1481736
+    },
+    {
+      "ruta": "indices/indice_invertido.json",
+      "existe": true,
+      "tamano_bytes": 1134766
+    },
+    {
+      "ruta": "indices/metadatos_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 422988
+    },
+    {
+      "ruta": "reportes/reporte_fase4_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 17557
+    },
+    {
+      "ruta": "reportes/reporte_fase5_conversacion.json",
+      "existe": true,
+      "tamano_bytes": 19647
+    },
+    {
+      "ruta": "reportes/reporte_fase6_kg.json",
+      "existe": true,
+      "tamano_bytes": 6846
+    },
+    {
+      "ruta": "reportes/ac5_comparador_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 68175
+    },
+    {
+      "ruta": "reportes/ac8_control_calidad_corpus.json",
+      "existe": true,
+      "tamano_bytes": 4358
+    },
+    {
+      "ruta": "reportes/ac9_tendencias_temporales.json",
+      "existe": true,
+      "tamano_bytes": 22858
+    },
+    {
+      "ruta": "reportes/ac10_reporte_alertas.json",
+      "existe": true,
+      "tamano_bytes": 2743
+    },
+    {
+      "ruta": "knowledge_graph/simanw.ttl",
+      "existe": true,
+      "tamano_bytes": 2843967
+    },
+    {
+      "ruta": "knowledge_graph/simanw.rdf",
+      "existe": true,
+      "tamano_bytes": 4458798
+    },
+    {
+      "ruta": "knowledge_graph/simanw.jsonld",
+      "existe": true,
+      "tamano_bytes": 5793519
+    },
+    {
+      "ruta": "knowledge_graph/publicacion/manifiesto_publicacion.json",
+      "existe": true,
+      "tamano_bytes": 3303
+    },
+    {
+      "ruta": "evidencia/ac12_manifiesto_ejecucion.json",
+      "existe": true,
+      "tamano_bytes": 10198
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+==============================================================================
+  REPORTE AUTOMÁTICO - SISTEMA SIMANW
+  Generado: 2026-06-03 02:54:03
+==============================================================================
+
+1. RESUMEN EJECUTIVO
+──────────────────────────────────────────────────
+   Noticias procesadas: 1364
+   Triples en Knowledge Graph: 35444
+   Categorías detectadas: 6
+   Fuentes detectadas: 31
+   Reportes integrados: 9
+   Tono general: NEGATIVO
+   Sentimiento promedio: -0.056
+
+2. DISTRIBUCIÓN POR CATEGORÍA
+──────────────────────────────────────────────────
+   ciencia         █████                      309 ( 22.7%)
+   economia        █████                      295 ( 21.6%)
+   tecnologia      █████                      293 ( 21.5%)
+   deportes        ████                       263 ( 19.3%)
+   gobierno        ██                         127 (  9.3%)
+   mundo           █                           77 (  5.6%)
+
+3. ANÁLISIS DE SENTIMIENTO
+──────────────────────────────────────────────────
+   [~] neutral     : 727 noticia(s)
+   [-] negativo    : 360 noticia(s)
+   [+] positivo    : 277 noticia(s)
+
+   Noticias más negativas:
+   [-0.995] Tras probarlos, los expertos de Xataka coinciden: estos son los mejores móviles de 2026
+   [-0.989] El problema no es que los cargos intermedios se estén jubilando en masa. Es que la generac
+   [-0.987] Estamos obsesionados con el magnesio como suplemento a la dieta. Su "sobredosis" tiene un 
+   [-0.986] ‘Minecraft’ no parece el mejor sitio para calcular pi: dos investigadores han encontrado c
+   [-0.986] iPhone 18 Pro y iPhone 18 Pro Max: todo lo que creemos saber sobre los nuevos móviles de A
+
+   Noticias más positivas:
+   [+0.920] La presa Hoover, una maravilla de la ingeniería vista en 3D detalle a detalle
+   [+0.872] "Con todo el respeto para los colegas y las autoridades, creo que la última jornada fue un
+   [+0.866] El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos "muy espe
+   [+0.856] Esta versión de Microsoft Office dejará de funcionar muy pronto: adiós a usar Word, Excel 
+   [+0.852] Un cohete New Glenn explota en la plataforma de lanzamiento durante una prueba de encendid
+
+4. BUSCADOR Y CHATBOT
+──────────────────────────────────────────────────
+   Modelo ganador AC-5: N/D
+   F1 vectorial: 0.2452
+   Preguntas demo Fase 5: 8
+   Confianza promedio chatbot: 0.6752
+
+5. KNOWLEDGE GRAPH Y WEB SEMÁNTICA
+──────────────────────────────────────────────────
+   Triples RDF: 35444
+   Validación AC-13: OK
+   Enlaces externos AC-13: 10
+
+6. TENDENCIAS Y ALERTAS
+──────────────────────────────────────────────────
+   Granularidad AC-9: mes
+   Periodos analizados: 41
+   Consultas guardadas AC-10: 5
+   Alertas generadas: 1
+
+7. CAPACIDADES DEMOSTRADAS
+──────────────────────────────────────────────────
+   [OK] Rastreo Web              → Extracción automática y corpus maestro
+   [OK] Control de calidad       → Validación y depuración del corpus
+   [OK] NLP                      → Procesamiento textual del corpus
+   [OK] Clasificación            → Categorización automática
+   [OK] Sentimientos             → Análisis de polaridad
+   [OK] Búsqueda                 → Índice invertido y ranking vectorial
+   [OK] Evaluación IR            → Comparación booleano vs vectorial
+   [OK] Chatbot                  → Q&A y conversación
+   [OK] Alertas                  → Consultas guardadas y deduplicación
+   [OK] Knowledge Graph          → RDF, ontología y SPARQL
+   [OK] Publicación semántica    → Paquete RDF documentado
+   [OK] Trazabilidad             → Manifiesto reproducible
+   [OK] Reportes                 → Reporte final automático
+
+8. ARTEFACTOS PRINCIPALES
+──────────────────────────────────────────────────
+   [OK] config/fuentes_rss.json
+   [OK] datos/dataset_maestro.json
+   [OK] datos/dataset_nlp.json
+   [OK] datos/dataset_analizado.json
+   [OK] datos/dataset_depurado_ac8.json
+   [OK] indices/indice_invertido.json
+   [OK] indices/metadatos_busqueda.json
+   [OK] reportes/reporte_fase4_busqueda.json
+   [OK] reportes/reporte_fase5_conversacion.json
+   [OK] reportes/reporte_fase6_kg.json
+   [OK] reportes/ac5_comparador_busqueda.json
+   [OK] reportes/ac8_control_calidad_corpus.json
+   [OK] reportes/ac9_tendencias_temporales.json
+   [OK] reportes/ac10_reporte_alertas.json
+   [OK] knowledge_graph/simanw.ttl
+   [OK] knowledge_graph/simanw.rdf
+   [OK] knowledge_graph/simanw.jsonld
+   [OK] knowledge_graph/publicacion/manifiesto_publicacion.json
+   [OK] evidencia/ac12_manifiesto_ejecucion.json
+
+9. CONCLUSIÓN FINAL
+──────────────────────────────────────────────────
+   El sistema SIMANW procesó 1364 noticias y consolidó un flujo completo de recuperación web, NLP, análisis, búsqueda, conversación, Knowledge Graph y reportes. La categoría con mayor presencia fue ciencia, mientras que el sentimiento más frecuente fue neutral. El tono promedio del corpus se clasificó como negativo. Además, el grafo semántico generado contiene 35444 triples RDF, lo que permite consultar las noticias mediante SPARQL y reutilizarlas como datos enlazados. La integración de reportes, alertas, evaluación de búsqueda y trazabilidad demuestra que el proyecto es funcional, auditable y preparado para una interfaz gráfica final.
+
+==============================================================================
+  FIN DEL REPORTE
+==============================================================================

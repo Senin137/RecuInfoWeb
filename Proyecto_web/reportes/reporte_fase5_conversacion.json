@@ -1,0 +1,374 @@
+{
+  "fase": "Fase 5 - Conversación y Question Answering",
+  "fecha": "2026-06-03T03:43:32",
+  "entrada": "/home/yayo/Documentos/Proyecto_web/datos/dataset_analizado.json",
+  "total_noticias": 1734,
+  "evaluacion_demo": {
+    "total_preguntas": 11,
+    "confianza_promedio": 0.5961,
+    "intenciones_detectadas": {
+      "conteo": 2,
+      "sentimiento": 2,
+      "busqueda": 2,
+      "resumen": 2,
+      "recomendacion": 1,
+      "categoria": 1,
+      "seguimiento": 1
+    },
+    "resultados": [
+      {
+        "pregunta": "¿Cuántas noticias tienes sobre tecnología?",
+        "intencion": "conteo",
+        "respuesta": "Tengo 400 noticias que coinciden con tu consulta. Por categoría: tecnologia: 400 Por sentimiento: neutral: 160, negativo: 144, positivo: 96",
+        "confianza": 1.0,
+        "evidencias": []
+      },
+      {
+        "pregunta": "¿Cuántas noticias tienes sobre deportes?",
+        "intencion": "conteo",
+        "respuesta": "Tengo 400 noticias que coinciden con tu consulta. Por categoría: tecnologia: 400 Por sentimiento: neutral: 160, negativo: 144, positivo: 96",
+        "confianza": 1.0,
+        "evidencias": []
+      },
+      {
+        "pregunta": "¿Cuál es el sentimiento general de las noticias?",
+        "intencion": "sentimiento",
+        "respuesta": "El tono dominante es negativo. Distribución encontrada: {'neutral': 1, 'positivo': 1, 'negativo': 6}. Compound promedio: -0.493.",
+        "confianza": 0.9,
+        "evidencias": [
+          {
+            "doc_id": 132,
+            "titulo": "Apple confirma cómo fueron pirateadas las cuentas de Jennifer Lawrence y otros famosos",
+            "url": "http://www.bbc.co.uk/mundo/ultimas_noticias/2014/09/140828_ultnot_hollywood_fotos_apple_jennifer_lawrence_jg.shtml",
+            "categoria": "tecnologia",
+            "sentimiento": "neutral",
+            "score": 0.0655,
+            "snippet": "Apple confirmó este martes que algunas cuentas de famosos de su plataforma virtual de almacenamiento de datos iCloud fueron objeto de un ataque cibernético, aunque descartó una falla general en sus sistemas."
+          },
+          {
+            "doc_id": 30,
+            "titulo": "El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos \"muy especiales\" y explica quién tiene este perfil",
+            "url": "https://www.genbeta.com/laboral/ceo-randstad-afirma-que-teletrabajo-ahora-se-reserva-solo-para-talentos-muy-especiales-explica-quien-tiene-este-perfil",
+            "categoria": "tecnologia",
+            "sentimiento": "positivo",
+            "score": 0.0513,
+            "snippet": "El director ejecutivo de Randstad, Sander van 't Noordende, ha afirmado que el teletrabajo ha muerto oficialmente y que 3 días en la oficina es la nueva norma. La empresa que lidera es conocida por ser una de las..."
+          },
+          {
+            "doc_id": 21,
+            "titulo": "China quería su propia Nvidia. Ahora quiere algo diferente: está reinventando sus chips de IA desde cero",
+            "url": "https://www.xataka.com/empresas-y-economia/china-queria-su-propia-nvidia-ahora-quiere-algo-diferente-esta-reinventando-sus-chips-ia-cero",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.0457,
+            "snippet": "Cambricon Technologies es una compañía esencial en los planes de China para disputar a EEUU su liderazgo en inteligencia artificial (IA). Aunque no es tan conocida como Huawei o Moore Threads, esta es una de las..."
+          },
+          {
+            "doc_id": 38,
+            "titulo": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
+            "url": "https://www.genbeta.com/inteligencia-artificial/ceo-cada-vez-exigen-horas-trabajo-empleados-valoran-que-nunca-ocio-ia-tiene-mucha-culpa-ambos",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.0376,
+            "snippet": "El equilibrio entre la vida laboral y la personal vs las jornadas 996 que están exigiendo mucha empresas de IA tanto en Estados Unidos como en Europa. Hay una distancia importante entre lo que los empleados han empezado..."
+          },
+          {
+            "doc_id": 55,
+            "titulo": "Cruce de cables: El software abandonado que sostiene el mundo",
+            "url": "https://www.microsiervos.com/archivo/ordenadores/cruce-cables-91-software-abandonado.html",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.0253,
+            "snippet": "El otro día recordé con David Sierra de Cruce de cables (RNE) el problema del software abandonado del que dependen muchísimos proyectos de todos los tamaños, muchas veces aunque la gente no sepa ni que está ahí. Puede..."
+          }
+        ]
+      },
+      {
+        "pregunta": "Muéstrame noticias sobre inteligencia artificial",
+        "intencion": "busqueda",
+        "respuesta": "La noticia más relacionada es: La IA ya puede manipular encuestas sin ser detectada, según un estudio.\nUn experimento demuestra que los bots basados en inteligencia artificial imitan a la perfección a los humanos, sortean todos los controles de calidad y pueden alterar resultados electorales y científicos.\nCategoría: tecnologia | Sentimiento: negativo.\nTambién encontré: Cómo trabajar con agentes de IA, con Francisco Mateo-Sidrón; Inteligencia artificial para mejorar tácticas en el fútbol",
+        "confianza": 0.2598,
+        "evidencias": [
+          {
+            "doc_id": 198,
+            "titulo": "La IA ya puede manipular encuestas sin ser detectada, según un estudio",
+            "url": "https://www.agenciasinc.es/esl/Noticias/La-IA-ya-puede-manipular-encuestas-sin-ser-detectada-segun-un-estudio",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.2598,
+            "snippet": "Un experimento demuestra que los bots basados en inteligencia artificial imitan a la perfección a los humanos, sortean todos los controles de calidad y pueden alterar resultados electorales y científicos."
+          },
+          {
+            "doc_id": 989,
+            "titulo": "Cómo trabajar con agentes de IA, con Francisco Mateo-Sidrón",
+            "url": "https://www.expansion.com/podcasts/trabajo-y-mas/2026/05/05/69f87b40468aebf4628b45a3.html",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.2537,
+            "snippet": "La inteligencia artificial no existe sin los datos. Cómo alimentar a nuestro agente de IA es fundamental para garantizar su eficacia y cumplir nuestros objetivos.&nbsp;Leer"
+          },
+          {
+            "doc_id": 263,
+            "titulo": "Inteligencia artificial para mejorar tácticas en el fútbol",
+            "url": "https://www.agenciasinc.es/esl/Noticias/Inteligencia-artificial-para-mejorar-tacticas-en-el-futbol",
+            "categoria": "tecnologia",
+            "sentimiento": "positivo",
+            "score": 0.2414,
+            "snippet": "Investigadores de la compañía Google DeepMind han desarrollado Tactic AI, un asistente que podría ayudar a los entrenadores a elegir las mejores configuraciones de jugadores tras un saque de esquina. La herramienta se..."
+          },
+          {
+            "doc_id": 765,
+            "titulo": "Enseñar a pensar en tiempos de la inteligencia artificial",
+            "url": "https://elpais.com/economia/formacion/2026-05-14/ensenar-a-pensar-en-tiempos-de-la-inteligencia-artificial.html",
+            "categoria": "tecnologia",
+            "sentimiento": "neutral",
+            "score": 0.2262,
+            "snippet": "Profesores, expertos y alumnos debaten sobre el impacto de la IA mientras un instituto rural gallego experimenta con proyectos de memoria histórica, accesibilidad y verificación de contenidos"
+          }
+        ]
+      },
+      {
+        "pregunta": "Muéstrame noticias sobre PSG y Champions",
+        "intencion": "busqueda",
+        "respuesta": "No encontré información suficiente en las noticias procesadas.",
+        "confianza": 0.0,
+        "evidencias": []
+      },
+      {
+        "pregunta": "¿Y de esas cuáles son negativas?",
+        "intencion": "sentimiento",
+        "respuesta": "El tono dominante es negativo. Distribución encontrada: {'positivo': 3, 'negativo': 4, 'neutral': 1}. Compound promedio: -0.250.",
+        "confianza": 0.9,
+        "evidencias": [
+          {
+            "doc_id": 1264,
+            "titulo": "Códigos Garena Free Fire de hoy 11 de marzo de 2022; todas las recompensas gratis",
+            "url": "https://as.com/meristation/2022/03/11/noticias/1646984604_732677.html#?ref=rss&format=simple&link=link",
+            "categoria": "deportes",
+            "sentimiento": "positivo",
+            "score": 0.3205,
+            "snippet": "Os contamos cuáles son todos los códigos de recompensa gratis para Garena Free Fire del día 11 de marzo de 2022 para este battle royale en iOS y Android."
+          },
+          {
+            "doc_id": 610,
+            "titulo": "Los últimos lugares de la Tierra donde no hay especies invasoras",
+            "url": "http://www.bbc.co.uk/mundo/noticias/2014/09/140912_vert_fut_ciencia_ultimo_lugar_sin_especies_invasoras_np.shtml",
+            "categoria": "ciencia",
+            "sentimiento": "negativo",
+            "score": 0.2787,
+            "snippet": "Quedan muy pocas zonas en el planeta libres de especies \"foráneas\". Les contamos cuáles son y cómo se recuperan los ecosistemas de la invasión de ratas y otras plagas."
+          },
+          {
+            "doc_id": 337,
+            "titulo": "Zapatillas inteligentes y negocios humanos: la IA como filosofía moral",
+            "url": "https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.2678,
+            "snippet": "Para los legisladores, la dificultad consiste en prever cuáles serán las situaciones por regular sin saber muy bien cómo se concretará la realidad futura"
+          },
+          {
+            "doc_id": 1011,
+            "titulo": "¿Dudas con la declaración de la Renta?",
+            "url": "https://www.expansion.com/encuentros/andersen/2026/04/06/index.html",
+            "categoria": "economia",
+            "sentimiento": "neutral",
+            "score": 0.2076,
+            "snippet": "¿Cuáles son las principales novedades de la campaña de la Renta 2025? ¿Qué debo tener en cuenta sobre indemnizaciones, despidos y rescates de planes de pensiones? ¿Cómo puedo modificar mis datos fiscales? Los socios del..."
+          },
+          {
+            "doc_id": 490,
+            "titulo": "Kitagawa, Robson y Yaghi ganan el Nobel de Química 2025 por sus trabajos en estructuras organometálicas",
+            "url": "https://www.agenciasinc.es/esl/Noticias/Kitagawa-Robson-y-Yaghi-ganan-el-Nobel-de-Quimica-2025-por-sus-trabajos-en-estructuras-organometalicas",
+            "categoria": "ciencia",
+            "sentimiento": "positivo",
+            "score": 0.1403,
+            "snippet": "La Real Academia Sueca de las Ciencias ha concedido el Premio Nobel de Química 2025 a Susumu Kitagawa, de la Universidad de Kioto, a Richard Robson, de la Universidad de Melbourne y Omar M. Yaghi de la Universidad de..."
+          }
+        ]
+      },
+      {
+        "pregunta": "Dame un resumen de economía",
+        "intencion": "resumen",
+        "respuesta": "Resumen de las noticias más relevantes:\n- [economia][neutral] Economía, comienzan a carburar motores: EAZ\n- [economia][neutral] La economía europea salva in extremis la recesión por la mejora del empleo\n- [economia][neutral] Orange inaugura en España los servicios de 5G+ y se adelanta a sus competidores\n- [economia][neutral] Cantador\n- [economia][neutral] VAR",
+        "confianza": 0.2522,
+        "evidencias": [
+          {
+            "doc_id": 779,
+            "titulo": "Economía, comienzan a carburar motores: EAZ",
+            "url": "http://localhost/opinion/economia-comienzan-carburar-motores-eaz-20260603-816628.html",
+            "categoria": "economia",
+            "sentimiento": "neutral",
+            "score": 0.2522,
+            "snippet": "Están empezando a carburar bien los principales motores de la economía."
+          },
+          {
+            "doc_id": 947,
+            "titulo": "La economía europea salva in extremis la recesión por la mejora del empleo",
+            "url": "https://cincodias.elpais.com/cincodias/2023/02/14/economia/1676372593_128153.html#?ref=rss&format=simple&link=link",
+            "categoria": "economia",
+            "sentimiento": "neutral",
+            "score": 0.246,
+            "snippet": "Según Eurostat, la economía española creció el 0,2% en el último trimestre de 2022"
+          },
+          {
+            "doc_id": 937,
+            "titulo": "Orange inaugura en España los servicios de 5G+ y se adelanta a sus competidores",
+            "url": "https://cincodias.elpais.com/cincodias/2023/02/13/companias/1676294065_841301.html#?ref=rss&format=simple&link=link",
+            "categoria": "economia",
+            "sentimiento": "neutral",
+            "score": 0.2038,
+            "snippet": "Cuenta con el respaldo de Nokia, Ericsson y Oracle"
+          },
+          {
+            "doc_id": 773,
+            "titulo": "Cantador",
+            "url": "http://localhost/cartones/cantador-20260603-816634.html",
+            "categoria": "economia",
+            "sentimiento": "neutral",
+            "score": 0.2029,
+            "snippet": "Una mirada a la coyuntura actual a través de los ojos y el lápiz de nuestros caricaturistas."
+          },
+          {
+            "doc_id": 774,
+            "titulo": "VAR",
+            "url": "http://localhost/cartones/var-20260603-816633.html",
+            "categoria": "economia",
+            "sentimiento": "neutral",
+            "score": 0.2029,
+            "snippet": "Una mirada a la coyuntura actual a través de los ojos y el lápiz de nuestros caricaturistas."
+          }
+        ]
+      },
+      {
+        "pregunta": "Dame un resumen de deportes",
+        "intencion": "resumen",
+        "respuesta": "Resumen de las noticias más relevantes:\n- [deportes][neutral] Patricky silencia Dublín: noquea a Queally en dos rounds\n- [deportes][neutral] Pisotón al sentido común\n- [deportes][neutral] Análisis de ajedrez | Coito mental interrumpido\n- [deportes][positivo] Mazazo para Austria: &quot;Mi gran sueño se ha destrozado...&quot;\n- [deportes][neutral] Cuatro profetas en su tierra",
+        "confianza": 0.1741,
+        "evidencias": [
+          {
+            "doc_id": 1296,
+            "titulo": "Patricky silencia Dublín: noquea a Queally en dos rounds",
+            "url": "https://as.com/masdeporte/2021/11/06/polideportivo/1636154659_211609.html#?ref=rss&format=simple&link=link",
+            "categoria": "deportes",
+            "sentimiento": "neutral",
+            "score": 0.1741,
+            "snippet": "Patricky 'Pitbull' Freire se proclamó campeón de Bellator del peso ligero al noquear a Peter Queally en dos asaltos. El brasileño sucede a su hermano Patricio."
+          },
+          {
+            "doc_id": 1340,
+            "titulo": "Pisotón al sentido común",
+            "url": "https://as.com/opinion/2022/03/15/portada/1647369254_061610.html#?ref=rss&format=simple&link=link",
+            "categoria": "deportes",
+            "sentimiento": "neutral",
+            "score": 0.1738,
+            "snippet": "Hagamos un poco de memoria y recordemos que los jugadores siempre han usado tácticas de intimidación hacia los contrarios"
+          },
+          {
+            "doc_id": 1417,
+            "titulo": "Análisis de ajedrez | Coito mental interrumpido",
+            "url": "https://elpais.com/ajedrez/partidas/2026-06-01/analisis-de-ajedrez-coito-mental-interrumpido.html",
+            "categoria": "deportes",
+            "sentimiento": "neutral",
+            "score": 0.1709,
+            "snippet": "So concede el empate a Gukesh con una ventaja de casi 20 minutos en una posición muy complicada"
+          },
+          {
+            "doc_id": 1369,
+            "titulo": "Mazazo para Austria: &quot;Mi gran sueño se ha destrozado...&quot;",
+            "url": "https://www.marca.com/futbol/mundial/2026/06/02/dura-carta-baumgartner-quedarse-fuera-mundial-mi-gran-sueno-destrozado.html",
+            "categoria": "deportes",
+            "sentimiento": "positivo",
+            "score": 0.1641,
+            "snippet": "El austriaco se lesionó en el calentamiento ante Túnez"
+          },
+          {
+            "doc_id": 1375,
+            "titulo": "Cuatro profetas en su tierra",
+            "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/06/02/cuatro-profetas-tierra.html",
+            "categoria": "deportes",
+            "sentimiento": "neutral",
+            "score": 0.1614,
+            "snippet": "Cata Coll, Lucía Corrales, Patri Guijarro y Mariona Caldentey jugarán con España en Son Moix ante Inglaterra"
+          }
+        ]
+      },
+      {
+        "pregunta": "Recomiéndame noticias similares sobre ciencia",
+        "intencion": "recomendacion",
+        "respuesta": "Te recomiendo revisar estas noticias relacionadas:\n- [0.22] Algunas preguntas a la IA emiten hasta 50 veces más CO₂ que otras (tecnologia, neutral)\n- [0.07] La receta de una obra maestra: el ‘panettone’ según la ciencia (tecnologia, negativo)\n- [0.05] La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso (tecnologia, negativo)\n- [0.05] Elaine Bearer en la UNAM, la científica que encontró una conexión entre música y neurociencia (tecnologia, positivo)",
+        "confianza": 0.2205,
+        "evidencias": [
+          {
+            "doc_id": 212,
+            "titulo": "Algunas preguntas a la IA emiten hasta 50 veces más CO₂ que otras",
+            "url": "https://www.agenciasinc.es/esl/Noticias/Algunas-preguntas-a-la-IA-emiten-hasta-50-veces-mas-CO-que-otras",
+            "categoria": "tecnologia",
+            "sentimiento": "neutral",
+            "score": 0.2205,
+            "snippet": "Una nueva investigación revela que ciertos modelos de lenguaje generativo emiten más dióxido de carbono que otros al responder a preguntas similares. El objetivo de los hallazgos es que los usuarios tomen decisiones..."
+          },
+          {
+            "doc_id": 196,
+            "titulo": "La receta de una obra maestra: el ‘panettone’ según la ciencia",
+            "url": "https://www.agenciasinc.es/esl/Opinion/La-receta-de-una-obra-maestra-el-panettone-segun-la-ciencia",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.0695,
+            "snippet": "Un clásico navideño que combina tradición y ciencia. El panettone no solo es un dulce esponjoso y aromático, sino también el resultado de procesos físicos y químicos que garantizan su textura y sabor únicos."
+          },
+          {
+            "doc_id": 38,
+            "titulo": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
+            "url": "https://www.genbeta.com/inteligencia-artificial/ceo-cada-vez-exigen-horas-trabajo-empleados-valoran-que-nunca-ocio-ia-tiene-mucha-culpa-ambos",
+            "categoria": "tecnologia",
+            "sentimiento": "negativo",
+            "score": 0.0472,
+            "snippet": "El equilibrio entre la vida laboral y la personal vs las jornadas 996 que están exigiendo mucha empresas de IA tanto en Estados Unidos como en Europa. Hay una distancia importante entre lo que los empleados han empezado..."
+          },
+          {
+            "doc_id": 376,
+            "titulo": "Elaine Bearer en la UNAM, la científica que encontró una conexión entre música y neurociencia",
+            "url": "https://es.wired.com/articulos/elaine-bearer-en-la-unam-la-cientifica-que-encontro-una-conexion-entre-musica-y-neurociencia",
+            "categoria": "tecnologia",
+            "sentimiento": "positivo",
+            "score": 0.0459,
+            "snippet": "Durante su participación en El Aleph. Festival de Arte y Ciencia, la compositora y neurocientífica Elaine Bearer habló sobre la necesidad de abrir caminos para que las disciplinas artísticas y científicas no vivan en..."
+          }
+        ]
+      },
+      {
+        "pregunta": "¿Qué categorías hay en el corpus?",
+        "intencion": "categoria",
+        "respuesta": "Categorías detectadas en el corpus:\n- deportes: 447 noticias. Ejemplo: La guía WIRED a la Ciudad de México\n- tecnologia: 400 noticias. Ejemplo: En Aragón, las granjas están empezando a hacer algo con sus balsas de purines: c\n- ciencia: 333 noticias. Ejemplo: Hemos pasado años desentrañando una señal del espacio que no debería existir. Y \n- economia: 303 noticias. Ejemplo: La mayoría de autónomos en España tiene más de 45 años y la generación Z en Espa\n- mundo: 126 noticias. Ejemplo: Israel ha vuelto a una fortaleza medieval para enviar un mensaje. Los drones de \n- gobierno: 125 noticias. Ejemplo: CSP: Pemex firmará convenio con Petrobras",
+        "confianza": 1.0,
+        "evidencias": []
+      },
+      {
+        "pregunta": "¿Qué dice la primera?",
+        "intencion": "seguimiento",
+        "respuesta": "Tomando como contexto la búsqueda anterior:\n- Algunas preguntas a la IA emiten hasta 50 veces más CO₂ que otras — Una nueva investigación revela que ciertos modelos de lenguaje generativo emiten más dióxido de carbono que otros al responder a preguntas similares. El objetivo de los hallazgos es que los usuarios tomen decisiones...",
+        "confianza": 0.85,
+        "evidencias": [
+          {
+            "doc_id": 212,
+            "titulo": "Algunas preguntas a la IA emiten hasta 50 veces más CO₂ que otras",
+            "url": "https://www.agenciasinc.es/esl/Noticias/Algunas-preguntas-a-la-IA-emiten-hasta-50-veces-mas-CO-que-otras",
+            "categoria": "tecnologia",
+            "sentimiento": "neutral",
+            "score": 0.2205,
+            "snippet": "Una nueva investigación revela que ciertos modelos de lenguaje generativo emiten más dióxido de carbono que otros al responder a preguntas similares. El objetivo de los hallazgos es que los usuarios tomen decisiones..."
+          }
+        ]
+      }
+    ]
+  },
+  "capacidades": [
+    "búsqueda conversacional con TF-IDF",
+    "clasificación de intención",
+    "conteos por categoría y sentimiento",
+    "resúmenes basados en evidencias",
+    "recomendaciones",
+    "preguntas de seguimiento con memoria breve"
+  ]
+}

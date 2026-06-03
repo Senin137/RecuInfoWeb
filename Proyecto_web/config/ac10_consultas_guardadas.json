@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C001",
+    "nombre": "Inteligencia artificial",
+    "query": "inteligencia artificial machine learning modelos generativos",
+    "fecha_creacion": "2026-06-02T18:50:23"
+  },
+  {
+    "id": "C002",
+    "nombre": "Economía e inflación",
+    "query": "economía inflación mercados tasas banco inversión",
+    "fecha_creacion": "2026-06-02T18:50:23"
+  },
+  {
+    "id": "C003",
+    "nombre": "Ciencia y clima",
+    "query": "ciencia investigación cambio climático salud estudio científico",
+    "fecha_creacion": "2026-06-02T18:50:23"
+  },
+  {
+    "id": "C004",
+    "nombre": "Gobierno y política",
+    "query": "gobierno política elecciones congreso reforma ley justicia",
+    "fecha_creacion": "2026-06-02T18:50:23"
+  },
+  {
+    "id": "C005",
+    "nombre": "Internacional y conflictos",
+    "query": "internacional mundo guerra conflicto migración países diplomacia",
+    "fecha_creacion": "2026-06-02T18:50:23"
+  }
+]

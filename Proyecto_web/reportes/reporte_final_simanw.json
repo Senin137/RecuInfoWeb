@@ -1,0 +1,502 @@
+{
+  "fase": "Fase 7 - Reportes automáticos y entrega final",
+  "fecha_generacion": "2026-06-03T02:54:03",
+  "raiz_proyecto": "/home/yayo/Documentos/Proyecto_web",
+  "entorno": {
+    "python": "3.12.3",
+    "sistema": "Linux",
+    "version_sistema": "6.18.7-76061807-generic"
+  },
+  "resumen_ejecutivo": {
+    "noticias_procesadas": 1364,
+    "triples_knowledge_graph": 35444,
+    "categorias_detectadas": 6,
+    "fuentes_detectadas": 31,
+    "reportes_integrados": [
+      "fase4",
+      "fase5",
+      "fase6",
+      "ac5",
+      "ac8",
+      "ac9",
+      "ac10",
+      "ac12",
+      "ac13"
+    ],
+    "artefactos_principales_existentes": 19
+  },
+  "distribucion_categorias": {
+    "ciencia": 309,
+    "economia": 295,
+    "tecnologia": 293,
+    "deportes": 263,
+    "gobierno": 127,
+    "mundo": 77
+  },
+  "distribucion_sentimientos": {
+    "neutral": 727,
+    "negativo": 360,
+    "positivo": 277
+  },
+  "distribucion_fuentes": {
+    "https://www.agenciasinc.es/feed/Ciencia": 150,
+    "https://www.mundodeportivo.com/rss/home.xml": 137,
+    "https://www.agenciasinc.es/feed/Tecnologia": 120,
+    "https://www.bbc.com/mundo/temas/tecnologia/index.xml": 100,
+    "https://www.eleconomista.com.mx/rss/ultimas-noticias": 98,
+    "https://www.bbc.com/mundo/temas/ciencia/index.xml": 96,
+    "https://www.expansion.com/rss/portada.xml": 67,
+    "https://cincodias.elpais.com/rss/cincodias/portada.xml": 62,
+    "https://feeds.bbci.co.uk/mundo/topics/cdr56g57ywgt/rss.xml": 57,
+    "https://www.lapoliticaonline.com/files/rss/politica-mx.xml": 50,
+    "https://e00-marca.uecdn.es/rss/portada.xml": 47,
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada": 40,
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada": 32,
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada": 31,
+    "https://www.jornada.com.mx/rss/politica.xml?v=1": 27
+  },
+  "autores_principales": {
+    "Desconocido": 344,
+    "SINC": 151,
+    "EFE": 50,
+    "AFP": 18,
+    "Autor Redacción": 18,
+    "Antonio Villarreal": 14,
+    "Redacción El Blog Salmón": 14,
+    "EFE EFE": 14,
+    "Sergio Parra": 11,
+    "Redacción El Economista": 11
+  },
+  "sentimiento": {
+    "promedio": -0.0556,
+    "tono_general": "negativo",
+    "noticias_mas_negativas": [
+      {
+        "titulo": "Tras probarlos, los expertos de Xataka coinciden: estos son los mejores móviles de 2026",
+        "categoria": "tecnologia",
+        "score": -0.9948,
+        "url": "https://www.xataka.com/seleccion/mejores-moviles"
+      },
+      {
+        "titulo": "El problema no es que los cargos intermedios se estén jubilando en masa. Es que la generación Z no quiere su puesto",
+        "categoria": "tecnologia",
+        "score": -0.9886,
+        "url": "https://www.xataka.com/empresas-y-economia/problema-no-que-cargos-intermedios-se-esten-jubilando-masa-que-generacion-z-no-quiere-su-puesto"
+      },
+      {
+        "titulo": "Estamos obsesionados con el magnesio como suplemento a la dieta. Su \"sobredosis\" tiene un nombre: hipermagnesemia",
+        "categoria": "tecnologia",
+        "score": -0.9872,
+        "url": "https://www.xataka.com/medicina-y-salud/estamos-obsesionados-magnesio-como-suplemento-a-dieta-su-sobredosis-tiene-nombre-hipermagnesemia"
+      },
+      {
+        "titulo": "‘Minecraft’ no parece el mejor sitio para calcular pi: dos investigadores han encontrado cómo aproximarlo dentro del juego",
+        "categoria": "tecnologia",
+        "score": -0.9864,
+        "url": "https://www.xataka.com/videojuegos/minecraft-no-parece-mejor-sitio-para-calcular-pi-dos-investigadores-han-encontrado-como-aproximarlo-dentro-juego"
+      },
+      {
+        "titulo": "iPhone 18 Pro y iPhone 18 Pro Max: todo lo que creemos saber sobre los nuevos móviles de Apple",
+        "categoria": "tecnologia",
+        "score": -0.9864,
+        "url": "https://www.xataka.com/moviles/iphone-18-pro-iphone-18-pro-max-informacion"
+      },
+      {
+        "titulo": "China ha desarrollado una IA capaz de coordinar drones con un objetivo muy concreto: matar a los enemigos con un acierto del 100%",
+        "categoria": "tecnologia",
+        "score": -0.9842,
+        "url": "https://www.xataka.com/robotica-e-ia/china-ha-desarrollado-ia-capaz-coordinar-drones-objetivo-muy-concreto-matar-a-enemigos-acierto-100"
+      },
+      {
+        "titulo": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
+        "categoria": "tecnologia",
+        "score": -0.9842,
+        "url": "https://www.genbeta.com/inteligencia-artificial/ceo-cada-vez-exigen-horas-trabajo-empleados-valoran-que-nunca-ocio-ia-tiene-mucha-culpa-ambos"
+      },
+      {
+        "titulo": "El mayor error que puedes cometer la noche antes de la Selectividad no es dejarte un tema sin mirar: es no dormir",
+        "categoria": "tecnologia",
+        "score": -0.9831,
+        "url": "https://www.xataka.com/investigacion/mayor-error-que-puedes-cometer-noche-antes-selectividad-no-dejarte-tema-mirar-no-dormir"
+      },
+      {
+        "titulo": "Un inquilino entrega al propietario un piso con un desconchón en la bañera y meses después le reclama 5.100 euros por los daños: la justicia dice que eran desperfectos por el desgaste habitual y no por un mal uso",
+        "categoria": "economia",
+        "score": -0.9826,
+        "url": "https://www.elblogsalmon.com/economia-domestica/inquilino-entrega-al-propietario-piso-desconchon-banera-meses-despues-le-reclama-5-100-euros-danos-justicia-dice-que-eran-desperfectos-desgaste-habitual-no-mal-uso"
+      },
+      {
+        "titulo": "2026 será un año histórico para los smartphones. El peor año de la historia, concretamente",
+        "categoria": "tecnologia",
+        "score": -0.9823,
+        "url": "https://www.xataka.com/moviles/2026-sera-ano-historico-para-smartphones-peor-ano-historia-concretamente"
+      }
+    ],
+    "noticias_mas_positivas": [
+      {
+        "titulo": "La presa Hoover, una maravilla de la ingeniería vista en 3D detalle a detalle",
+        "categoria": "tecnologia",
+        "score": 0.9201,
+        "url": "https://www.microsiervos.com/archivo/ingenieria/presa-hoover-maravilla-ingenieria-3d-detalles.html"
+      },
+      {
+        "titulo": "\"Con todo el respeto para los colegas y las autoridades, creo que la última jornada fue un poco rara\"",
+        "categoria": "deportes",
+        "score": 0.872,
+        "url": "https://www.mundodeportivo.com/futbol/burgos/20260602/1004190604/respeto-colegas-autoridades-creo-ultima-jornada-poco-rara.html"
+      },
+      {
+        "titulo": "El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos \"muy especiales\" y explica quién tiene este perfil",
+        "categoria": "tecnologia",
+        "score": 0.8658,
+        "url": "https://www.genbeta.com/laboral/ceo-randstad-afirma-que-teletrabajo-ahora-se-reserva-solo-para-talentos-muy-especiales-explica-quien-tiene-este-perfil"
+      },
+      {
+        "titulo": "Esta versión de Microsoft Office dejará de funcionar muy pronto: adiós a usar Word, Excel o PowerPoint aunque hayas pagado",
+        "categoria": "tecnologia",
+        "score": 0.8555,
+        "url": "https://hipertextual.com/tecnologia/esta-version-de-microsoft-office-dejara-de-funcionar-muy-pronto-adios-a-usar-word-excel-o-powerpoint-aunque-hayas-pagado/"
+      },
+      {
+        "titulo": "Un cohete New Glenn explota en la plataforma de lanzamiento durante una prueba de encendido de sus motores",
+        "categoria": "tecnologia",
+        "score": 0.8519,
+        "url": "https://www.microsiervos.com/archivo/espacio/new-glenn-explota-plataforma-lanzamiento-prueba-motores.html"
+      },
+      {
+        "titulo": "Encuentran una supertierra en la zona habitable de una enana roja cercana",
+        "categoria": "ciencia",
+        "score": 0.8159,
+        "url": "https://www.agenciasinc.es/esl/Noticias/Encuentran-una-supertierra-en-la-zona-habitable-de-una-enana-roja-cercana"
+      },
+      {
+        "titulo": "Miden el límite superior más preciso para la masa de los neutrinos",
+        "categoria": "ciencia",
+        "score": 0.8074,
+        "url": "https://www.agenciasinc.es/esl/Noticias/Miden-el-limite-superior-mas-preciso-para-la-masa-de-los-neutrinos"
+      },
+      {
+        "titulo": "Anabel Pantoja, abierta a 'SV All Stars' o 'GH Dúo': \"Tengo que salir adelante\"",
+        "categoria": "deportes",
+        "score": 0.8038,
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20260602/1004190660/anabel-pantoja-abierta-supervivientes-all-stars-gh-duo-no-me-cerrare-bebe-salir-adelante-dct.html"
+      },
+      {
+        "titulo": "Se jubila la auxiliar de vuelo más veterana del mundo tras 66 años en el aire: “Las aerolíneas quieren a mujeres jóvenes con una apariencia glamurosa”",
+        "categoria": "economia",
+        "score": 0.7906,
+        "url": "https://www.elblogsalmon.com/economia/se-jubila-auxiliar-vuelo-veterana-mundo-66-anos-aire-aerolineas-quieren-a-mujeres-jovenes-apariencia-glamurosa"
+      },
+      {
+        "titulo": "Nvidia RTX Spark: el chip Arm que quiere ser el Apple M1 de Windows y llegar a laptops en otoño de 2026",
+        "categoria": "tecnologia",
+        "score": 0.7579,
+        "url": "https://wwwhatsnew.com/2026/06/02/nvidia-rtx-spark-computex-2026-arm-blackwell-laptops-otono/"
+      }
+    ]
+  },
+  "busqueda": {
+    "modelo_ganador": "N/D",
+    "f1_booleano_and": 0.0,
+    "f1_booleano_or": 0.21,
+    "f1_vectorial": 0.2452,
+    "conclusion": "El modelo vectorial obtuvo el mejor desempeño promedio. Esto ocurre porque TF-IDF con similitud coseno recupera documentos relacionados aunque no contengan exactamente todos los términos de la consulta."
+  },
+  "chatbot": {
+    "total_preguntas_demo": 8,
+    "confianza_promedio": 0.6752,
+    "intenciones_detectadas": {
+      "conteo": 1,
+      "sentimiento": 2,
+      "busqueda": 1,
+      "resumen": 1,
+      "recomendacion": 1,
+      "categoria": 1,
+      "seguimiento": 1
+    },
+    "capacidades": [
+      "búsqueda conversacional con TF-IDF",
+      "clasificación de intención",
+      "conteos por categoría y sentimiento",
+      "resúmenes basados en evidencias",
+      "recomendaciones",
+      "preguntas de seguimiento con memoria breve"
+    ]
+  },
+  "knowledge_graph": {
+    "triples": 35444,
+    "consultas_sparql_fase6": 4,
+    "validacion_fase6": {
+      "conforms": true,
+      "noticias_validadas": 1364,
+      "sin_titulo": 0,
+      "sin_url": 0,
+      "criterio": "Cada simanw:Noticia debe tener simanw:titulo y simanw:url."
+    },
+    "validacion_ac13": "OK",
+    "enlaces_externos": 10,
+    "serializaciones": {
+      "turtle": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/simanw_publicado.ttl",
+      "rdf_xml": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/simanw_publicado.rdf",
+      "json_ld": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/simanw_publicado.jsonld"
+    }
+  },
+  "tendencias": {
+    "granularidad": "mes",
+    "periodos": 41,
+    "categorias_analizadas": [
+      "ciencia",
+      "economia",
+      "tecnologia",
+      "deportes",
+      "gobierno"
+    ],
+    "tabla_resumen": [
+      {
+        "categoria": "ciencia",
+        "total_noticias": 309,
+        "periodo_pico": "2014-09",
+        "conteo_pico": 81,
+        "periodo_caida": "2017-03",
+        "conteo_caida": 0,
+        "terminos_suben": "radio, enana, rosetta, piedra rosetta, piedra",
+        "terminos_bajan": "mundo, cómo, recuerdo, convertir, vida"
+      },
+      {
+        "categoria": "economia",
+        "total_noticias": 295,
+        "periodo_pico": "2026-06",
+        "conteo_pico": 195,
+        "periodo_caida": "2014-08",
+        "conteo_caida": 0,
+        "terminos_suben": "leer, méxico, euros, millones, mundial",
+        "terminos_bajan": ""
+      },
+      {
+        "categoria": "tecnologia",
+        "total_noticias": 293,
+        "periodo_pico": "2014-09",
+        "conteo_pico": 55,
+        "periodo_caida": "2017-03",
+        "conteo_caida": 0,
+        "terminos_suben": "xataka, pro, móvil, iphone, ultra",
+        "terminos_bajan": "bbc, video, celulares, vine, islámico"
+      },
+      {
+        "categoria": "deportes",
+        "total_noticias": 263,
+        "periodo_pico": "2026-06",
+        "conteo_pico": 216,
+        "periodo_caida": "2014-08",
+        "conteo_caida": 0,
+        "terminos_suben": "quot, madrid, mundial, real, real madrid",
+        "terminos_bajan": ""
+      },
+      {
+        "categoria": "gobierno",
+        "total_noticias": 127,
+        "periodo_pico": "2026-06",
+        "conteo_pico": 80,
+        "periodo_caida": "2014-08",
+        "conteo_caida": 0,
+        "terminos_suben": "sheinbaum, presidenta, méxico, gobierno, nacional",
+        "terminos_bajan": ""
+      }
+    ]
+  },
+  "alertas": {
+    "consultas_guardadas": 5,
+    "ejecuciones": 3,
+    "alertas_generadas": 1,
+    "historial": "/home/yayo/Documentos/Proyecto_web/reportes/ac10_historial_alertas.json"
+  },
+  "control_calidad": {
+    "estadisticas": {
+      "total_registros": 1364,
+      "validos": 1363,
+      "rechazados": 1,
+      "invalidos_incompletos": 1,
+      "duplicados_exactos": 0,
+      "duplicados_casi_identicos": 0
+    },
+    "resumen": "El control de calidad revisó 1364 registros del corpus rastreado. Se conservaron 1363 noticias válidas y se descartaron 1. Los descartes se debieron principalmente a campo_titulo_demasiado_corto. Se detectaron 1 registros inválidos o incompletos, 0 duplicados exactos y 0 duplicados casi idénticos por coincidencia de título o URL. El corpus depurado conserva únicamente noticias con campos obligatorios, URL coherente, fecha aceptable y cuerpo con longitud mínima suficiente para las fases de NLP."
+  },
+  "capacidades_demostradas": [
+    {
+      "nombre": "Rastreo Web",
+      "descripcion": "Extracción automática y corpus maestro",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/datos/dataset_maestro.json"
+    },
+    {
+      "nombre": "Control de calidad",
+      "descripcion": "Validación y depuración del corpus",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/reportes/ac8_control_calidad_corpus.json"
+    },
+    {
+      "nombre": "NLP",
+      "descripcion": "Procesamiento textual del corpus",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/datos/dataset_nlp.json"
+    },
+    {
+      "nombre": "Clasificación",
+      "descripcion": "Categorización automática",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/datos/dataset_analizado.json"
+    },
+    {
+      "nombre": "Sentimientos",
+      "descripcion": "Análisis de polaridad",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/datos/dataset_analizado.json"
+    },
+    {
+      "nombre": "Búsqueda",
+      "descripcion": "Índice invertido y ranking vectorial",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/indices/indice_invertido.json"
+    },
+    {
+      "nombre": "Evaluación IR",
+      "descripcion": "Comparación booleano vs vectorial",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/reportes/ac5_comparador_busqueda.json"
+    },
+    {
+      "nombre": "Chatbot",
+      "descripcion": "Q&A y conversación",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_fase5_conversacion.json"
+    },
+    {
+      "nombre": "Alertas",
+      "descripcion": "Consultas guardadas y deduplicación",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/reportes/ac10_reporte_alertas.json"
+    },
+    {
+      "nombre": "Knowledge Graph",
+      "descripcion": "RDF, ontología y SPARQL",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/simanw.ttl"
+    },
+    {
+      "nombre": "Publicación semántica",
+      "descripcion": "Paquete RDF documentado",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/manifiesto_publicacion.json"
+    },
+    {
+      "nombre": "Trazabilidad",
+      "descripcion": "Manifiesto reproducible",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/evidencia/ac12_manifiesto_ejecucion.json"
+    },
+    {
+      "nombre": "Reportes",
+      "descripcion": "Reporte final automático",
+      "cumplida": true,
+      "artefacto": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_final_simanw.json"
+    }
+  ],
+  "artefactos_principales": [
+    {
+      "ruta": "config/fuentes_rss.json",
+      "existe": true,
+      "tamano_bytes": 2463
+    },
+    {
+      "ruta": "datos/dataset_maestro.json",
+      "existe": true,
+      "tamano_bytes": 1409084
+    },
+    {
+      "ruta": "datos/dataset_nlp.json",
+      "existe": true,
+      "tamano_bytes": 2160022
+    },
+    {
+      "ruta": "datos/dataset_analizado.json",
+      "existe": true,
+      "tamano_bytes": 2417634
+    },
+    {
+      "ruta": "datos/dataset_depurado_ac8.json",
+      "existe": true,
+      "tamano_bytes": 1481736
+    },
+    {
+      "ruta": "indices/indice_invertido.json",
+      "existe": true,
+      "tamano_bytes": 1134766
+    },
+    {
+      "ruta": "indices/metadatos_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 422988
+    },
+    {
+      "ruta": "reportes/reporte_fase4_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 17557
+    },
+    {
+      "ruta": "reportes/reporte_fase5_conversacion.json",
+      "existe": true,
+      "tamano_bytes": 19647
+    },
+    {
+      "ruta": "reportes/reporte_fase6_kg.json",
+      "existe": true,
+      "tamano_bytes": 6846
+    },
+    {
+      "ruta": "reportes/ac5_comparador_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 68175
+    },
+    {
+      "ruta": "reportes/ac8_control_calidad_corpus.json",
+      "existe": true,
+      "tamano_bytes": 4358
+    },
+    {
+      "ruta": "reportes/ac9_tendencias_temporales.json",
+      "existe": true,
+      "tamano_bytes": 22858
+    },
+    {
+      "ruta": "reportes/ac10_reporte_alertas.json",
+      "existe": true,
+      "tamano_bytes": 2743
+    },
+    {
+      "ruta": "knowledge_graph/simanw.ttl",
+      "existe": true,
+      "tamano_bytes": 2843967
+    },
+    {
+      "ruta": "knowledge_graph/simanw.rdf",
+      "existe": true,
+      "tamano_bytes": 4458798
+    },
+    {
+      "ruta": "knowledge_graph/simanw.jsonld",
+      "existe": true,
+      "tamano_bytes": 5793519
+    },
+    {
+      "ruta": "knowledge_graph/publicacion/manifiesto_publicacion.json",
+      "existe": true,
+      "tamano_bytes": 3303
+    },
+    {
+      "ruta": "evidencia/ac12_manifiesto_ejecucion.json",
+      "existe": true,
+      "tamano_bytes": 10198
+    }
+  ],
+  "conclusion_final": "El sistema SIMANW procesó 1364 noticias y consolidó un flujo completo de recuperación web, NLP, análisis, búsqueda, conversación, Knowledge Graph y reportes. La categoría con mayor presencia fue ciencia, mientras que el sentimiento más frecuente fue neutral. El tono promedio del corpus se clasificó como negativo. Además, el grafo semántico generado contiene 35444 triples RDF, lo que permite consultar las noticias mediante SPARQL y reutilizarlas como datos enlazados. La integración de reportes, alertas, evaluación de búsqueda y trazabilidad demuestra que el proyecto es funcional, auditable y preparado para una interfaz gráfica final."
+}

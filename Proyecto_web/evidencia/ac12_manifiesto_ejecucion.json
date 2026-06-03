@@ -1,0 +1,349 @@
+{
+  "actividad": "AC-12 Trazabilidad y reproducibilidad del pipeline",
+  "alumno": "Eladio Martinez Ambriz",
+  "fecha_ejecucion": "2026-06-03T02:44:57",
+  "version_proyecto": "SIMANW 1.0 - Enero Junio 2026",
+  "version_python": "3.12.3",
+  "ejecutable_python": "/home/yayo/Documentos/Proyecto_web/.venv/bin/python",
+  "sistema_operativo": {
+    "sistema": "Linux",
+    "version": "6.18.7-76061807-generic",
+    "arquitectura": "x86_64"
+  },
+  "git": {
+    "disponible": false,
+    "nota": "No se detectó repositorio Git o Git no está disponible."
+  },
+  "fuentes_noticias": {
+    "archivo": "config/fuentes_rss.json",
+    "existe": true,
+    "total_fuentes_detectadas": 42,
+    "fuentes": [
+      "https://www.xataka.com/index.xml",
+      "https://www.genbeta.com/index.xml",
+      "https://hipertextual.com/feed",
+      "https://www.microsiervos.com/index.xml",
+      "https://wwwhatsnew.com/feed/",
+      "https://www.bbc.com/mundo/temas/tecnologia/index.xml",
+      "https://www.agenciasinc.es/feed/Tecnologia",
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada",
+      "https://www.agenciasinc.es/feed/Ciencia",
+      "https://www.agenciasinc.es/rss/todas",
+      "https://www.xatakaciencia.com/index.xml",
+      "https://naukas.com/feed/",
+      "https://www.bbc.com/mundo/temas/ciencia/index.xml",
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+      "https://www.nationalgeographic.com.es/rss/noticias",
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+      "https://www.eleconomista.com.mx/rss/ultimas-noticias",
+      "https://www.jornada.com.mx/rss/economia.xml?v=1",
+      "https://www.elblogsalmon.com/index.xml",
+      "https://cincodias.elpais.com/rss/cincodias/portada.xml",
+      "https://www.expansion.com/rss/portada.xml",
+      "https://www.clarin.com/rss/economia/",
+      "https://www.jornada.com.mx/rss/politica.xml?v=1",
+      "https://editorial.aristeguinoticias.com/category/mexico/feed/",
+      "https://www.proceso.com.mx/rss/feed.html?r=3",
+      "https://www.animalpolitico.com/feed/",
+      "https://www.lapoliticaonline.com/files/rss/politica-mx.xml",
+      "https://www.europapress.es/rss/rss.aspx?ch=00066",
+      "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+      "https://as.com/rss/tags/ultimas_noticias.xml"
+    ]
+  },
+  "conteo_documentos_por_etapa": {
+    "fase_1_dataset_maestro": 1364,
+    "fase_2_dataset_nlp": 1364,
+    "fase_3_dataset_analizado": 1364,
+    "ac8_dataset_depurado": 1363,
+    "ac1_rastreo_paginado": 30
+  },
+  "knowledge_graph": {
+    "ttl": {
+      "ruta": "knowledge_graph/simanw.ttl",
+      "existe": true,
+      "tamano_bytes": 2843967,
+      "modificado": "2026-06-03T02:40:09",
+      "tipo_contenido": "rdf",
+      "formato_rdf": "turtle",
+      "triples": 35444
+    },
+    "rdf": {
+      "ruta": "knowledge_graph/simanw.rdf",
+      "existe": true,
+      "tamano_bytes": 4458798,
+      "modificado": "2026-06-03T02:40:09",
+      "tipo_contenido": "rdf",
+      "formato_rdf": "xml",
+      "triples": 35444
+    },
+    "jsonld": {
+      "ruta": "knowledge_graph/simanw.jsonld",
+      "existe": true,
+      "tamano_bytes": 5793519,
+      "modificado": "2026-06-03T02:40:10",
+      "tipo_contenido": "rdf",
+      "formato_rdf": "json-ld",
+      "triples": 35444
+    },
+    "triples_detectados": 35444
+  },
+  "artefactos": {
+    "fuentes_rss": {
+      "ruta": "config/fuentes_rss.json",
+      "existe": true,
+      "tamano_bytes": 2463,
+      "modificado": "2026-06-03T02:09:38",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "tecnologia",
+        "ciencia",
+        "economia",
+        "gobierno",
+        "deportes",
+        "mundo"
+      ],
+      "registros": null
+    },
+    "dataset_maestro": {
+      "ruta": "datos/dataset_maestro.json",
+      "existe": true,
+      "tamano_bytes": 1409084,
+      "modificado": "2026-06-03T02:33:38",
+      "tipo_contenido": "lista_json",
+      "registros": 1364
+    },
+    "dataset_nlp": {
+      "ruta": "datos/dataset_nlp.json",
+      "existe": true,
+      "tamano_bytes": 2160022,
+      "modificado": "2026-06-03T02:38:30",
+      "tipo_contenido": "lista_json",
+      "registros": 1364
+    },
+    "dataset_analizado": {
+      "ruta": "datos/dataset_analizado.json",
+      "existe": true,
+      "tamano_bytes": 2417634,
+      "modificado": "2026-06-03T02:36:56",
+      "tipo_contenido": "lista_json",
+      "registros": 1364
+    },
+    "dataset_depurado_ac8": {
+      "ruta": "datos/dataset_depurado_ac8.json",
+      "existe": true,
+      "tamano_bytes": 1481736,
+      "modificado": "2026-06-03T02:35:18",
+      "tipo_contenido": "lista_json",
+      "registros": 1363
+    },
+    "rastreo_paginado_ac1": {
+      "ruta": "datos/ac1_rastreo_paginado.json",
+      "existe": true,
+      "tamano_bytes": 14258,
+      "modificado": "2026-06-02T20:21:12",
+      "tipo_contenido": "lista_json",
+      "registros": 30
+    },
+    "indice_invertido": {
+      "ruta": "indices/indice_invertido.json",
+      "existe": true,
+      "tamano_bytes": 992051,
+      "modificado": "2026-06-03T01:14:49",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "china",
+        "desarrollado",
+        "capaz",
+        "coordinar",
+        "drones",
+        "objetivo",
+        "concreto",
+        "matar",
+        "enemigos",
+        "acierto",
+        "último",
+        "plan",
+        "quinquenal",
+        "deja",
+        "claro",
+        "corto",
+        "plazo",
+        "convertirse",
+        "primera",
+        "potencia"
+      ],
+      "registros": null
+    },
+    "metadata_busqueda": {
+      "ruta": "indices/metadatos_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 354515,
+      "modificado": "2026-06-03T01:14:49",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "fecha_generacion",
+        "info",
+        "documentos"
+      ],
+      "registros": null
+    },
+    "reporte_fase4": {
+      "ruta": "reportes/reporte_fase4_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 17523,
+      "modificado": "2026-06-03T01:14:49",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "fase",
+        "fecha",
+        "entrada",
+        "salidas",
+        "info_indice",
+        "demostracion_busqueda",
+        "demostracion_lenguaje_natural",
+        "evaluacion"
+      ],
+      "registros": 1149
+    },
+    "reporte_fase5": {
+      "ruta": "reportes/reporte_fase5_conversacion.json",
+      "existe": true,
+      "tamano_bytes": 19289,
+      "modificado": "2026-06-03T01:14:52",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "fase",
+        "fecha",
+        "entrada",
+        "total_noticias",
+        "evaluacion_demo",
+        "capacidades"
+      ],
+      "registros": 1149
+    },
+    "reporte_fase6": {
+      "ruta": "reportes/reporte_fase6_kg.json",
+      "existe": true,
+      "tamano_bytes": 6846,
+      "modificado": "2026-06-03T02:40:10",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "fase",
+        "fecha",
+        "entrada",
+        "total_noticias",
+        "total_triples",
+        "salidas",
+        "consultas_sparql",
+        "validacion"
+      ],
+      "registros": 1364
+    },
+    "reporte_ac5": {
+      "ruta": "reportes/ac5_comparador_busqueda.json",
+      "existe": true,
+      "tamano_bytes": 68175,
+      "modificado": "2026-06-02T17:45:56",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "actividad",
+        "fecha",
+        "origen_datos",
+        "info_indice",
+        "criterio_relevancia",
+        "consultas",
+        "evaluaciones",
+        "promedios",
+        "modelos_ganadores",
+        "conclusion"
+      ],
+      "registros": 142
+    },
+    "reporte_ac8": {
+      "ruta": "reportes/ac8_control_calidad_corpus.json",
+      "existe": true,
+      "tamano_bytes": 4358,
+      "modificado": "2026-06-03T02:35:18",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "actividad",
+        "fecha",
+        "entrada",
+        "salida_corpus_depurado",
+        "reglas",
+        "estadisticas",
+        "distribucion_fuentes",
+        "distribucion_categorias",
+        "rechazados",
+        "resumen_200_palabras"
+      ],
+      "registros": 1364
+    },
+    "reporte_ac9": {
+      "ruta": "reportes/ac9_tendencias_temporales.json",
+      "existe": true,
+      "tamano_bytes": 22858,
+      "modificado": "2026-06-03T02:42:23",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "granularidad",
+        "justificacion_granularidad",
+        "periodos",
+        "categorias_analizadas",
+        "conteos_por_periodo",
+        "tendencias_terminos",
+        "picos_y_caidas",
+        "tabla_resumen",
+        "conclusion"
+      ],
+      "registros": null
+    },
+    "reporte_ac10": {
+      "ruta": "reportes/ac10_reporte_alertas.json",
+      "existe": true,
+      "tamano_bytes": 2743,
+      "modificado": "2026-06-03T02:44:34",
+      "tipo_contenido": "objeto_json",
+      "claves_principales": [
+        "actividad",
+        "fecha",
+        "dataset_base",
+        "noticias_base_disponibles",
+        "consultas_guardadas",
+        "historial_alertas",
+        "noticias_nuevas_demo",
+        "ejecuciones",
+        "documentacion_duplicados"
+      ],
+      "registros": null
+    },
+    "grafo_ttl": {
+      "ruta": "knowledge_graph/simanw.ttl",
+      "existe": true,
+      "tamano_bytes": 2843967,
+      "modificado": "2026-06-03T02:40:09",
+      "tipo_contenido": "rdf",
+      "formato_rdf": "turtle",
+      "triples": 35444
+    },
+    "grafo_rdf": {
+      "ruta": "knowledge_graph/simanw.rdf",
+      "existe": true,
+      "tamano_bytes": 4458798,
+      "modificado": "2026-06-03T02:40:09",
+      "tipo_contenido": "rdf",
+      "formato_rdf": "xml",
+      "triples": 35444
+    },
+    "grafo_jsonld": {
+      "ruta": "knowledge_graph/simanw.jsonld",
+      "existe": true,
+      "tamano_bytes": 5793519,
+      "modificado": "2026-06-03T02:40:10",
+      "tipo_contenido": "rdf",
+      "formato_rdf": "json-ld",
+      "triples": 35444
+    }
+  }
+}

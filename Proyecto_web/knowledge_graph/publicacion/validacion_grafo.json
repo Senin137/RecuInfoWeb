@@ -1,0 +1,48 @@
+{
+  "tipo_validacion": "Reglas estructurales tipo SHACL simplificado sobre grafo RDF local",
+  "conforms": true,
+  "total_reglas": 5,
+  "total_violaciones": 0,
+  "violaciones": [
+    {
+      "regla": "R1",
+      "descripcion": "Cada simanw:Noticia debe tener simanw:titulo.",
+      "total_violaciones": 0,
+      "recursos": []
+    },
+    {
+      "regla": "R2",
+      "descripcion": "Cada simanw:Noticia debe tener simanw:url.",
+      "total_violaciones": 0,
+      "recursos": []
+    },
+    {
+      "regla": "R3",
+      "descripcion": "Cada simanw:Noticia debe tener una categoría.",
+      "total_violaciones": 0,
+      "recursos": []
+    },
+    {
+      "regla": "R4",
+      "descripcion": "Cada simanw:Noticia debe tener etiqueta de sentimiento.",
+      "total_violaciones": 0,
+      "recursos": []
+    },
+    {
+      "regla": "R5",
+      "descripcion": "Cada categoría debe tener rdfs:label.",
+      "total_violaciones": 0,
+      "recursos": []
+    }
+  ],
+  "correcciones_aplicadas_o_sugeridas": [
+    "No se detectaron violaciones en las reglas mínimas aplicadas."
+  ],
+  "validacion_minima_fase6": {
+    "conforms": true,
+    "noticias_validadas": 1364,
+    "sin_titulo": 0,
+    "sin_url": 0,
+    "criterio": "Cada simanw:Noticia debe tener simanw:titulo y simanw:url."
+  }
+}

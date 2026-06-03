@@ -1,0 +1,6 @@
+categoria,total_noticias,periodo_pico,conteo_pico,periodo_caida,conteo_caida,terminos_suben,terminos_bajan
+ciencia,309,2014-09,81,2017-03,0,"radio, enana, rosetta, piedra rosetta, piedra","mundo, cómo, recuerdo, convertir, vida"
+economia,295,2026-06,195,2014-08,0,"leer, méxico, euros, millones, mundial",
+tecnologia,293,2014-09,55,2017-03,0,"xataka, pro, móvil, iphone, ultra","bbc, video, celulares, vine, islámico"
+deportes,263,2026-06,216,2014-08,0,"quot, madrid, mundial, real, real madrid",
+gobierno,127,2026-06,80,2014-08,0,"sheinbaum, presidenta, méxico, gobierno, nacional",

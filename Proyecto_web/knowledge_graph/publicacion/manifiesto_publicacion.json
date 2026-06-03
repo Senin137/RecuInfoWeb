@@ -1,0 +1,82 @@
+{
+  "actividad": "AC-13 Publicación semántica y validación del grafo",
+  "fecha": "2026-06-03T02:40:18",
+  "nombre": "Publicación semántica SIMANW",
+  "total_triples": 35444,
+  "serializaciones": {
+    "turtle": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/simanw_publicado.ttl",
+    "rdf_xml": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/simanw_publicado.rdf",
+    "json_ld": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/simanw_publicado.jsonld"
+  },
+  "documentacion": {
+    "glosario": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/glosario_ontologia.md",
+    "consultas_sparql": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/consultas_sparql.json",
+    "resultados_consultas": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/resultados_consultas.json",
+    "validacion": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/validacion_grafo.json",
+    "enlaces_externos": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/enlaces_externos.md",
+    "jsonld_ejemplo": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/noticia_ejemplo.jsonld",
+    "reutilizacion": "/home/yayo/Documentos/Proyecto_web/knowledge_graph/publicacion/reutilizacion_datos.md"
+  },
+  "vocabularios_usados": [
+    "RDF",
+    "RDFS",
+    "OWL",
+    "SKOS",
+    "Dublin Core",
+    "DCTERMS",
+    "FOAF",
+    "Schema.org",
+    "Wikidata"
+  ],
+  "validacion": {
+    "tipo_validacion": "Reglas estructurales tipo SHACL simplificado sobre grafo RDF local",
+    "conforms": true,
+    "total_reglas": 5,
+    "total_violaciones": 0,
+    "violaciones": [
+      {
+        "regla": "R1",
+        "descripcion": "Cada simanw:Noticia debe tener simanw:titulo.",
+        "total_violaciones": 0,
+        "recursos": []
+      },
+      {
+        "regla": "R2",
+        "descripcion": "Cada simanw:Noticia debe tener simanw:url.",
+        "total_violaciones": 0,
+        "recursos": []
+      },
+      {
+        "regla": "R3",
+        "descripcion": "Cada simanw:Noticia debe tener una categoría.",
+        "total_violaciones": 0,
+        "recursos": []
+      },
+      {
+        "regla": "R4",
+        "descripcion": "Cada simanw:Noticia debe tener etiqueta de sentimiento.",
+        "total_violaciones": 0,
+        "recursos": []
+      },
+      {
+        "regla": "R5",
+        "descripcion": "Cada categoría debe tener rdfs:label.",
+        "total_violaciones": 0,
+        "recursos": []
+      }
+    ],
+    "correcciones_aplicadas_o_sugeridas": [
+      "No se detectaron violaciones en las reglas mínimas aplicadas."
+    ],
+    "validacion_minima_fase6": {
+      "conforms": true,
+      "noticias_validadas": 1364,
+      "sin_titulo": 0,
+      "sin_url": 0,
+      "criterio": "Cada simanw:Noticia debe tener simanw:titulo y simanw:url."
+    }
+  },
+  "enlaces_externos_detectados": 10,
+  "criterio_enlace": "Se enlazan categorías, entidades y recursos locales con URIs externas cuando existe una equivalencia conceptual clara o una relación semántica documentable con vocabularios públicos como Wikidata, Schema.org y Dublin Core.",
+  "descripcion": "Paquete RDF exportado para consulta, validación y reutilización académica sin necesidad de acceder al código fuente del SIMANW."
+}

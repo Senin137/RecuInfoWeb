@@ -1,0 +1,38 @@
+╔══════════════════════════════════════════════╗
+║   AC-2 — Análisis estadístico de textos      ║
+╚══════════════════════════════════════════════╝
+
+  ▶ Discurso educativo
+     Oraciones              : 8
+     Palabras totales        : 103
+     Vocabulario único       : 53
+     Riqueza léxica global   : 0.9464
+     Top bigramas            : [('educación herramienta', 1), ('herramienta poderosa', 1), ('poderosa transformar', 1)]
+     Top trigramas           : [('educación herramienta poderosa', 1), ('herramienta poderosa transformar', 1), ('poderosa transformar sociedad', 1)]
+     Entidades detectadas    : [('En México', 1), ('El Instituto\n            Tecnológico', 1), ('Morelia', 1), ('México', 1)]
+
+  ▶ Texto científico
+     Oraciones              : 5
+     Palabras totales        : 76
+     Vocabulario único       : 45
+     Riqueza léxica global   : 0.9375
+     Top bigramas            : [('procesamiento lenguaje', 1), ('lenguaje natural', 1), ('natural permite', 1)]
+     Top trigramas           : [('procesamiento lenguaje natural', 1), ('lenguaje natural permite', 1), ('natural permite computadoras', 1)]
+     Entidades detectadas    : [('Naive Bayes', 1)]
+
+  ▶ Artículo tecnológico
+     Oraciones              : 3
+     Palabras totales        : 55
+     Vocabulario único       : 38
+     Riqueza léxica global   : 1.0
+     Top bigramas            : [('openai google', 1), ('google microsoft', 1), ('microsoft anthropic', 1)]
+     Top trigramas           : [('openai google microsoft', 1), ('google microsoft anthropic', 1), ('microsoft anthropic compiten', 1)]
+     Entidades detectadas    : [('Open', 1), ('Google', 1), ('Microsoft', 1), ('Anthropic', 1), ('En América Latina', 1)]
+
+  ── Comparativa ─────────────────────────────
+  Discurso educativo       palabras=103  riqueza=0.9464 entidades=4
+  Texto científico         palabras=76   riqueza=0.9375 entidades=1
+  Artículo tecnológico     palabras=55   riqueza=1.0    entidades=8
+
+  [Reporte] Guardado → reportes/ac2_analisis_discurso.json
+  [Nube]    Guardada → graficos/ac2_nube_palabras.png

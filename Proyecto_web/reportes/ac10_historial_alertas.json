@@ -1,0 +1,77 @@
+{
+  "creado": "2026-06-02T18:50:23",
+  "alertas_emitidas": {
+    "958cac080e018abb0045": {
+      "alerta_id": "958cac080e018abb0045",
+      "consulta_id": "C001",
+      "consulta_nombre": "Inteligencia artificial",
+      "query": "inteligencia artificial machine learning modelos generativos",
+      "noticia_id": "34e940e450386287",
+      "noticia_titulo": "Nuevo modelo de inteligencia artificial mejora la búsqueda de noticias",
+      "noticia_url": "https://simanw.local/demo/ac10/ia-busqueda-noticias",
+      "categoria": "tecnologia",
+      "similitud": 0.2263,
+      "marca_tiempo": "2026-06-02T18:50:23",
+      "ejecucion": "ejecucion_con_5_noticias_nuevas"
+    },
+    "94844817f8d3c9e65b25": {
+      "alerta_id": "94844817f8d3c9e65b25",
+      "consulta_id": "C003",
+      "consulta_nombre": "Ciencia y clima",
+      "query": "ciencia investigación cambio climático salud estudio científico",
+      "noticia_id": "a2c8277592719b4a",
+      "noticia_titulo": "Estudio científico advierte sobre cambio climático y salud pública",
+      "noticia_url": "https://simanw.local/demo/ac10/ciencia-clima-salud",
+      "categoria": "ciencia",
+      "similitud": 0.3878,
+      "marca_tiempo": "2026-06-02T18:50:23",
+      "ejecucion": "ejecucion_con_5_noticias_nuevas"
+    },
+    "3b1c78aab006016ada7d": {
+      "alerta_id": "3b1c78aab006016ada7d",
+      "consulta_id": "C004",
+      "consulta_nombre": "Gobierno y política",
+      "query": "gobierno política elecciones congreso reforma ley justicia",
+      "noticia_id": "c0ae520a50c2df47",
+      "noticia_titulo": "Congreso discute reforma de justicia y nueva ley electoral",
+      "noticia_url": "https://simanw.local/demo/ac10/reforma-justicia-electoral",
+      "categoria": "gobierno",
+      "similitud": 0.2908,
+      "marca_tiempo": "2026-06-02T18:50:23",
+      "ejecucion": "ejecucion_con_5_noticias_nuevas"
+    },
+    "aaa15f2de4d9972332ef": {
+      "alerta_id": "aaa15f2de4d9972332ef",
+      "consulta_id": "C005",
+      "consulta_nombre": "Internacional y conflictos",
+      "query": "internacional mundo guerra conflicto migración países diplomacia",
+      "noticia_id": "099d8dc51e07873a",
+      "noticia_titulo": "Conflicto internacional genera nueva ronda de diplomacia",
+      "noticia_url": "https://simanw.local/demo/ac10/conflicto-diplomacia",
+      "categoria": "mundo",
+      "similitud": 0.1836,
+      "marca_tiempo": "2026-06-02T18:50:23",
+      "ejecucion": "ejecucion_con_5_noticias_nuevas"
+    },
+    "2e61645d412a5617e1d6": {
+      "alerta_id": "2e61645d412a5617e1d6",
+      "consulta_id": "C002",
+      "consulta_nombre": "Economía e inflación",
+      "query": "economía inflación mercados tasas banco inversión",
+      "noticia_id": "345ff56b599d6233",
+      "noticia_titulo": "Mercados reaccionan a nuevas señales de inflación",
+      "noticia_url": "https://simanw.local/demo/ac10/mercados-inflacion",
+      "categoria": "economia",
+      "similitud": 0.1635,
+      "marca_tiempo": "2026-06-03T02:44:34",
+      "ejecucion": "ejecucion_con_5_noticias_nuevas"
+    }
+  },
+  "orden": [
+    "958cac080e018abb0045",
+    "94844817f8d3c9e65b25",
+    "3b1c78aab006016ada7d",
+    "aaa15f2de4d9972332ef",
+    "2e61645d412a5617e1d6"
+  ]
+}

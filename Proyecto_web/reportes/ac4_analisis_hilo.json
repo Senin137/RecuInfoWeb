@@ -1,0 +1,338 @@
+{
+  "actividad": "AC-4 Análisis de hilos de discusión de red social",
+  "fecha": "2026-06-02T17:18:01",
+  "origen": "hilo_demo_ia",
+  "mensajes_analizados": [
+    {
+      "id": 1,
+      "usuario": "@dev_laura",
+      "texto": "Probé el nuevo asistente de IA para programar y me pareció impresionante. #IA #coding",
+      "timestamp": "10:00",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 2,
+      "usuario": "@tech_mike",
+      "texto": "Estoy de acuerdo, las sugerencias de código son muy precisas y ahorran tiempo. #IA",
+      "timestamp": "10:05",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 3,
+      "usuario": "@skeptic_joe",
+      "texto": "Pero me preocupa el desplazamiento laboral. Esta tecnología puede afectar a muchos trabajadores.",
+      "timestamp": "10:08",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 4,
+      "usuario": "@dev_laura",
+      "texto": "Buen punto, pero lo veo como una herramienta y no como un reemplazo total. #AItools",
+      "timestamp": "10:12",
+      "sentimiento": -0.296,
+      "tono": "negativo"
+    },
+    {
+      "id": 5,
+      "usuario": "@data_sara",
+      "texto": "El problema real está en los sesgos de los datos de entrenamiento. Se necesitan mejores datasets.",
+      "timestamp": "10:15",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 6,
+      "usuario": "@tech_mike",
+      "texto": "El progreso es innegable. Es una etapa emocionante para la innovación tecnológica. #innovation",
+      "timestamp": "10:20",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 7,
+      "usuario": "@skeptic_joe",
+      "texto": "Perdí un trabajo freelance por culpa de la IA. Esto es terrible para muchos trabajadores.",
+      "timestamp": "10:25",
+      "sentimiento": -0.2263,
+      "tono": "negativo"
+    },
+    {
+      "id": 8,
+      "usuario": "@prof_chen",
+      "texto": "La investigación muestra que la IA también puede crear nuevos empleos si hay capacitación.",
+      "timestamp": "10:30",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 9,
+      "usuario": "@data_sara",
+      "texto": "Necesitamos regulación y lineamientos éticos urgentes. #AIethics",
+      "timestamp": "10:35",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 10,
+      "usuario": "@dev_laura",
+      "texto": "Totalmente de acuerdo. El desarrollo responsable de IA es clave para evitar abusos. #responsible",
+      "timestamp": "10:40",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 11,
+      "usuario": "@tech_mike",
+      "texto": "Las empresas deberían invertir en capacitación de empleados antes de automatizar procesos.",
+      "timestamp": "10:45",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    },
+    {
+      "id": 12,
+      "usuario": "@prof_chen",
+      "texto": "Gran discusión. El futuro necesita innovación, responsabilidad y educación tecnológica.",
+      "timestamp": "10:50",
+      "sentimiento": 0.0,
+      "tono": "neutral"
+    }
+  ],
+  "resumen": {
+    "total_mensajes": 12,
+    "participantes": 5,
+    "sentimiento_promedio": -0.0435,
+    "tono": "neutral",
+    "positivos_pct": 0.0,
+    "negativos_pct": 16.67,
+    "neutrales_pct": 83.33,
+    "hashtags_top": [
+      [
+        "ia",
+        2
+      ],
+      [
+        "coding",
+        1
+      ],
+      [
+        "aitools",
+        1
+      ],
+      [
+        "innovation",
+        1
+      ],
+      [
+        "aiethics",
+        1
+      ],
+      [
+        "responsible",
+        1
+      ]
+    ],
+    "usuarios_activos": [
+      [
+        "@dev_laura",
+        3
+      ],
+      [
+        "@tech_mike",
+        3
+      ],
+      [
+        "@skeptic_joe",
+        2
+      ],
+      [
+        "@data_sara",
+        2
+      ],
+      [
+        "@prof_chen",
+        2
+      ]
+    ]
+  },
+  "evolucion_sentimiento": [
+    {
+      "posicion": 1,
+      "usuario": "@dev_laura",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": 0.0,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "neutral"
+    },
+    {
+      "posicion": 2,
+      "usuario": "@tech_mike",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": 0.0,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "neutral"
+    },
+    {
+      "posicion": 3,
+      "usuario": "@skeptic_joe",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": 0.0,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "neutral"
+    },
+    {
+      "posicion": 4,
+      "usuario": "@dev_laura",
+      "sentimiento_puntual": -0.296,
+      "tendencia_ventana": -0.0987,
+      "tono_puntual": "negativo",
+      "tono_tendencia": "negativo"
+    },
+    {
+      "posicion": 5,
+      "usuario": "@data_sara",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": -0.0987,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "negativo"
+    },
+    {
+      "posicion": 6,
+      "usuario": "@tech_mike",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": -0.0987,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "negativo"
+    },
+    {
+      "posicion": 7,
+      "usuario": "@skeptic_joe",
+      "sentimiento_puntual": -0.2263,
+      "tendencia_ventana": -0.0754,
+      "tono_puntual": "negativo",
+      "tono_tendencia": "negativo"
+    },
+    {
+      "posicion": 8,
+      "usuario": "@prof_chen",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": -0.0754,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "negativo"
+    },
+    {
+      "posicion": 9,
+      "usuario": "@data_sara",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": -0.0754,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "negativo"
+    },
+    {
+      "posicion": 10,
+      "usuario": "@dev_laura",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": 0.0,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "neutral"
+    },
+    {
+      "posicion": 11,
+      "usuario": "@tech_mike",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": 0.0,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "neutral"
+    },
+    {
+      "posicion": 12,
+      "usuario": "@prof_chen",
+      "sentimiento_puntual": 0.0,
+      "tendencia_ventana": 0.0,
+      "tono_puntual": "neutral",
+      "tono_tendencia": "neutral"
+    }
+  ],
+  "subtemas": {
+    "0": {
+      "keywords": [
+        "acuerdo",
+        "capacitación",
+        "tiempo",
+        "precisas",
+        "precisas ahorran",
+        "código"
+      ],
+      "n_mensajes": 8,
+      "mensajes_idx": [
+        0,
+        1,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10
+      ],
+      "usuarios": [
+        "@prof_chen",
+        "@tech_mike",
+        "@data_sara",
+        "@dev_laura"
+      ],
+      "ejemplos": [
+        "Probé el nuevo asistente de IA para programar y me pareció impresionante. #IA #coding",
+        "Estoy de acuerdo, las sugerencias de código son muy precisas y ahorran tiempo. #IA",
+        "Buen punto, pero lo veo como una herramienta y no como un reemplazo total. #AItools"
+      ]
+    },
+    "2": {
+      "keywords": [
+        "trabajadores",
+        "trabajo freelance",
+        "trabajo",
+        "terrible",
+        "tecnología afectar",
+        "terrible trabajadores"
+      ],
+      "n_mensajes": 2,
+      "mensajes_idx": [
+        2,
+        6
+      ],
+      "usuarios": [
+        "@skeptic_joe"
+      ],
+      "ejemplos": [
+        "Pero me preocupa el desplazamiento laboral. Esta tecnología puede afectar a muchos trabajadores.",
+        "Perdí un trabajo freelance por culpa de la IA. Esto es terrible para muchos trabajadores."
+      ]
+    },
+    "1": {
+      "keywords": [
+        "tecnológica",
+        "innovación",
+        "tecnológica innovation",
+        "innegable",
+        "futuro necesita",
+        "futuro"
+      ],
+      "n_mensajes": 2,
+      "mensajes_idx": [
+        5,
+        11
+      ],
+      "usuarios": [
+        "@prof_chen",
+        "@tech_mike"
+      ],
+      "ejemplos": [
+        "El progreso es innegable. Es una etapa emocionante para la innovación tecnológica. #innovation",
+        "Gran discusión. El futuro necesita innovación, responsabilidad y educación tecnológica."
+      ]
+    }
+  },
+  "resumen_automatico": "El hilo contiene 12 mensajes escritos por 5 participantes. El tono general es neutral (sentimiento promedio -0.043). La distribución emocional fue: 0.0% positivos, 16.67% negativos y 83.33% neutrales. Los usuarios más activos fueron: @dev_laura, @tech_mike, @skeptic_joe. Los hashtags principales fueron: #ia, #coding, #aitools, #innovation, #aiethics. Los subtemas dominantes fueron: acuerdo, capacitación, tiempo | trabajadores, trabajo freelance, trabajo | tecnológica, innovación, tecnológica innovation."
+}

@@ -1,0 +1,16 @@
+╔══════════════════════════════════════════════╗
+║   AC-8 — Control de calidad del corpus       ║
+╚══════════════════════════════════════════════╝
+  Entrada        : /home/yayo/Documentos/Proyecto_web/datos/dataset_maestro.json
+  Total registros: 1729
+  Válidos        : 1728
+  Rechazados     : 1
+  Inválidos      : 1
+  Dup. exactos   : 0
+  Dup. similares : 0
+
+  Resumen:
+  El control de calidad revisó 1729 registros del corpus rastreado. Se conservaron 1728 noticias válidas y se descartaron 1. Los descartes se debieron principalmente a campo_titulo_demasiado_corto. Se detectaron 1 registros inválidos o incompletos, 0 duplicados exactos y 0 duplicados casi idénticos por coincidencia de título o URL. El corpus depurado conserva únicamente noticias con campos obligatorios, URL coherente, fecha aceptable y cuerpo con longitud mínima suficiente para las fases de NLP.
+
+  [Corpus depurado] Guardado → /home/yayo/Documentos/Proyecto_web/datos/dataset_depurado_ac8.json
+  [Reporte]         Guardado → /home/yayo/Documentos/Proyecto_web/reportes/ac8_control_calidad_corpus.json

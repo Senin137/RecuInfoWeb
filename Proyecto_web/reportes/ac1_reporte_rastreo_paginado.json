@@ -1,0 +1,11 @@
+{
+  "actividad": "AC-1 Rastreo de sitio real con paginacion",
+  "sitio": "Hacker News",
+  "url_inicio": "https://news.ycombinator.com/news?p=1",
+  "paginas_visitadas": 1,
+  "noticias_extraidas": 30,
+  "delay_segundos": 3,
+  "robots_txt_respetado": true,
+  "cumple_minimo_20": true,
+  "fecha": "2026-06-03T04:35:31"
+}

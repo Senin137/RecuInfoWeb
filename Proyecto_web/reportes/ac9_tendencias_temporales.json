@@ -1,0 +1,796 @@
+{
+  "granularidad": "mes",
+  "justificacion_granularidad": "Se eligió granularidad mensual porque el rango temporal del corpus es de 4311 días; esto reduce ruido y permite comparar tendencias agregadas con mayor estabilidad.",
+  "periodos": [
+    "2014-08",
+    "2014-09",
+    "2017-03",
+    "2022-01",
+    "2023-01",
+    "2023-02",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "categorias_analizadas": [
+    "ciencia",
+    "economia",
+    "tecnologia",
+    "deportes",
+    "gobierno"
+  ],
+  "conteos_por_periodo": {
+    "ciencia": {
+      "2014-08": 14,
+      "2014-09": 81,
+      "2017-03": 0,
+      "2022-01": 11,
+      "2023-01": 0,
+      "2023-02": 0,
+      "2023-08": 0,
+      "2023-09": 1,
+      "2023-10": 0,
+      "2023-11": 0,
+      "2023-12": 0,
+      "2024-01": 1,
+      "2024-02": 0,
+      "2024-03": 0,
+      "2024-04": 0,
+      "2024-05": 1,
+      "2024-06": 2,
+      "2024-07": 0,
+      "2024-08": 0,
+      "2024-09": 1,
+      "2024-10": 0,
+      "2024-11": 1,
+      "2024-12": 0,
+      "2025-01": 0,
+      "2025-02": 1,
+      "2025-03": 16,
+      "2025-04": 8,
+      "2025-05": 7,
+      "2025-06": 10,
+      "2025-07": 8,
+      "2025-08": 3,
+      "2025-09": 11,
+      "2025-10": 14,
+      "2025-11": 18,
+      "2025-12": 11,
+      "2026-01": 14,
+      "2026-02": 12,
+      "2026-03": 16,
+      "2026-04": 16,
+      "2026-05": 19,
+      "2026-06": 12
+    },
+    "economia": {
+      "2014-08": 0,
+      "2014-09": 3,
+      "2017-03": 1,
+      "2022-01": 0,
+      "2023-01": 7,
+      "2023-02": 54,
+      "2023-08": 0,
+      "2023-09": 0,
+      "2023-10": 0,
+      "2023-11": 0,
+      "2023-12": 0,
+      "2024-01": 0,
+      "2024-02": 0,
+      "2024-03": 0,
+      "2024-04": 0,
+      "2024-05": 0,
+      "2024-06": 0,
+      "2024-07": 0,
+      "2024-08": 0,
+      "2024-09": 0,
+      "2024-10": 0,
+      "2024-11": 0,
+      "2024-12": 0,
+      "2025-01": 0,
+      "2025-02": 0,
+      "2025-03": 0,
+      "2025-04": 0,
+      "2025-05": 0,
+      "2025-06": 0,
+      "2025-07": 0,
+      "2025-08": 0,
+      "2025-09": 0,
+      "2025-10": 0,
+      "2025-11": 0,
+      "2025-12": 1,
+      "2026-01": 1,
+      "2026-02": 0,
+      "2026-03": 2,
+      "2026-04": 2,
+      "2026-05": 29,
+      "2026-06": 195
+    },
+    "tecnologia": {
+      "2014-08": 43,
+      "2014-09": 55,
+      "2017-03": 0,
+      "2022-01": 0,
+      "2023-01": 0,
+      "2023-02": 0,
+      "2023-08": 1,
+      "2023-09": 4,
+      "2023-10": 5,
+      "2023-11": 9,
+      "2023-12": 1,
+      "2024-01": 8,
+      "2024-02": 6,
+      "2024-03": 1,
+      "2024-04": 3,
+      "2024-05": 2,
+      "2024-06": 3,
+      "2024-07": 4,
+      "2024-08": 1,
+      "2024-09": 5,
+      "2024-10": 2,
+      "2024-11": 2,
+      "2024-12": 1,
+      "2025-01": 1,
+      "2025-02": 1,
+      "2025-03": 0,
+      "2025-04": 11,
+      "2025-05": 8,
+      "2025-06": 4,
+      "2025-07": 5,
+      "2025-08": 1,
+      "2025-09": 4,
+      "2025-10": 1,
+      "2025-11": 4,
+      "2025-12": 13,
+      "2026-01": 2,
+      "2026-02": 4,
+      "2026-03": 5,
+      "2026-04": 5,
+      "2026-05": 14,
+      "2026-06": 54
+    },
+    "deportes": {
+      "2014-08": 0,
+      "2014-09": 0,
+      "2017-03": 0,
+      "2022-01": 0,
+      "2023-01": 0,
+      "2023-02": 0,
+      "2023-08": 0,
+      "2023-09": 0,
+      "2023-10": 0,
+      "2023-11": 0,
+      "2023-12": 0,
+      "2024-01": 0,
+      "2024-02": 0,
+      "2024-03": 0,
+      "2024-04": 0,
+      "2024-05": 0,
+      "2024-06": 0,
+      "2024-07": 0,
+      "2024-08": 0,
+      "2024-09": 0,
+      "2024-10": 0,
+      "2024-11": 0,
+      "2024-12": 0,
+      "2025-01": 0,
+      "2025-02": 0,
+      "2025-03": 0,
+      "2025-04": 0,
+      "2025-05": 0,
+      "2025-06": 0,
+      "2025-07": 1,
+      "2025-08": 2,
+      "2025-09": 0,
+      "2025-10": 0,
+      "2025-11": 0,
+      "2025-12": 0,
+      "2026-01": 0,
+      "2026-02": 0,
+      "2026-03": 2,
+      "2026-04": 1,
+      "2026-05": 41,
+      "2026-06": 216
+    },
+    "gobierno": {
+      "2014-08": 0,
+      "2014-09": 0,
+      "2017-03": 0,
+      "2022-01": 0,
+      "2023-01": 0,
+      "2023-02": 0,
+      "2023-08": 0,
+      "2023-09": 0,
+      "2023-10": 0,
+      "2023-11": 0,
+      "2023-12": 0,
+      "2024-01": 0,
+      "2024-02": 0,
+      "2024-03": 0,
+      "2024-04": 0,
+      "2024-05": 0,
+      "2024-06": 0,
+      "2024-07": 0,
+      "2024-08": 0,
+      "2024-09": 0,
+      "2024-10": 0,
+      "2024-11": 0,
+      "2024-12": 0,
+      "2025-01": 0,
+      "2025-02": 0,
+      "2025-03": 0,
+      "2025-04": 0,
+      "2025-05": 0,
+      "2025-06": 0,
+      "2025-07": 0,
+      "2025-08": 0,
+      "2025-09": 0,
+      "2025-10": 0,
+      "2025-11": 0,
+      "2025-12": 0,
+      "2026-01": 0,
+      "2026-02": 0,
+      "2026-03": 0,
+      "2026-04": 0,
+      "2026-05": 47,
+      "2026-06": 80
+    }
+  },
+  "tendencias_terminos": {
+    "ciencia": {
+      "primer_periodo": "2014-08",
+      "ultimo_periodo": "2026-06",
+      "terminos_aumentan": [
+        {
+          "termino": "radio",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 9,
+          "cambio": 9
+        },
+        {
+          "termino": "enana",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 9,
+          "cambio": 9
+        },
+        {
+          "termino": "rosetta",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 7,
+          "cambio": 7
+        },
+        {
+          "termino": "piedra rosetta",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 7,
+          "cambio": 7
+        },
+        {
+          "termino": "piedra",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 7,
+          "cambio": 7
+        },
+        {
+          "termino": "señal",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 6,
+          "cambio": 6
+        },
+        {
+          "termino": "cada",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 6,
+          "cambio": 6
+        },
+        {
+          "termino": "telescopios",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 5,
+          "cambio": 5
+        }
+      ],
+      "terminos_disminuyen": [
+        {
+          "termino": "mundo",
+          "frecuencia_inicio": 4,
+          "frecuencia_final": 0,
+          "cambio": -4
+        },
+        {
+          "termino": "cómo",
+          "frecuencia_inicio": 5,
+          "frecuencia_final": 1,
+          "cambio": -4
+        },
+        {
+          "termino": "recuerdo",
+          "frecuencia_inicio": 3,
+          "frecuencia_final": 0,
+          "cambio": -3
+        },
+        {
+          "termino": "convertir",
+          "frecuencia_inicio": 3,
+          "frecuencia_final": 0,
+          "cambio": -3
+        },
+        {
+          "termino": "vida",
+          "frecuencia_inicio": 3,
+          "frecuencia_final": 1,
+          "cambio": -2
+        },
+        {
+          "termino": "banda",
+          "frecuencia_inicio": 2,
+          "frecuencia_final": 0,
+          "cambio": -2
+        },
+        {
+          "termino": "cuál",
+          "frecuencia_inicio": 2,
+          "frecuencia_final": 0,
+          "cambio": -2
+        },
+        {
+          "termino": "asiento inodoro",
+          "frecuencia_inicio": 2,
+          "frecuencia_final": 0,
+          "cambio": -2
+        }
+      ]
+    },
+    "economia": {
+      "primer_periodo": "2014-08",
+      "ultimo_periodo": "2026-06",
+      "terminos_aumentan": [
+        {
+          "termino": "leer",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 62,
+          "cambio": 62
+        },
+        {
+          "termino": "méxico",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 44,
+          "cambio": 44
+        },
+        {
+          "termino": "euros",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 44,
+          "cambio": 44
+        },
+        {
+          "termino": "millones",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 44,
+          "cambio": 44
+        },
+        {
+          "termino": "mundial",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 35,
+          "cambio": 35
+        },
+        {
+          "termino": "españa",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 31,
+          "cambio": 31
+        },
+        {
+          "termino": "país",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 29,
+          "cambio": 29
+        },
+        {
+          "termino": "inversión",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 25,
+          "cambio": 25
+        }
+      ],
+      "terminos_disminuyen": []
+    },
+    "tecnologia": {
+      "primer_periodo": "2014-08",
+      "ultimo_periodo": "2026-06",
+      "terminos_aumentan": [
+        {
+          "termino": "xataka",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 101,
+          "cambio": 101
+        },
+        {
+          "termino": "pro",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 76,
+          "cambio": 76
+        },
+        {
+          "termino": "móvil",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 75,
+          "cambio": 75
+        },
+        {
+          "termino": "iphone",
+          "frecuencia_inicio": 2,
+          "frecuencia_final": 72,
+          "cambio": 70
+        },
+        {
+          "termino": "ultra",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 67,
+          "cambio": 67
+        },
+        {
+          "termino": "iphone pro",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 52,
+          "cambio": 52
+        },
+        {
+          "termino": "samsung",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 47,
+          "cambio": 47
+        },
+        {
+          "termino": "mejor",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 47,
+          "cambio": 47
+        }
+      ],
+      "terminos_disminuyen": [
+        {
+          "termino": "bbc",
+          "frecuencia_inicio": 6,
+          "frecuencia_final": 0,
+          "cambio": -6
+        },
+        {
+          "termino": "video",
+          "frecuencia_inicio": 6,
+          "frecuencia_final": 0,
+          "cambio": -6
+        },
+        {
+          "termino": "celulares",
+          "frecuencia_inicio": 4,
+          "frecuencia_final": 0,
+          "cambio": -4
+        },
+        {
+          "termino": "vine",
+          "frecuencia_inicio": 4,
+          "frecuencia_final": 0,
+          "cambio": -4
+        },
+        {
+          "termino": "islámico",
+          "frecuencia_inicio": 3,
+          "frecuencia_final": 0,
+          "cambio": -3
+        },
+        {
+          "termino": "habló",
+          "frecuencia_inicio": 3,
+          "frecuencia_final": 0,
+          "cambio": -3
+        },
+        {
+          "termino": "formas",
+          "frecuencia_inicio": 5,
+          "frecuencia_final": 2,
+          "cambio": -3
+        },
+        {
+          "termino": "california",
+          "frecuencia_inicio": 3,
+          "frecuencia_final": 0,
+          "cambio": -3
+        }
+      ]
+    },
+    "deportes": {
+      "primer_periodo": "2014-08",
+      "ultimo_periodo": "2026-06",
+      "terminos_aumentan": [
+        {
+          "termino": "quot",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 56,
+          "cambio": 56
+        },
+        {
+          "termino": "madrid",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 41,
+          "cambio": 41
+        },
+        {
+          "termino": "mundial",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 36,
+          "cambio": 36
+        },
+        {
+          "termino": "real",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 29,
+          "cambio": 29
+        },
+        {
+          "termino": "real madrid",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 24,
+          "cambio": 24
+        },
+        {
+          "termino": "junio",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 23,
+          "cambio": 23
+        },
+        {
+          "termino": "dos",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 23,
+          "cambio": 23
+        },
+        {
+          "termino": "club",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 22,
+          "cambio": 22
+        }
+      ],
+      "terminos_disminuyen": []
+    },
+    "gobierno": {
+      "primer_periodo": "2014-08",
+      "ultimo_periodo": "2026-06",
+      "terminos_aumentan": [
+        {
+          "termino": "sheinbaum",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 22,
+          "cambio": 22
+        },
+        {
+          "termino": "presidenta",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 21,
+          "cambio": 21
+        },
+        {
+          "termino": "méxico",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 19,
+          "cambio": 19
+        },
+        {
+          "termino": "gobierno",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 18,
+          "cambio": 18
+        },
+        {
+          "termino": "nacional",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 16,
+          "cambio": 16
+        },
+        {
+          "termino": "millones",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 14,
+          "cambio": 14
+        },
+        {
+          "termino": "unidos",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 14,
+          "cambio": 14
+        },
+        {
+          "termino": "mil",
+          "frecuencia_inicio": 0,
+          "frecuencia_final": 13,
+          "cambio": 13
+        }
+      ],
+      "terminos_disminuyen": []
+    }
+  },
+  "picos_y_caidas": {
+    "ciencia": {
+      "pico": {
+        "periodo": "2014-09",
+        "conteo": 81,
+        "titulos_reales": [
+          "Dyson 2014: La élite de los inventores muestra sus mejores proyectos",
+          "La fascinación por la misteriosa tumba de la era de Alejandro Magno",
+          "Líderes de 125 países se reúnen para debatir sobre cambio climático",
+          "Cómo se forman las ideas",
+          "Ecuador: cuerpo disecado de \"Solitario Jorge\" no será llevado a Galápagos"
+        ]
+      },
+      "caida": {
+        "periodo": "2017-03",
+        "conteo": 0,
+        "titulos_reales": []
+      },
+      "variacion_pico_caida": 81
+    },
+    "economia": {
+      "pico": {
+        "periodo": "2026-06",
+        "conteo": 195,
+        "titulos_reales": [
+          "La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho de Ormuz se prolonga",
+          "España propone a México duplicar el comercio bilateral para 2030",
+          "Las claves de un ultimátum: cómo Washington consumó el jaque al decaído turismo en Cuba",
+          "Las medidas para contener el alza de bajas laborales encallan: el Gobierno intenta sumar a la patronal a un pacto de mínimos",
+          "La realidad paralela de Trump, en otra dimensión"
+        ]
+      },
+      "caida": {
+        "periodo": "2014-08",
+        "conteo": 0,
+        "titulos_reales": []
+      },
+      "variacion_pico_caida": 195
+    },
+    "tecnologia": {
+      "pico": {
+        "periodo": "2014-09",
+        "conteo": 55,
+        "titulos_reales": [
+          "¿Cómo evitar las trampas de los hackers en eBay?",
+          "¿Por qué internet en Venezuela es tan lento?",
+          "Cómo ocurrió la nueva filtración de fotos de  Kim Kardashian",
+          "Apple vendió 10 millones de unidades de iPhone 6 en su primer fin de semana",
+          "La sartén inteligente que puede revolucionar tu cocina"
+        ]
+      },
+      "caida": {
+        "periodo": "2017-03",
+        "conteo": 0,
+        "titulos_reales": []
+      },
+      "variacion_pico_caida": 55
+    },
+    "deportes": {
+      "pico": {
+        "periodo": "2026-06",
+        "conteo": 216,
+        "titulos_reales": [
+          "Marruecos va muy en serio: sale a goleada por partido",
+          "Rossy de Palma: &quot;No me gustan los artistas que se creen que son algo&quot;",
+          "Mensik se cuela en la fiesta brasileña de Fonseca&lt;br&gt;",
+          "Jaime Fernández coloca al Real Madrid al borde del abismo&lt;br&gt;",
+          "Javi Guerra le abre la puerta a Ramazani: &quot;Se queda&quot;"
+        ]
+      },
+      "caida": {
+        "periodo": "2014-08",
+        "conteo": 0,
+        "titulos_reales": []
+      },
+      "variacion_pico_caida": 216
+    },
+    "gobierno": {
+      "pico": {
+        "periodo": "2026-06",
+        "conteo": 80,
+        "titulos_reales": [
+          "CSP: Pemex firmará convenio con Petrobras",
+          "Morena afirma que esperará pruebas contra sinaloenses",
+          "Gobierno de México refrenda diálogo con la CNTE; reanudarán mesas de trabajo este miércoles",
+          "¿Consolida la Presidenta su liderazgo?",
+          "Carlos Fernández-Vega: México SA"
+        ]
+      },
+      "caida": {
+        "periodo": "2014-08",
+        "conteo": 0,
+        "titulos_reales": []
+      },
+      "variacion_pico_caida": 80
+    }
+  },
+  "tabla_resumen": [
+    {
+      "categoria": "ciencia",
+      "total_noticias": 309,
+      "periodo_pico": "2014-09",
+      "conteo_pico": 81,
+      "periodo_caida": "2017-03",
+      "conteo_caida": 0,
+      "terminos_suben": "radio, enana, rosetta, piedra rosetta, piedra",
+      "terminos_bajan": "mundo, cómo, recuerdo, convertir, vida"
+    },
+    {
+      "categoria": "economia",
+      "total_noticias": 295,
+      "periodo_pico": "2026-06",
+      "conteo_pico": 195,
+      "periodo_caida": "2014-08",
+      "conteo_caida": 0,
+      "terminos_suben": "leer, méxico, euros, millones, mundial",
+      "terminos_bajan": ""
+    },
+    {
+      "categoria": "tecnologia",
+      "total_noticias": 293,
+      "periodo_pico": "2014-09",
+      "conteo_pico": 55,
+      "periodo_caida": "2017-03",
+      "conteo_caida": 0,
+      "terminos_suben": "xataka, pro, móvil, iphone, ultra",
+      "terminos_bajan": "bbc, video, celulares, vine, islámico"
+    },
+    {
+      "categoria": "deportes",
+      "total_noticias": 263,
+      "periodo_pico": "2026-06",
+      "conteo_pico": 216,
+      "periodo_caida": "2014-08",
+      "conteo_caida": 0,
+      "terminos_suben": "quot, madrid, mundial, real, real madrid",
+      "terminos_bajan": ""
+    },
+    {
+      "categoria": "gobierno",
+      "total_noticias": 127,
+      "periodo_pico": "2026-06",
+      "conteo_pico": 80,
+      "periodo_caida": "2014-08",
+      "conteo_caida": 0,
+      "terminos_suben": "sheinbaum, presidenta, méxico, gobierno, nacional",
+      "terminos_bajan": ""
+    }
+  ],
+  "conclusion": "# Conclusión AC-9: Línea de tiempo y tendencias por tema\n\nEl análisis temporal se realizó con granularidad **mes**. Se eligió granularidad mensual porque el rango temporal del corpus es de 4311 días; esto reduce ruido y permite comparar tendencias agregadas con mayor estabilidad.\n\nEl corpus analizado cubre **41 periodos** y las categorías principales fueron: ciencia, economia, tecnologia, deportes, gobierno.\n\nLa categoría con mayor presencia acumulada fue **ciencia**, con **309 noticias**.\n\n## Categoría: ciencia\nSu punto más alto ocurrió en **2014-09** con **81 noticias**, mientras que su nivel más bajo apareció en **2017-03** con **0 noticias**.\nLas expresiones que más aumentaron fueron: **radio**, **enana**, **rosetta**, **piedra rosetta**, **piedra**.\nLas expresiones que más disminuyeron fueron: **mundo**, **cómo**, **recuerdo**, **convertir**, **vida**.\nEl pico se apoya en títulos reales como: “Dyson 2014: La élite de los inventores muestra sus mejores proyectos”; “La fascinación por la misteriosa tumba de la era de Alejandro Magno”; “Líderes de 125 países se reúnen para debatir sobre cambio climático”.\n\n## Categoría: economia\nSu punto más alto ocurrió en **2026-06** con **195 noticias**, mientras que su nivel más bajo apareció en **2014-08** con **0 noticias**.\nLas expresiones que más aumentaron fueron: **leer**, **méxico**, **euros**, **millones**, **mundial**.\nEl pico se apoya en títulos reales como: “La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho ”; “España propone a México duplicar el comercio bilateral para 2030”; “Las claves de un ultimátum: cómo Washington consumó el jaque al decaído turismo en Cuba”.\n\n## Categoría: tecnologia\nSu punto más alto ocurrió en **2014-09** con **55 noticias**, mientras que su nivel más bajo apareció en **2017-03** con **0 noticias**.\nLas expresiones que más aumentaron fueron: **xataka**, **pro**, **móvil**, **iphone**, **ultra**.\nLas expresiones que más disminuyeron fueron: **bbc**, **video**, **celulares**, **vine**, **islámico**.\nEl pico se apoya en títulos reales como: “¿Cómo evitar las trampas de los hackers en eBay?”; “¿Por qué internet en Venezuela es tan lento?”; “Cómo ocurrió la nueva filtración de fotos de  Kim Kardashian”.\n\n## Categoría: deportes\nSu punto más alto ocurrió en **2026-06** con **216 noticias**, mientras que su nivel más bajo apareció en **2014-08** con **0 noticias**.\nLas expresiones que más aumentaron fueron: **quot**, **madrid**, **mundial**, **real**, **real madrid**.\nEl pico se apoya en títulos reales como: “Marruecos va muy en serio: sale a goleada por partido”; “Rossy de Palma: &quot;No me gustan los artistas que se creen que son algo&quot;”; “Mensik se cuela en la fiesta brasileña de Fonseca&lt;br&gt;”.\n\n## Categoría: gobierno\nSu punto más alto ocurrió en **2026-06** con **80 noticias**, mientras que su nivel más bajo apareció en **2014-08** con **0 noticias**.\nLas expresiones que más aumentaron fueron: **sheinbaum**, **presidenta**, **méxico**, **gobierno**, **nacional**.\nEl pico se apoya en títulos reales como: “CSP: Pemex firmará convenio con Petrobras”; “Morena afirma que esperará pruebas contra sinaloenses”; “Gobierno de México refrenda diálogo con la CNTE; reanudarán mesas de trabajo este miércole”.\n\nEn conjunto, la línea de tiempo permite observar que el SIMANW no solo clasifica noticias de forma estática, sino que también puede detectar variaciones de presencia temática. Esto es útil para identificar momentos de mayor cobertura, cambios de agenda informativa y términos emergentes dentro del corpus."
+}

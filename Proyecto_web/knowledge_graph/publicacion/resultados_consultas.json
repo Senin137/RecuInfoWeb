@@ -1,0 +1,251 @@
+{
+  "Q1": {
+    "nombre": "Categorías con mayor cobertura",
+    "pregunta_negocio": "¿Qué categorías tienen más noticias en el corpus?",
+    "total_resultados": 6,
+    "resultados": [
+      {
+        "categoria": "ciencia",
+        "total": "309"
+      },
+      {
+        "categoria": "economia",
+        "total": "295"
+      },
+      {
+        "categoria": "tecnologia",
+        "total": "293"
+      },
+      {
+        "categoria": "deportes",
+        "total": "263"
+      },
+      {
+        "categoria": "gobierno",
+        "total": "127"
+      },
+      {
+        "categoria": "mundo",
+        "total": "77"
+      }
+    ]
+  },
+  "Q2": {
+    "nombre": "Noticias con sentimiento negativo fuerte",
+    "pregunta_negocio": "¿Qué noticias tienen mayor polaridad negativa?",
+    "total_resultados": 10,
+    "resultados": [
+      {
+        "titulo": "Tras probarlos, los expertos de Xataka coinciden: estos son los mejores móviles de 2026",
+        "score": "-0.9948",
+        "url": "https://www.xataka.com/seleccion/mejores-moviles"
+      },
+      {
+        "titulo": "El problema no es que los cargos intermedios se estén jubilando en masa. Es que la generación Z no quiere su puesto",
+        "score": "-0.9886",
+        "url": "https://www.xataka.com/empresas-y-economia/problema-no-que-cargos-intermedios-se-esten-jubilando-masa-que-generacion-z-no-quiere-su-puesto"
+      },
+      {
+        "titulo": "Estamos obsesionados con el magnesio como suplemento a la dieta. Su \"sobredosis\" tiene un nombre: hipermagnesemia",
+        "score": "-0.9872",
+        "url": "https://www.xataka.com/medicina-y-salud/estamos-obsesionados-magnesio-como-suplemento-a-dieta-su-sobredosis-tiene-nombre-hipermagnesemia"
+      },
+      {
+        "titulo": "iPhone 18 Pro y iPhone 18 Pro Max: todo lo que creemos saber sobre los nuevos móviles de Apple",
+        "score": "-0.9864",
+        "url": "https://www.xataka.com/moviles/iphone-18-pro-iphone-18-pro-max-informacion"
+      },
+      {
+        "titulo": "‘Minecraft’ no parece el mejor sitio para calcular pi: dos investigadores han encontrado cómo aproximarlo dentro del juego",
+        "score": "-0.9864",
+        "url": "https://www.xataka.com/videojuegos/minecraft-no-parece-mejor-sitio-para-calcular-pi-dos-investigadores-han-encontrado-como-aproximarlo-dentro-juego"
+      },
+      {
+        "titulo": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
+        "score": "-0.9842",
+        "url": "https://www.genbeta.com/inteligencia-artificial/ceo-cada-vez-exigen-horas-trabajo-empleados-valoran-que-nunca-ocio-ia-tiene-mucha-culpa-ambos"
+      },
+      {
+        "titulo": "China ha desarrollado una IA capaz de coordinar drones con un objetivo muy concreto: matar a los enemigos con un acierto del 100%",
+        "score": "-0.9842",
+        "url": "https://www.xataka.com/robotica-e-ia/china-ha-desarrollado-ia-capaz-coordinar-drones-objetivo-muy-concreto-matar-a-enemigos-acierto-100"
+      },
+      {
+        "titulo": "El mayor error que puedes cometer la noche antes de la Selectividad no es dejarte un tema sin mirar: es no dormir",
+        "score": "-0.9831",
+        "url": "https://www.xataka.com/investigacion/mayor-error-que-puedes-cometer-noche-antes-selectividad-no-dejarte-tema-mirar-no-dormir"
+      },
+      {
+        "titulo": "Un inquilino entrega al propietario un piso con un desconchón en la bañera y meses después le reclama 5.100 euros por los daños: la justicia dice que eran desperfectos por el desgaste habitual y no por un mal uso",
+        "score": "-0.9826",
+        "url": "https://www.elblogsalmon.com/economia-domestica/inquilino-entrega-al-propietario-piso-desconchon-banera-meses-despues-le-reclama-5-100-euros-danos-justicia-dice-que-eran-desperfectos-desgaste-habitual-no-mal-uso"
+      },
+      {
+        "titulo": "2026 será un año histórico para los smartphones. El peor año de la historia, concretamente",
+        "score": "-0.9823",
+        "url": "https://www.xataka.com/moviles/2026-sera-ano-historico-para-smartphones-peor-ano-historia-concretamente"
+      }
+    ]
+  },
+  "Q3": {
+    "nombre": "Fuentes con más noticias",
+    "pregunta_negocio": "¿Qué fuentes alimentan más el corpus?",
+    "total_resultados": 10,
+    "resultados": [
+      {
+        "fuente": "https://www.agenciasinc.es/feed/Ciencia",
+        "total": "150"
+      },
+      {
+        "fuente": "https://www.mundodeportivo.com/rss/home.xml",
+        "total": "137"
+      },
+      {
+        "fuente": "https://www.agenciasinc.es/feed/Tecnologia",
+        "total": "120"
+      },
+      {
+        "fuente": "https://www.bbc.com/mundo/temas/tecnologia/index.xml",
+        "total": "100"
+      },
+      {
+        "fuente": "https://www.eleconomista.com.mx/rss/ultimas-noticias",
+        "total": "98"
+      },
+      {
+        "fuente": "https://www.bbc.com/mundo/temas/ciencia/index.xml",
+        "total": "96"
+      },
+      {
+        "fuente": "https://www.expansion.com/rss/portada.xml",
+        "total": "67"
+      },
+      {
+        "fuente": "https://cincodias.elpais.com/rss/cincodias/portada.xml",
+        "total": "62"
+      },
+      {
+        "fuente": "https://feeds.bbci.co.uk/mundo/topics/cdr56g57ywgt/rss.xml",
+        "total": "57"
+      },
+      {
+        "fuente": "https://www.lapoliticaonline.com/files/rss/politica-mx.xml",
+        "total": "50"
+      }
+    ]
+  },
+  "Q4": {
+    "nombre": "Noticias relacionadas con datasets abiertos",
+    "pregunta_negocio": "¿Qué noticias fueron vinculadas con datos abiertos?",
+    "total_resultados": 15,
+    "resultados": [
+      {
+        "titulo": "Oppo Find X9 Ultra vs Galaxy S26 Ultra: una de las mejores cámaras se lo pone difícil a Samsung. Y eso sin olvidar el silicio-carbono",
+        "dataset": "Agenda digital pública"
+      },
+      {
+        "titulo": "Llevar la energía eólica a 100 km de la costa parecía imposible. Hasta que China ha botado su nuevo \"corazón\" metálico",
+        "dataset": "Agenda digital pública"
+      },
+      {
+        "titulo": "Por qué Alemania prohibió el servicio de taxis Uber",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "Rápido y hacia arriba: cómo el ascensor lo cambió todo",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "La receta de una obra maestra: el ‘panettone’ según la ciencia",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "Sale más barato y da menos ansiedad: el 'solo-maxxing' es la respuesta de la Generación Z a la asfixiante industria de las citas",
+        "dataset": "Agenda digital pública"
+      },
+      {
+        "titulo": "La luz artificial alarga el ciclo de crecimiento de las plantas en las zonas urbanas",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "El huracán Helene generó gigantescas olas de gravedad atmosféricas",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "La misión Polaris Dawn intentará esta semana la primera caminata espacial privada",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "La sonda china Chang'e 6 aterriza en la cara oculta de la Luna para traer muestras",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "Despega EarthCARE, el más complejo explorador de la Tierra de la ESA",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "Japón explica el accidentado alunizaje de su nave SLIM",
+        "dataset": "Emisiones y cambio climático"
+      },
+      {
+        "titulo": "Tras probarlos, los expertos de Xataka coinciden: estos son los mejores móviles de 2026",
+        "dataset": "Agenda digital pública"
+      },
+      {
+        "titulo": "La mayoría de autónomos en España tiene más de 45 años y la generación Z en España no parece querer emprender. El SEPE ve aquí un reto",
+        "dataset": "Indicadores económicos de México"
+      },
+      {
+        "titulo": "China ha desarrollado una IA capaz de coordinar drones con un objetivo muy concreto: matar a los enemigos con un acierto del 100%",
+        "dataset": "Agenda digital pública"
+      }
+    ]
+  },
+  "Q5": {
+    "nombre": "Categorías enlazadas con URIs externas",
+    "pregunta_negocio": "¿Qué recursos locales tienen enlaces explícitos con vocabularios externos?",
+    "total_resultados": 10,
+    "resultados": [
+      {
+        "recurso": "https://simanw.local/recurso/categoria_mundo",
+        "externo": "http://www.wikidata.org/entity/Q16502"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_gobierno",
+        "externo": "http://www.wikidata.org/entity/Q7188"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_tecnologia",
+        "externo": "http://www.wikidata.org/entity/Q11016"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_economia",
+        "externo": "http://www.wikidata.org/entity/Q8134"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_ciencia",
+        "externo": "http://www.wikidata.org/entity/Q336"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_mundo",
+        "externo": "http://www.wikidata.org/entity/Q16502"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_gobierno",
+        "externo": "http://www.wikidata.org/entity/Q7188"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_tecnologia",
+        "externo": "http://www.wikidata.org/entity/Q11016"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_economia",
+        "externo": "http://www.wikidata.org/entity/Q8134"
+      },
+      {
+        "recurso": "https://simanw.local/recurso/categoria_ciencia",
+        "externo": "http://www.wikidata.org/entity/Q336"
+      }
+    ]
+  }
+}

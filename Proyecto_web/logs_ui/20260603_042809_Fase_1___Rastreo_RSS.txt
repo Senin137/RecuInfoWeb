@@ -1,0 +1,239 @@
+╔══════════════════════════════════════════════╗
+║   FASE 1.1 — Parser del DOM                  ║
+╚══════════════════════════════════════════════╝
+  Portal        : Portal de Noticias - SIMANW
+  Navegación    : ['Inicio', 'Tecnología', 'Ciencia']
+  Tendencias    : ['#InteligenciaArtificial', '#Python']
+  Artículos DOM : 2
+
+  [1] [tecnologia] Avances en IA Generativa revolucionan la industria
+       2026-05-10 · María García
+
+  [2] [economia] Mercados financieros muestran volatilidad ante incertidumbre global
+       2026-05-09 · Carlos Ruiz
+
+
+╔══════════════════════════════════════════════╗
+║   FASE 1.3 — Control de Rastreo              ║
+╚══════════════════════════════════════════════╝
+  Semilla  : https://portal-noticias.com/noticias/
+  Modo     : directorio
+  Límite   : 10 páginas
+
+  Candidatas : 5
+  Encoladas  : 3
+  Rechazadas : 2
+
+  Simulación de visitas:
+    ✓ https://portal-noticias.com/noticias/
+    ✓ https://portal-noticias.com/noticias/tecnologia/ia-2026
+    ✓ https://portal-noticias.com/noticias/economia/mercados
+    ✓ https://portal-noticias.com/noticias/ciencia/clima
+
+  Estado final: {'visitadas': 4, 'en_cola': 0, 'rechazadas': 2, 'completado': True}
+
+╔══════════════════════════════════════════════╗
+║   FASE 1.4 — Rastreador RSS                  ║
+╚══════════════════════════════════════════════╝
+  Categorías  : 6
+  Límite/cat  : 900
+  Filtro tiempo: OFF
+
+  ▶ TECNOLOGIA (objetivo: 900)
+    ↳ https://www.xataka.com/index.xml
+       entries encontradas: 26
+       +26 válidas  (total cat: 26)
+    ↳ https://www.genbeta.com/index.xml
+       entries encontradas: 14
+       +14 válidas  (total cat: 40)
+    ↳ https://hipertextual.com/feed
+       entries encontradas: 15
+       +15 válidas  (total cat: 55)
+    ↳ https://www.microsiervos.com/index.xml
+       entries encontradas: 15
+       +15 válidas  (total cat: 70)
+    ↳ https://wwwhatsnew.com/feed/
+       entries encontradas: 10
+       +10 válidas  (total cat: 80)
+    ↳ https://www.bbc.com/mundo/temas/tecnologia/index.xml
+       entries encontradas: 100
+       +100 válidas  (total cat: 180)
+    ↳ https://www.agenciasinc.es/feed/Tecnologia
+       entries encontradas: 150
+       +150 válidas  (total cat: 330)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada
+       entries encontradas: 16
+       +16 válidas  (total cat: 346)
+    ↳ https://es.wired.com/feed/rss
+       entries encontradas: 50
+       +50 válidas  (total cat: 396)
+    ↳ https://computerhoy.com/feed
+       entries encontradas: 0
+       +0 válidas  (total cat: 396)
+    ↳ https://unaaldia.hispasec.com/feed
+       entries encontradas: 10
+       +10 válidas  (total cat: 406)
+  ▶ CIENCIA (objetivo: 900)
+    ↳ https://www.agenciasinc.es/feed/Ciencia
+       entries encontradas: 150
+       +150 válidas  (total cat: 150)
+    ↳ https://www.agenciasinc.es/rss/todas
+       entries encontradas: 0
+       +0 válidas  (total cat: 150)
+    ↳ https://www.xatakaciencia.com/index.xml
+       entries encontradas: 12
+       +12 válidas  (total cat: 162)
+    ↳ https://naukas.com/feed/
+       entries encontradas: 10
+       +10 válidas  (total cat: 172)
+    ↳ https://www.bbc.com/mundo/temas/ciencia/index.xml
+       entries encontradas: 100
+       +96 válidas  (total cat: 268)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada
+       entries encontradas: 40
+       +38 válidas  (total cat: 306)
+    ↳ https://www.nationalgeographic.com.es/rss/noticias
+       entries encontradas: 0
+       +0 válidas  (total cat: 306)
+    ↳ https://www.muyinteresante.es/feed/
+       entries encontradas: 20
+       +20 válidas  (total cat: 326)
+    ↳ https://es.wired.com/category/ciencia/feed/rss
+       entries encontradas: 0
+       +0 válidas  (total cat: 326)
+  ▶ ECONOMIA (objetivo: 900)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada
+       entries encontradas: 41
+       +40 válidas  (total cat: 40)
+    ↳ https://www.eleconomista.com.mx/rss/ultimas-noticias
+       entries encontradas: 100
+       +98 válidas  (total cat: 138)
+    ↳ https://www.jornada.com.mx/rss/economia.xml?v=1
+       entries encontradas: 13
+       +13 válidas  (total cat: 151)
+    ↳ https://www.elblogsalmon.com/index.xml
+       entries encontradas: 20
+       +20 válidas  (total cat: 171)
+    ↳ https://cincodias.elpais.com/rss/cincodias/portada.xml
+       entries encontradas: 69
+       +62 válidas  (total cat: 233)
+    ↳ https://www.expansion.com/rss/portada.xml
+       entries encontradas: 70
+       +67 válidas  (total cat: 300)
+    ↳ https://www.clarin.com/rss/economia/
+       entries encontradas: 10
+       +10 válidas  (total cat: 310)
+    ↳ https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/
+       entries encontradas: 0
+       +0 válidas  (total cat: 310)
+    ↳ https://www.forbes.com.mx/feed/
+       entries encontradas: 0
+       +0 válidas  (total cat: 310)
+    ↳ https://www.eleconomista.es/rss/rss-portada.php
+       entries encontradas: 0
+       +0 válidas  (total cat: 310)
+  ▶ GOBIERNO (objetivo: 900)
+    ↳ https://www.jornada.com.mx/rss/politica.xml?v=1
+       entries encontradas: 29
+       +27 válidas  (total cat: 27)
+    ↳ https://editorial.aristeguinoticias.com/category/mexico/feed/
+       entries encontradas: 15
+       +15 válidas  (total cat: 42)
+    ↳ https://www.proceso.com.mx/rss/feed.html?r=3
+       entries encontradas: 20
+       +0 válidas  (total cat: 42)
+    ↳ https://www.animalpolitico.com/feed/
+       entries encontradas: 0
+       +0 válidas  (total cat: 42)
+    ↳ https://www.lapoliticaonline.com/files/rss/politica-mx.xml
+       entries encontradas: 50
+       +50 válidas  (total cat: 92)
+    ↳ https://www.europapress.es/rss/rss.aspx?ch=00066
+       entries encontradas: 10
+       +10 válidas  (total cat: 102)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada
+       entries encontradas: 19
+       +19 válidas  (total cat: 121)
+    ↳ https://www.eluniversal.com.mx/rss/nacion.xml
+       entries encontradas: 0
+       +0 válidas  (total cat: 121)
+    ↳ https://www.milenio.com/rss/politica
+       entries encontradas: 0
+       +0 válidas  (total cat: 121)
+    ↳ https://expansion.mx/rss/politica
+       entries encontradas: 0
+       +0 válidas  (total cat: 121)
+  ▶ DEPORTES (objetivo: 900)
+    ↳ https://www.espn.com.mx/espn/rss/news
+       entries encontradas: 40
+       +40 válidas  (total cat: 40)
+    ↳ https://www.mediotiempo.com/rss
+       entries encontradas: 0
+       +0 válidas  (total cat: 40)
+    ↳ https://www.record.com.mx/rss/noticias.xml
+       entries encontradas: 0
+       +0 válidas  (total cat: 40)
+    ↳ https://www.milenio.com/rss/la-aficion
+       entries encontradas: 0
+       +0 válidas  (total cat: 40)
+    ↳ https://www.eluniversal.com.mx/rss/deportes.xml
+       entries encontradas: 0
+       +0 válidas  (total cat: 40)
+    ↳ https://www.ole.com.ar/rss/
+       entries encontradas: 10
+       +10 válidas  (total cat: 50)
+    ↳ https://as.com/rss/mexico/portada.xml
+       entries encontradas: 137
+       +135 válidas  (total cat: 185)
+    ↳ https://e00-marca.uecdn.es/rss/portada.xml
+       entries encontradas: 76
+       +42 válidas  (total cat: 227)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada
+       entries encontradas: 31
+       +31 válidas  (total cat: 258)
+    ↳ https://www.mundodeportivo.com/rss/home.xml
+       entries encontradas: 141
+       +138 válidas  (total cat: 396)
+    ↳ https://feeds.bbci.co.uk/mundo/topics/cdr56g57ywgt/rss.xml
+       entries encontradas: 56
+       +56 válidas  (total cat: 452)
+  ▶ MUNDO (objetivo: 900)
+    ↳ https://feeds.bbci.co.uk/mundo/rss.xml
+       entries encontradas: 56
+       +0 válidas  (total cat: 0)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+       entries encontradas: 24
+       +24 válidas  (total cat: 24)
+    ↳ https://cnnespanol.cnn.com/feed/
+       entries encontradas: 0
+       +0 válidas  (total cat: 24)
+    ↳ https://www.france24.com/es/rss
+       entries encontradas: 23
+       +22 válidas  (total cat: 46)
+    ↳ https://www.rtve.es/rss/temas_internacional.xml
+       entries encontradas: 0
+       +0 válidas  (total cat: 46)
+    ↳ https://editorial.aristeguinoticias.com/category/mundo/feed/
+       entries encontradas: 15
+       +15 válidas  (total cat: 61)
+    ↳ https://www.reforma.com/rss/internacional.xml
+       entries encontradas: 10
+       +10 válidas  (total cat: 71)
+    ↳ https://rss.dw.com/rdf/rss-spa-all
+       entries encontradas: 0
+       +0 válidas  (total cat: 71)
+    ↳ https://news.un.org/feed/view/es/news/all/rss.xml
+       entries encontradas: 0
+       +0 válidas  (total cat: 71)
+    ↳ https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml
+       entries encontradas: 43
+       +43 válidas  (total cat: 114)
+
+  ── Resumen global ──────────────────────────
+  Noticias en dataset : 1729
+  Evaluadas           : 1866
+  Tasa de éxito       : 92.7%
+  Rechazadas          : 137
+
+  [Dataset] 1729 noticias → /home/yayo/Documentos/Proyecto_web/datos/dataset_maestro.json
+  [Reporte] Exportado → /home/yayo/Documentos/Proyecto_web/reportes/reporte_fase1_calidad.txt

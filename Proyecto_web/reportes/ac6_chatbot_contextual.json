@@ -1,0 +1,158 @@
+{
+  "actividad": "AC-6 Interfaz conversacional con memoria de contexto",
+  "fecha": "2026-06-03T03:07:31",
+  "origen_datos": "datos/dataset_analizado.json",
+  "conversacion_demo": [
+    {
+      "pregunta": "¿Qué noticias hay de tecnología?",
+      "respuesta": "Crean un sistema para almacenar energía renovable mediante moléculas orgánicas. El Instituto de Tecnología Química coordina el proyecto europeo hyPPER, un nuevo reactor que almacena y transporta energía eléctrica renovable mediante moléculas orgánicas... Categoría: tecnologia | Sentimiento: neutral.",
+      "tipo": "directa",
+      "confianza": 0.2788
+    },
+    {
+      "pregunta": "Cuéntame más sobre eso",
+      "respuesta": "Tomando en cuenta lo anterior, encontré esta noticia: Crean un sistema para almacenar energía renovable mediante moléculas orgánicas. El Instituto de Tecnología Química coordina el proyecto europeo hyPPER, un nuevo reactor que almacena y transporta energía eléctrica renovable mediante moléculas orgánicas...",
+      "tipo": "contextual",
+      "confianza": 0.279
+    },
+    {
+      "pregunta": "¿Hay algo sobre inteligencia artificial?",
+      "respuesta": "La IA no previene de la desinformación sanitaria, es vulnerable a ella. Un estudio evalúa la seguridad de modelos de inteligencia artificial para combatir la divulgación de información falsa o maliciosa en consultas sobre salud. Los investigadores... Categoría: tecnologia | Sentimiento: negativo.",
+      "tipo": "directa",
+      "confianza": 0.348
+    },
+    {
+      "pregunta": "Dame otra noticia similar a la anterior",
+      "respuesta": "Tomando en cuenta lo anterior, encontré esta noticia: La IA permite interceptar drones no autorizados en el espacio aéreo. Un equipo de investigadores de la Universidad Politécnica de Madrid demuestra que el aprendizaje por refuerzo −una rama de la inteligencia artificial− permite a drones autónomos...",
+      "tipo": "contextual",
+      "confianza": 0.275
+    },
+    {
+      "pregunta": "Ahora quiero algo de economía",
+      "respuesta": "Economía, comienzan a carburar motores: EAZ. Están empezando a carburar bien los principales motores de la economía. Categoría: economia | Sentimiento: neutral.",
+      "tipo": "directa",
+      "confianza": 0.3121
+    },
+    {
+      "pregunta": "¿Y otra relacionada con eso?",
+      "respuesta": "Tomando en cuenta lo anterior, encontré esta noticia: La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho de Ormuz se prolonga. El organismo sube una décima, hasta el 2,2%, sus perspectivas de crecimiento para España este año, la única gran economía del euro que mejora",
+      "tipo": "contextual",
+      "confianza": 0.2131
+    },
+    {
+      "pregunta": "¿Qué hay sobre ciencia?",
+      "respuesta": "Los IgNobel premian a la resbaladiza cáscara de banano. ¿Por qué resbalan las pieles de banana cuando las pisamos? El estudio que responde a esta crucial pregunta ha ganado el galardón principal de los premios más divertidos de la... Categoría: ciencia | Sentimiento: positivo.",
+      "tipo": "directa",
+      "confianza": 0.3261
+    },
+    {
+      "pregunta": "¿Qué noticias hay de deportes?",
+      "respuesta": "Mazazo para Austria: &quot;Mi gran sueño se ha destrozado...&quot;. El austriaco se lesionó en el calentamiento ante Túnez Categoría: deportes | Sentimiento: positivo.",
+      "tipo": "directa",
+      "confianza": 0.2564
+    },
+    {
+      "pregunta": "Muéstrame noticias del PSG y la Champions",
+      "respuesta": "No encontré información específica. ¿Puedes darme más detalles?",
+      "tipo": "fallback",
+      "confianza": 0.0
+    },
+    {
+      "pregunta": "Dame otra relacionada con eso",
+      "respuesta": "Tomando en cuenta lo anterior, encontré esta noticia: Bolsa mexicana repunta tras racha de tres caídas; GAP y OMA lideraron las ganancias. Los índices locales subieron después de una racha de tres caídas, en un mercado atento a las noticias sobre las negociaciones de paz de Estados Unidos e Irán.",
+      "tipo": "contextual",
+      "confianza": 0.191
+    }
+  ],
+  "estadisticas_sesion": {
+    "interacciones": 10,
+    "temas_interes": {
+      "tecnologia": 4,
+      "economia": 3,
+      "ciencia": 1,
+      "deportes": 1
+    },
+    "tipos_respuesta": {
+      "directa": 5,
+      "contextual": 4,
+      "fallback": 1
+    },
+    "preferencias": {
+      "tema_favorito": "tecnologia",
+      "ultima_categoria": "economia",
+      "ultima_consulta_expandida": "Muéstrame noticias del PSG y la Champions deportes otra relacionada con eso"
+    },
+    "historial": [
+      {
+        "pregunta": "¿Qué noticias hay de tecnología?",
+        "tipo": "directa",
+        "confianza": 0.2788,
+        "categoria": "tecnologia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "Cuéntame más sobre eso",
+        "tipo": "contextual",
+        "confianza": 0.279,
+        "categoria": "tecnologia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "¿Hay algo sobre inteligencia artificial?",
+        "tipo": "directa",
+        "confianza": 0.348,
+        "categoria": "tecnologia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "Dame otra noticia similar a la anterior",
+        "tipo": "contextual",
+        "confianza": 0.275,
+        "categoria": "tecnologia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "Ahora quiero algo de economía",
+        "tipo": "directa",
+        "confianza": 0.3121,
+        "categoria": "economia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "¿Y otra relacionada con eso?",
+        "tipo": "contextual",
+        "confianza": 0.2131,
+        "categoria": "economia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "¿Qué hay sobre ciencia?",
+        "tipo": "directa",
+        "confianza": 0.3261,
+        "categoria": "ciencia",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "¿Qué noticias hay de deportes?",
+        "tipo": "directa",
+        "confianza": 0.2564,
+        "categoria": "deportes",
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "Muéstrame noticias del PSG y la Champions",
+        "tipo": "fallback",
+        "confianza": 0.0,
+        "categoria": null,
+        "timestamp": "2026-06-03T03:07:31"
+      },
+      {
+        "pregunta": "Dame otra relacionada con eso",
+        "tipo": "contextual",
+        "confianza": 0.191,
+        "categoria": "economia",
+        "timestamp": "2026-06-03T03:07:31"
+      }
+    ]
+  }
+}

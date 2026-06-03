@@ -1,0 +1,618 @@
+{
+  "actividad": "AC-2 Nube de palabras y estadísticas de un discurso",
+  "fecha": "2026-06-03T03:22:55",
+  "analisis": [
+    {
+      "titulo": "Discurso educativo",
+      "oraciones": 8,
+      "palabras_totales": 103,
+      "tokens_utiles": 56,
+      "vocabulario_unico": 53,
+      "riqueza_lexica_global": 0.9464,
+      "riqueza_por_seccion": [
+        {
+          "seccion": 1,
+          "tokens": 14,
+          "vocabulario": 13,
+          "riqueza": 0.9286
+        },
+        {
+          "seccion": 2,
+          "tokens": 14,
+          "vocabulario": 14,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 3,
+          "tokens": 14,
+          "vocabulario": 14,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 4,
+          "tokens": 14,
+          "vocabulario": 14,
+          "riqueza": 1.0
+        }
+      ],
+      "promedio_palabras_oracion": 12.88,
+      "top_unigramas": [
+        [
+          "educación",
+          2
+        ],
+        [
+          "méxico",
+          2
+        ],
+        [
+          "desarrollo",
+          2
+        ],
+        [
+          "herramienta",
+          1
+        ],
+        [
+          "poderosa",
+          1
+        ],
+        [
+          "transformar",
+          1
+        ],
+        [
+          "sociedad",
+          1
+        ],
+        [
+          "inversión",
+          1
+        ],
+        [
+          "debe",
+          1
+        ],
+        [
+          "prioritaria",
+          1
+        ],
+        [
+          "garantizar",
+          1
+        ],
+        [
+          "económico",
+          1
+        ],
+        [
+          "social",
+          1
+        ],
+        [
+          "jóvenes",
+          1
+        ],
+        [
+          "mexicanos",
+          1
+        ]
+      ],
+      "top_bigramas": [
+        [
+          "educación herramienta",
+          1
+        ],
+        [
+          "herramienta poderosa",
+          1
+        ],
+        [
+          "poderosa transformar",
+          1
+        ],
+        [
+          "transformar sociedad",
+          1
+        ],
+        [
+          "sociedad méxico",
+          1
+        ],
+        [
+          "méxico inversión",
+          1
+        ],
+        [
+          "inversión educación",
+          1
+        ],
+        [
+          "educación debe",
+          1
+        ],
+        [
+          "debe prioritaria",
+          1
+        ],
+        [
+          "prioritaria garantizar",
+          1
+        ]
+      ],
+      "top_trigramas": [
+        [
+          "educación herramienta poderosa",
+          1
+        ],
+        [
+          "herramienta poderosa transformar",
+          1
+        ],
+        [
+          "poderosa transformar sociedad",
+          1
+        ],
+        [
+          "transformar sociedad méxico",
+          1
+        ],
+        [
+          "sociedad méxico inversión",
+          1
+        ],
+        [
+          "méxico inversión educación",
+          1
+        ],
+        [
+          "inversión educación debe",
+          1
+        ],
+        [
+          "educación debe prioritaria",
+          1
+        ]
+      ],
+      "entidades_nombradas": [
+        [
+          "En México",
+          1
+        ],
+        [
+          "El Instituto\n            Tecnológico",
+          1
+        ],
+        [
+          "Morelia",
+          1
+        ],
+        [
+          "México",
+          1
+        ]
+      ]
+    },
+    {
+      "titulo": "Texto científico",
+      "oraciones": 5,
+      "palabras_totales": 76,
+      "tokens_utiles": 48,
+      "vocabulario_unico": 45,
+      "riqueza_lexica_global": 0.9375,
+      "riqueza_por_seccion": [
+        {
+          "seccion": 1,
+          "tokens": 12,
+          "vocabulario": 12,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 2,
+          "tokens": 12,
+          "vocabulario": 12,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 3,
+          "tokens": 12,
+          "vocabulario": 12,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 4,
+          "tokens": 12,
+          "vocabulario": 11,
+          "riqueza": 0.9167
+        }
+      ],
+      "promedio_palabras_oracion": 15.2,
+      "top_unigramas": [
+        [
+          "texto",
+          3
+        ],
+        [
+          "aprendizaje",
+          2
+        ],
+        [
+          "procesamiento",
+          1
+        ],
+        [
+          "lenguaje",
+          1
+        ],
+        [
+          "natural",
+          1
+        ],
+        [
+          "permite",
+          1
+        ],
+        [
+          "computadoras",
+          1
+        ],
+        [
+          "comprender",
+          1
+        ],
+        [
+          "generar",
+          1
+        ],
+        [
+          "humano",
+          1
+        ],
+        [
+          "modelos",
+          1
+        ],
+        [
+          "profundo",
+          1
+        ],
+        [
+          "bert",
+          1
+        ],
+        [
+          "gpt",
+          1
+        ],
+        [
+          "revolucionado",
+          1
+        ]
+      ],
+      "top_bigramas": [
+        [
+          "procesamiento lenguaje",
+          1
+        ],
+        [
+          "lenguaje natural",
+          1
+        ],
+        [
+          "natural permite",
+          1
+        ],
+        [
+          "permite computadoras",
+          1
+        ],
+        [
+          "computadoras comprender",
+          1
+        ],
+        [
+          "comprender generar",
+          1
+        ],
+        [
+          "generar texto",
+          1
+        ],
+        [
+          "texto humano",
+          1
+        ],
+        [
+          "humano modelos",
+          1
+        ],
+        [
+          "modelos aprendizaje",
+          1
+        ]
+      ],
+      "top_trigramas": [
+        [
+          "procesamiento lenguaje natural",
+          1
+        ],
+        [
+          "lenguaje natural permite",
+          1
+        ],
+        [
+          "natural permite computadoras",
+          1
+        ],
+        [
+          "permite computadoras comprender",
+          1
+        ],
+        [
+          "computadoras comprender generar",
+          1
+        ],
+        [
+          "comprender generar texto",
+          1
+        ],
+        [
+          "generar texto humano",
+          1
+        ],
+        [
+          "texto humano modelos",
+          1
+        ]
+      ],
+      "entidades_nombradas": [
+        [
+          "Naive Bayes",
+          1
+        ]
+      ]
+    },
+    {
+      "titulo": "Artículo tecnológico",
+      "oraciones": 3,
+      "palabras_totales": 55,
+      "tokens_utiles": 38,
+      "vocabulario_unico": 38,
+      "riqueza_lexica_global": 1.0,
+      "riqueza_por_seccion": [
+        {
+          "seccion": 1,
+          "tokens": 9,
+          "vocabulario": 9,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 2,
+          "tokens": 9,
+          "vocabulario": 9,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 3,
+          "tokens": 9,
+          "vocabulario": 9,
+          "riqueza": 1.0
+        },
+        {
+          "seccion": 4,
+          "tokens": 11,
+          "vocabulario": 11,
+          "riqueza": 1.0
+        }
+      ],
+      "promedio_palabras_oracion": 18.33,
+      "top_unigramas": [
+        [
+          "openai",
+          1
+        ],
+        [
+          "google",
+          1
+        ],
+        [
+          "microsoft",
+          1
+        ],
+        [
+          "anthropic",
+          1
+        ],
+        [
+          "compiten",
+          1
+        ],
+        [
+          "desarrollar",
+          1
+        ],
+        [
+          "modelos",
+          1
+        ],
+        [
+          "inteligencia",
+          1
+        ],
+        [
+          "artificial",
+          1
+        ],
+        [
+          "seguros",
+          1
+        ],
+        [
+          "eficientes",
+          1
+        ],
+        [
+          "américa",
+          1
+        ],
+        [
+          "latina",
+          1
+        ],
+        [
+          "empresas",
+          1
+        ],
+        [
+          "emergentes",
+          1
+        ]
+      ],
+      "top_bigramas": [
+        [
+          "openai google",
+          1
+        ],
+        [
+          "google microsoft",
+          1
+        ],
+        [
+          "microsoft anthropic",
+          1
+        ],
+        [
+          "anthropic compiten",
+          1
+        ],
+        [
+          "compiten desarrollar",
+          1
+        ],
+        [
+          "desarrollar modelos",
+          1
+        ],
+        [
+          "modelos inteligencia",
+          1
+        ],
+        [
+          "inteligencia artificial",
+          1
+        ],
+        [
+          "artificial seguros",
+          1
+        ],
+        [
+          "seguros eficientes",
+          1
+        ]
+      ],
+      "top_trigramas": [
+        [
+          "openai google microsoft",
+          1
+        ],
+        [
+          "google microsoft anthropic",
+          1
+        ],
+        [
+          "microsoft anthropic compiten",
+          1
+        ],
+        [
+          "anthropic compiten desarrollar",
+          1
+        ],
+        [
+          "compiten desarrollar modelos",
+          1
+        ],
+        [
+          "desarrollar modelos inteligencia",
+          1
+        ],
+        [
+          "modelos inteligencia artificial",
+          1
+        ],
+        [
+          "inteligencia artificial seguros",
+          1
+        ]
+      ],
+      "entidades_nombradas": [
+        [
+          "Open",
+          1
+        ],
+        [
+          "Google",
+          1
+        ],
+        [
+          "Microsoft",
+          1
+        ],
+        [
+          "Anthropic",
+          1
+        ],
+        [
+          "En América Latina",
+          1
+        ],
+        [
+          "México",
+          1
+        ],
+        [
+          "Colombia",
+          1
+        ],
+        [
+          "Argentina",
+          1
+        ]
+      ]
+    }
+  ],
+  "comparativa": {
+    "documentos": [
+      {
+        "titulo": "Discurso educativo",
+        "palabras": 103,
+        "tokens_utiles": 56,
+        "vocabulario": 53,
+        "riqueza": 0.9464,
+        "promedio_oracion": 12.88,
+        "entidades_detectadas": 4
+      },
+      {
+        "titulo": "Texto científico",
+        "palabras": 76,
+        "tokens_utiles": 48,
+        "vocabulario": 45,
+        "riqueza": 0.9375,
+        "promedio_oracion": 15.2,
+        "entidades_detectadas": 1
+      },
+      {
+        "titulo": "Artículo tecnológico",
+        "palabras": 55,
+        "tokens_utiles": 38,
+        "vocabulario": 38,
+        "riqueza": 1.0,
+        "promedio_oracion": 18.33,
+        "entidades_detectadas": 8
+      }
+    ],
+    "mayor_riqueza": "Artículo tecnológico",
+    "mayor_extension": "Discurso educativo",
+    "total_documentos": 3
+  },
+  "nube_palabras": "graficos/ac2_nube_palabras.png"
+}

@@ -1,0 +1,204 @@
+{
+  "globales": {
+    "total_documentos": 1734,
+    "total_tokens": 75414,
+    "vocabulario_unico": 18395,
+    "stems_unicos": 9917,
+    "promedio_tokens_doc": 43.5,
+    "riqueza_lexica_prom": 0.922,
+    "unigramas_top10": [
+      "euros",
+      "millones",
+      "mundo",
+      "nuevo",
+      "españa",
+      "forma",
+      "tras",
+      "sistema",
+      "nueva",
+      "primera"
+    ],
+    "bigramas_top10": [
+      "publicada originalmente",
+      "iphone pro",
+      "blog salmón",
+      "inteligencia artificial",
+      "originalmente xataka",
+      "real madrid",
+      "redes sociales",
+      "millones dólares",
+      "galaxy ultra",
+      "agencia espacial"
+    ],
+    "trigramas_top5": [
+      "publicada originalmente xataka",
+      "publicada originalmente blog",
+      "originalmente blog salmón",
+      "estación espacial internacional",
+      "samsung galaxy ultra"
+    ]
+  },
+  "categorias": {
+    "tecnologia": {
+      "total_tokens": 33128,
+      "vocabulario": 10218,
+      "riqueza_lexica": 0.3084,
+      "unigramas_top5": [
+        "xataka",
+        "pro",
+        "forma",
+        "iphone",
+        "nuevo"
+      ],
+      "bigramas_top5": [
+        "iphone pro",
+        "publicada originalmente",
+        "galaxy ultra",
+        "originalmente xataka",
+        "inteligencia artificial"
+      ],
+      "trigramas_top3": [
+        "publicada originalmente xataka",
+        "samsung galaxy ultra",
+        "publicada originalmente genbeta"
+      ]
+    },
+    "ciencia": {
+      "total_tokens": 10014,
+      "vocabulario": 4562,
+      "riqueza_lexica": 0.4556,
+      "unigramas_top5": [
+        "estudio",
+        "mundo",
+        "tierra",
+        "espacial",
+        "ciencia"
+      ],
+      "bigramas_top5": [
+        "xataka ciencia",
+        "agencia espacial",
+        "james webb",
+        "publicada originalmente",
+        "originalmente xataka"
+      ],
+      "trigramas_top3": [
+        "publicada originalmente xataka",
+        "originalmente xataka ciencia",
+        "xataka ciencia sergio"
+      ]
+    },
+    "economia": {
+      "total_tokens": 14731,
+      "vocabulario": 5932,
+      "riqueza_lexica": 0.4027,
+      "unigramas_top5": [
+        "euros",
+        "millones",
+        "leer",
+        "españa",
+        "méxico"
+      ],
+      "bigramas_top5": [
+        "blog salmón",
+        "publicada originalmente",
+        "originalmente blog",
+        "euros mes",
+        "seguridad social"
+      ],
+      "trigramas_top3": [
+        "publicada originalmente blog",
+        "originalmente blog salmón",
+        "blog salmón redacción"
+      ]
+    },
+    "gobierno": {
+      "total_tokens": 3100,
+      "vocabulario": 1871,
+      "riqueza_lexica": 0.6035,
+      "unigramas_top5": [
+        "sheinbaum",
+        "presidenta",
+        "gobierno",
+        "morena",
+        "méxico"
+      ],
+      "bigramas_top5": [
+        "maru campos",
+        "claudia sheinbaum",
+        "presidenta claudia",
+        "redes sociales",
+        "david sánchez"
+      ],
+      "trigramas_top3": [
+        "presidenta claudia sheinbaum",
+        "maría eugenia campos",
+        "coordinadora nacional trabajadores"
+      ]
+    },
+    "deportes": {
+      "total_tokens": 11345,
+      "vocabulario": 5483,
+      "riqueza_lexica": 0.4833,
+      "unigramas_top5": [
+        "madrid",
+        "quot",
+        "mundo",
+        "mundial",
+        "tras"
+      ],
+      "bigramas_top5": [
+        "real madrid",
+        "copa mundo",
+        "enrique riquelme",
+        "florentino pérez",
+        "quot quot"
+      ],
+      "trigramas_top3": [
+        "span class quot",
+        "quot contenteditable quot",
+        "contenteditable quot false"
+      ]
+    },
+    "mundo": {
+      "total_tokens": 3096,
+      "vocabulario": 1852,
+      "riqueza_lexica": 0.5982,
+      "unigramas_top5": [
+        "leer",
+        "trump",
+        "presidente",
+        "irán",
+        "israel"
+      ],
+      "bigramas_top5": [
+        "donald trump",
+        "política migratoria",
+        "marco rubio",
+        "alto fuego",
+        "abelardo espriella"
+      ],
+      "trigramas_top3": [
+        "administración donald trump",
+        "podrían usar drones",
+        "ucrania deja muertos"
+      ]
+    }
+  },
+  "entidades": [
+    "España",
+    "México",
+    "Estados Unidos",
+    "Madrid",
+    "Mundial",
+    "Según",
+    "Tierra",
+    "China",
+    "Cómo",
+    "Europa",
+    "Apple",
+    "Además",
+    "Ultra",
+    "Luna",
+    "Irán"
+  ]
+}

@@ -8,3 +8,5 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+/proyecto_web/.venv/Proyecto_web/.venv/
+**/.venv/

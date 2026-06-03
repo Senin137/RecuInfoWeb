@@ -1,0 +1,81 @@
+╔══════════════════════════════════════════════╗
+║   FASE 2 — Pipeline NLP                      ║
+╚══════════════════════════════════════════════╝
+  Noticias a procesar : 142
+
+  ▶ 2.1 Pre-procesamiento...
+  ▶ 2.2 Análisis léxico...
+     Total documentos    : 142
+     Total tokens        : 4833
+     Vocabulario único   : 2826
+     Riqueza léxica prom : 0.9139
+     Tokens/doc (prom)   : 34.0
+
+     Unigramas top-10    : ['mundo', 'ciencia', 'naukas', 'xataka', 'hombres', 'tras', 'gobierno', 'mujeres', 'país', 'siempre']
+     Bigramas top-10     : ['xataka ciencia', 'publicada originalmente', 'originalmente xataka', 'ciencia sergio', 'sergio parra', 'siguiente vídeo', 'iván cepeda', 'naukas palma', 'abelardo espriella', 'hombres mujeres']
+     Trigramas top-5     : ['publicada originalmente xataka', 'originalmente xataka ciencia', 'xataka ciencia sergio', 'ciencia sergio parra', 'primate cambió mundo']
+
+     Entidades nombradas : ['Colombia', 'Xataka Ciencia', 'Sergio Parra', 'Espriella', 'Iván Cepeda', 'Naukas Palma', 'Irán', 'Abelardo', 'Israel', 'Universidad', 'En Xataka Ciencia', 'España', 'Marilyn Monroe', 'Cada', 'Naukas Valladolid']
+
+     Por categoría:
+       [tecnologia] 688 tokens | vocab 508 | riqueza 0.7384
+         top: ['colombia', 'cepeda', 'espriella', 'nueva', 'iván']
+       [ciencia] 2217 tokens | vocab 1301 | riqueza 0.5868
+         top: ['ciencia', 'mundo', 'naukas', 'xataka', 'hombres']
+       [economia] 597 tokens | vocab 501 | riqueza 0.8392
+         top: ['mercado', 'gobierno', 'mayor', 'vivienda', 'millones']
+       [gobierno] 718 tokens | vocab 530 | riqueza 0.7382
+         top: ['psoe', 'feijóo', 'líder', 'euros', 'partido']
+       [mundo] 613 tokens | vocab 521 | riqueza 0.8499
+         top: ['mundo', 'minutos', 'marilyn', 'monroe', 'país']
+
+  ▶ 2.3 Vectorización TF-IDF...
+     Matriz: 142 docs × 3000 features
+     Densidad: 0.01066 | Términos/doc (prom): 32.0
+
+     Términos más relevantes por noticia:
+     [tecnologia] La polémica por los exorbitantes precios del ...
+       llegar                    0.3187
+       mundial                   0.2768
+       precios                   0.2523
+       fifa                      0.1882
+       fifa abierto              0.1882
+     [tecnologia] Por qué Iberostar y Blue Diamond, dos cadenas...
+       efecto inmediato          0.1923
+       empresarial fuerzas       0.1923
+       empresarial               0.1923
+       cuba abandonan            0.1923
+       cubanas                   0.1923
+     [tecnologia] La joven de 18 años que huyó a cientos de kil...
+       cientos                   0.2543
+       cientos kilómetros        0.2543
+       despedirse sueños         0.2543
+       educación afganistán      0.2543
+       despedirse                0.2543
+     [tecnologia] La policía de Nueva York investiga videos de ...
+       saliendo                  0.296
+       videos                    0.296
+       policía nueva             0.296
+       policía                   0.296
+       ciudad                    0.296
+     [tecnologia] "La primera innovación para partos desde los ...
+       empresa fabrica           0.2533
+       dispositivo               0.2533
+       dispositivo creado        0.2533
+       fabrica                   0.2533
+       europa bebés              0.2533
+
+  ▶ 2.4 Similitud coseno...
+     Grupos temáticos detectados: 22
+     Grupo 1: 2 noticias
+       · La policía de Nueva York investiga videos de hombres sa...
+       · Met Gala 2026: así desfilaron las celebridades en la ex...
+     Grupo 2: 2 noticias
+       · Al menos 21 muertos en Ucrania en uno de los mayores at...
+       · Putin anuncia una “nueva dimensión” en la guerra contra...
+     Grupo 3: 2 noticias
+       · Cómo la nueva película "Toy Story 5" muestra el "horror...
+       · Las revelaciones de la nueva película sobre la enigmáti...
+
+  [Dataset NLP] 142 noticias → /home/yayo/Documentos/Proyecto_web/datos/dataset_nlp.json
+  [Stats NLP]   → /home/yayo/Documentos/Proyecto_web/reportes/estadisticas_nlp.json

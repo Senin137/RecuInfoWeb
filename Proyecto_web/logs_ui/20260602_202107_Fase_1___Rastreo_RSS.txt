@@ -1,0 +1,77 @@
+╔══════════════════════════════════════════════╗
+║   FASE 1.1 — Parser del DOM                  ║
+╚══════════════════════════════════════════════╝
+  Portal        : Portal de Noticias - SIMANW
+  Navegación    : ['Inicio', 'Tecnología', 'Ciencia']
+  Tendencias    : ['#InteligenciaArtificial', '#Python']
+  Artículos DOM : 2
+
+  [1] [tecnologia] Avances en IA Generativa revolucionan la industria
+       2026-05-10 · María García
+
+  [2] [economia] Mercados financieros muestran volatilidad ante incertidumbre global
+       2026-05-09 · Carlos Ruiz
+
+
+╔══════════════════════════════════════════════╗
+║   FASE 1.3 — Control de Rastreo              ║
+╚══════════════════════════════════════════════╝
+  Semilla  : https://portal-noticias.com/noticias/
+  Modo     : directorio
+  Límite   : 10 páginas
+
+  Candidatas : 5
+  Encoladas  : 3
+  Rechazadas : 2
+
+  Simulación de visitas:
+    ✓ https://portal-noticias.com/noticias/
+    ✓ https://portal-noticias.com/noticias/tecnologia/ia-2026
+    ✓ https://portal-noticias.com/noticias/economia/mercados
+    ✓ https://portal-noticias.com/noticias/ciencia/clima
+
+  Estado final: {'visitadas': 4, 'en_cola': 0, 'rechazadas': 2, 'completado': True}
+
+╔══════════════════════════════════════════════╗
+║   FASE 1.4 — Rastreador RSS                  ║
+╚══════════════════════════════════════════════╝
+  Categorías  : 5
+  Límite/cat  : 30
+  Filtro tiempo: OFF
+
+  ▶ TECNOLOGIA (objetivo: 30)
+    ↳ https://feeds.bbci.co.uk/mundo/rss.xml
+       +30 válidas  (total cat: 30)
+  ▶ CIENCIA (objetivo: 30)
+    ↳ https://www.nationalgeographic.com.es/rss/noticias
+       +0 válidas  (total cat: 0)
+    ↳ https://www.agenciasinc.es/rss/todas
+       +0 válidas  (total cat: 0)
+    ↳ https://www.xatakaciencia.com/index.xml
+       +12 válidas  (total cat: 12)
+    ↳ https://naukas.com/feed/
+       +10 válidas  (total cat: 22)
+  ▶ ECONOMIA (objetivo: 30)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada
+       +30 válidas  (total cat: 30)
+  ▶ GOBIERNO (objetivo: 30)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada
+       +19 válidas  (total cat: 19)
+    ↳ https://www.europapress.es/rss/rss.aspx?ch=00066
+       +10 válidas  (total cat: 29)
+    ↳ https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml
+       +1 válidas  (total cat: 30)
+  ▶ MUNDO (objetivo: 30)
+    ↳ https://feeds.bbci.co.uk/mundo/rss.xml
+       +25 válidas  (total cat: 25)
+    ↳ https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+       +5 válidas  (total cat: 30)
+
+  ── Resumen global ──────────────────────────
+  Noticias en dataset : 142
+  Evaluadas           : 172
+  Tasa de éxito       : 82.6%
+  Rechazadas          : 30
+
+  [Dataset] 142 noticias → /home/yayo/Documentos/Proyecto_web/datos/dataset_maestro.json
+  [Reporte] Exportado → /home/yayo/Documentos/Proyecto_web/reportes/reporte_fase1_calidad.txt

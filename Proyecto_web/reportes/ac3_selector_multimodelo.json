@@ -1,0 +1,75 @@
+{
+  "actividad": "AC-3 Clasificador multimodelo con selección automática",
+  "fecha": "2026-06-03T02:39:21",
+  "origen_datos": "datos/dataset_analizado.json",
+  "total_textos": 1364,
+  "distribucion_clases": {
+    "tecnologia": 300,
+    "ciencia": 300,
+    "economia": 300,
+    "gobierno": 121,
+    "deportes": 272,
+    "mundo": 71
+  },
+  "modelos_evaluados": {
+    "Naive Bayes": {
+      "accuracy_media": 0.7068,
+      "desviacion_estandar": 0.0132,
+      "scores_por_fold": [
+        0.7077,
+        0.6901,
+        0.7225
+      ],
+      "folds_usados": 3
+    },
+    "SVM Lineal": {
+      "accuracy_media": 0.6914,
+      "desviacion_estandar": 0.004,
+      "scores_por_fold": [
+        0.6857,
+        0.6945,
+        0.6938
+      ],
+      "folds_usados": 3
+    },
+    "Regresión Logística": {
+      "accuracy_media": 0.6855,
+      "desviacion_estandar": 0.0051,
+      "scores_por_fold": [
+        0.6901,
+        0.6879,
+        0.6784
+      ],
+      "folds_usados": 3
+    },
+    "Random Forest": {
+      "accuracy_media": 0.6378,
+      "desviacion_estandar": 0.0252,
+      "scores_por_fold": [
+        0.6044,
+        0.644,
+        0.6652
+      ],
+      "folds_usados": 3
+    }
+  },
+  "modelo_seleccionado": "Naive Bayes",
+  "predicciones_prueba": [
+    {
+      "texto": "nueva aplicación de inteligencia artificial para detectar fraudes bancarios",
+      "prediccion": "tecnologia"
+    },
+    {
+      "texto": "el gobierno anunció una reforma electoral y cambios en el congreso",
+      "prediccion": "gobierno"
+    },
+    {
+      "texto": "investigadores publican avance científico sobre cambio climático",
+      "prediccion": "ciencia"
+    },
+    {
+      "texto": "los mercados financieros cerraron con pérdidas por inflación",
+      "prediccion": "economia"
+    }
+  ]
+}

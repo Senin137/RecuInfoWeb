@@ -1,0 +1,75 @@
+{
+  "actividad": "AC-10 Sistema de alertas por consulta guardada",
+  "fecha": "2026-06-03T02:44:34",
+  "dataset_base": "/home/yayo/Documentos/Proyecto_web/datos/dataset_analizado.json",
+  "noticias_base_disponibles": 1364,
+  "consultas_guardadas": [
+    {
+      "id": "C001",
+      "nombre": "Inteligencia artificial",
+      "query": "inteligencia artificial machine learning modelos generativos",
+      "fecha_creacion": "2026-06-02T18:50:23"
+    },
+    {
+      "id": "C002",
+      "nombre": "Economía e inflación",
+      "query": "economía inflación mercados tasas banco inversión",
+      "fecha_creacion": "2026-06-02T18:50:23"
+    },
+    {
+      "id": "C003",
+      "nombre": "Ciencia y clima",
+      "query": "ciencia investigación cambio climático salud estudio científico",
+      "fecha_creacion": "2026-06-02T18:50:23"
+    },
+    {
+      "id": "C004",
+      "nombre": "Gobierno y política",
+      "query": "gobierno política elecciones congreso reforma ley justicia",
+      "fecha_creacion": "2026-06-02T18:50:23"
+    },
+    {
+      "id": "C005",
+      "nombre": "Internacional y conflictos",
+      "query": "internacional mundo guerra conflicto migración países diplomacia",
+      "fecha_creacion": "2026-06-02T18:50:23"
+    }
+  ],
+  "historial_alertas": "/home/yayo/Documentos/Proyecto_web/reportes/ac10_historial_alertas.json",
+  "noticias_nuevas_demo": "/home/yayo/Documentos/Proyecto_web/datos/ac10_noticias_nuevas_demo.json",
+  "ejecuciones": [
+    {
+      "etiqueta_ejecucion": "ejecucion_sin_noticias_nuevas",
+      "noticias_evaluadas": 0,
+      "alertas_generadas": [],
+      "alertas_omitidas_por_duplicado": 0
+    },
+    {
+      "etiqueta_ejecucion": "ejecucion_con_5_noticias_nuevas",
+      "noticias_evaluadas": 5,
+      "alertas_generadas": [
+        {
+          "alerta_id": "2e61645d412a5617e1d6",
+          "consulta_id": "C002",
+          "consulta_nombre": "Economía e inflación",
+          "query": "economía inflación mercados tasas banco inversión",
+          "noticia_id": "345ff56b599d6233",
+          "noticia_titulo": "Mercados reaccionan a nuevas señales de inflación",
+          "noticia_url": "https://simanw.local/demo/ac10/mercados-inflacion",
+          "categoria": "economia",
+          "similitud": 0.1635,
+          "marca_tiempo": "2026-06-03T02:44:34",
+          "ejecucion": "ejecucion_con_5_noticias_nuevas"
+        }
+      ],
+      "alertas_omitidas_por_duplicado": 4
+    },
+    {
+      "etiqueta_ejecucion": "ejecucion_repetida_control_duplicados",
+      "noticias_evaluadas": 5,
+      "alertas_generadas": [],
+      "alertas_omitidas_por_duplicado": 5
+    }
+  ],
+  "documentacion_duplicados": "/home/yayo/Documentos/Proyecto_web/reportes/ac10_documentacion_duplicados.md"
+}

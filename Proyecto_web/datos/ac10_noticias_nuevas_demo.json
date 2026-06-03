@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Nuevo modelo de inteligencia artificial mejora la búsqueda de noticias",
+    "cuerpo": "Investigadores presentaron un sistema de machine learning capaz de organizar grandes corpus informativos mediante recuperación semántica.",
+    "url": "https://simanw.local/demo/ac10/ia-busqueda-noticias",
+    "fecha": "2026-06-03",
+    "fuente": "SIMANW Demo",
+    "autor": "Sistema AC10",
+    "categoria": "tecnologia"
+  },
+  {
+    "titulo": "Mercados reaccionan a nuevas señales de inflación",
+    "cuerpo": "Analistas financieros observaron cambios en tasas de interés, inversión y comportamiento de bancos centrales durante la semana.",
+    "url": "https://simanw.local/demo/ac10/mercados-inflacion",
+    "fecha": "2026-06-03",
+    "fuente": "SIMANW Demo",
+    "autor": "Sistema AC10",
+    "categoria": "economia"
+  },
+  {
+    "titulo": "Estudio científico advierte sobre cambio climático y salud pública",
+    "cuerpo": "Un grupo de científicos publicó una investigación sobre temperatura global, emisiones y efectos en hospitales y comunidades vulnerables.",
+    "url": "https://simanw.local/demo/ac10/ciencia-clima-salud",
+    "fecha": "2026-06-03",
+    "fuente": "SIMANW Demo",
+    "autor": "Sistema AC10",
+    "categoria": "ciencia"
+  },
+  {
+    "titulo": "Congreso discute reforma de justicia y nueva ley electoral",
+    "cuerpo": "El gobierno y legisladores debatieron cambios políticos relacionados con elecciones, justicia pública y funcionamiento del congreso.",
+    "url": "https://simanw.local/demo/ac10/reforma-justicia-electoral",
+    "fecha": "2026-06-03",
+    "fuente": "SIMANW Demo",
+    "autor": "Sistema AC10",
+    "categoria": "gobierno"
+  },
+  {
+    "titulo": "Conflicto internacional genera nueva ronda de diplomacia",
+    "cuerpo": "Países europeos y organismos internacionales buscan acuerdos ante una crisis migratoria y tensiones diplomáticas crecientes.",
+    "url": "https://simanw.local/demo/ac10/conflicto-diplomacia",
+    "fecha": "2026-06-03",
+    "fuente": "SIMANW Demo",
+    "autor": "Sistema AC10",
+    "categoria": "mundo"
+  }
+]

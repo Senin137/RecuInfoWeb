@@ -1,0 +1,85 @@
+{
+  "actividad": "AC-12 Log estructurado del pipeline",
+  "fecha": "2026-06-03T02:44:57",
+  "alumno": "Eladio Martinez Ambriz",
+  "pasos": [
+    {
+      "fase": "Fase 1",
+      "nombre": "Rastreo de noticias",
+      "script": "fases/Fase1_Rastreador.py",
+      "artefacto_principal": "datos/dataset_maestro.json",
+      "estado": "OK",
+      "documentos": 1364
+    },
+    {
+      "fase": "AC-1",
+      "nombre": "Rastreo real con paginación",
+      "script": "fases/AC1_RastreadorPaginado.py",
+      "artefacto_principal": "datos/ac1_rastreo_paginado.json",
+      "estado": "OK",
+      "documentos": 30
+    },
+    {
+      "fase": "AC-8",
+      "nombre": "Control de calidad del corpus",
+      "script": "fases/AC8_ControlCalidadCorpus.py",
+      "artefacto_principal": "datos/dataset_depurado_ac8.json",
+      "estado": "OK",
+      "documentos": 1363
+    },
+    {
+      "fase": "Fase 2",
+      "nombre": "Procesamiento NLP",
+      "script": "fases/Fase2_Pipeline.py",
+      "artefacto_principal": "datos/dataset_nlp.json",
+      "estado": "OK",
+      "documentos": 1364
+    },
+    {
+      "fase": "Fase 3",
+      "nombre": "Clasificación y análisis",
+      "script": "fases/Fase3_Clasificador.py",
+      "artefacto_principal": "datos/dataset_analizado.json",
+      "estado": "OK",
+      "documentos": 1364
+    },
+    {
+      "fase": "Fase 4",
+      "nombre": "Motor de búsqueda",
+      "script": "fases/Fase4_Busqueda.py",
+      "artefacto_principal": "indices/indice_invertido.json",
+      "estado": "OK",
+      "documentos": null
+    },
+    {
+      "fase": "Fase 5",
+      "nombre": "Chatbot y Q&A",
+      "script": "fases/Fase5_Conversacion.py",
+      "artefacto_principal": "reportes/reporte_fase5_conversacion.json",
+      "estado": "OK",
+      "documentos": 1149
+    },
+    {
+      "fase": "Fase 6",
+      "nombre": "Knowledge Graph semántico",
+      "script": "fases/Fase6_KnowledgeGraph.py",
+      "artefacto_principal": "knowledge_graph/simanw.ttl",
+      "estado": "OK",
+      "triples": 35444
+    },
+    {
+      "fase": "AC-9",
+      "nombre": "Línea de tiempo y tendencias",
+      "script": "fases/AC9_LineaTiempoTendencias.py",
+      "artefacto_principal": "reportes/ac9_tendencias_temporales.json",
+      "estado": "OK"
+    },
+    {
+      "fase": "AC-10",
+      "nombre": "Alertas por consulta guardada",
+      "script": "fases/AC10_SistemaAlertas.py",
+      "artefacto_principal": "reportes/ac10_reporte_alertas.json",
+      "estado": "OK"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Q1",
+    "nombre": "Categorías con mayor cobertura",
+    "pregunta_negocio": "¿Qué categorías tienen más noticias en el corpus?",
+    "sparql": "PREFIX simanw: <https://simanw.local/ontology#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?categoria (COUNT(?noticia) AS ?total)\nWHERE {\n  ?noticia a simanw:Noticia ;\n           simanw:tieneCategoria ?cat .\n  ?cat rdfs:label ?categoria .\n}\nGROUP BY ?categoria\nORDER BY DESC(?total)"
+  },
+  {
+    "id": "Q2",
+    "nombre": "Noticias con sentimiento negativo fuerte",
+    "pregunta_negocio": "¿Qué noticias tienen mayor polaridad negativa?",
+    "sparql": "PREFIX simanw: <https://simanw.local/ontology#>\nSELECT ?titulo ?score ?url\nWHERE {\n  ?n a simanw:Noticia ;\n     simanw:titulo ?titulo ;\n     simanw:sentimientoScore ?score .\n  OPTIONAL { ?n simanw:url ?url . }\n  FILTER(?score < -0.20)\n}\nORDER BY ASC(?score)\nLIMIT 10"
+  },
+  {
+    "id": "Q3",
+    "nombre": "Fuentes con más noticias",
+    "pregunta_negocio": "¿Qué fuentes alimentan más el corpus?",
+    "sparql": "PREFIX simanw: <https://simanw.local/ontology#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?fuente (COUNT(?noticia) AS ?total)\nWHERE {\n  ?noticia a simanw:Noticia ;\n           simanw:publicadaPor ?f .\n  ?f rdfs:label ?fuente .\n}\nGROUP BY ?fuente\nORDER BY DESC(?total)\nLIMIT 10"
+  },
+  {
+    "id": "Q4",
+    "nombre": "Noticias relacionadas con datasets abiertos",
+    "pregunta_negocio": "¿Qué noticias fueron vinculadas con datos abiertos?",
+    "sparql": "PREFIX simanw: <https://simanw.local/ontology#>\nPREFIX dc: <http://purl.org/dc/elements/1.1/>\nSELECT ?titulo ?dataset\nWHERE {\n  ?n a simanw:Noticia ;\n     simanw:titulo ?titulo ;\n     simanw:relacionadaConDataset ?ds .\n  ?ds dc:title ?dataset .\n}\nLIMIT 15"
+  },
+  {
+    "id": "Q5",
+    "nombre": "Categorías enlazadas con URIs externas",
+    "pregunta_negocio": "¿Qué recursos locales tienen enlaces explícitos con vocabularios externos?",
+    "sparql": "PREFIX owl: <http://www.w3.org/2002/07/owl#>\nPREFIX skos: <http://www.w3.org/2004/02/skos/core#>\nSELECT ?recurso ?externo\nWHERE {\n  { ?recurso owl:sameAs ?externo . }\n  UNION\n  { ?recurso skos:exactMatch ?externo . }\n  UNION\n  { ?recurso skos:related ?externo . }\n}\nLIMIT 20"
+  }
+]

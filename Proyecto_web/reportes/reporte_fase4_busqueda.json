@@ -1,0 +1,463 @@
+{
+  "fase": "Fase 4 - Motor de Búsqueda Inteligente",
+  "fecha": "2026-06-03T04:15:50",
+  "entrada": "/home/yayo/Documentos/Proyecto_web/datos/dataset_analizado.json",
+  "salidas": {
+    "indice": "/home/yayo/Documentos/Proyecto_web/indices/indice_invertido.json",
+    "metadata": "/home/yayo/Documentos/Proyecto_web/indices/metadatos_busqueda.json",
+    "reporte": "/home/yayo/Documentos/Proyecto_web/reportes/reporte_fase4_busqueda.json"
+  },
+  "info_indice": {
+    "documentos_indexados": 1734,
+    "terminos_unicos": 18215,
+    "postings_totales": 71830,
+    "postings_promedio": 3.94,
+    "longitud_promedio_doc": 69.92,
+    "features_tfidf": 5000
+  },
+  "demostracion_busqueda": [
+    {
+      "consulta": "inteligencia artificial y tecnología",
+      "resultados": [
+        {
+          "doc_id": 198,
+          "titulo": "La IA ya puede manipular encuestas sin ser detectada, según un estudio",
+          "url": "https://www.agenciasinc.es/esl/Noticias/La-IA-ya-puede-manipular-encuestas-sin-ser-detectada-segun-un-estudio",
+          "categoria": "tecnologia",
+          "sentimiento": "negativo",
+          "relevancia": 0.4669,
+          "snippet": "Un experimento demuestra que los bots basados en inteligencia artificial imitan a la perfección a los humanos, sortean todos los controles de calidad y pueden alterar resultados...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 691,
+          "titulo": "Repensando las matemáticas en la era de la inteligencia artificial",
+          "url": "https://elpais.com/ciencia/cafe-y-teoremas/2026-01-05/repensando-las-matematicas-en-la-era-de-la-inteligencia-artificial.html",
+          "categoria": "ciencia",
+          "sentimiento": "neutral",
+          "relevancia": 0.3687,
+          "snippet": "Los modelos de aprendizaje automático comienzan a demostrar teoremas originales y obligan a replantear tanto la investigación como la enseñanza de esta disciplina",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 989,
+          "titulo": "Cómo trabajar con agentes de IA, con Francisco Mateo-Sidrón",
+          "url": "https://www.expansion.com/podcasts/trabajo-y-mas/2026/05/05/69f87b40468aebf4628b45a3.html",
+          "categoria": "tecnologia",
+          "sentimiento": "negativo",
+          "relevancia": 0.3385,
+          "snippet": "La inteligencia artificial no existe sin los datos. Cómo alimentar a nuestro agente de IA es fundamental para garantizar su eficacia y cumplir nuestros objetivos.&nbsp;Leer",
+          "metodo": "hibrida"
+        }
+      ]
+    },
+    {
+      "consulta": "mercados economía inflación",
+      "resultados": [
+        {
+          "doc_id": 911,
+          "titulo": "El espejismo cegador del tesoro de las letras",
+          "url": "https://cincodias.elpais.com/cincodias/2023/02/13/opinion/1676295133_545707.html#?ref=rss&format=simple&link=link",
+          "categoria": "economia",
+          "sentimiento": "neutral",
+          "relevancia": 0.4535,
+          "snippet": "La inflación y los impuestos absorben con creces el retorno esperado en unos activos financieros que ni son fijos ni están libres de riesgo",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 913,
+          "titulo": "El Banco de España revisa al alza el crecimiento del PIB y a la baja la inflación",
+          "url": "https://cincodias.elpais.com/cincodias/2023/02/14/economia/1676380516_914237.html#?ref=rss&format=simple&link=link",
+          "categoria": "economia",
+          "sentimiento": "neutral",
+          "relevancia": 0.3791,
+          "snippet": "La mejora de los datos de 2022 y la bajada del IVA de los alimentos, hacen creer a la institución que la economía se expandirá un 1,6% y el IPC cerrará en el 4,75%",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 974,
+          "titulo": "España, Francia e Italia reclaman limitar los poderes del BCE y la EBA",
+          "url": "https://www.expansion.com/mercados/2026/06/03/6a1f3d20e5fdea2e138b45a3.html",
+          "categoria": "economia",
+          "sentimiento": "neutral",
+          "relevancia": 0.3721,
+          "snippet": "Los paises denuncian la \"inflación regulatoria\" creada por las exigencias de las autoridades que van más allá de las leyes.&nbsp;Leer",
+          "metodo": "hibrida"
+        }
+      ]
+    },
+    {
+      "consulta": "cambio climático investigación científica",
+      "resultados": [
+        {
+          "doc_id": 579,
+          "titulo": "Líderes de 125 países se reúnen para debatir sobre cambio climático",
+          "url": "http://www.bbc.co.uk/mundo/ultimas_noticias/2014/09/140923_ultnot_cumbre_onu_cambio_climatico_nc.shtml",
+          "categoria": "ciencia",
+          "sentimiento": "neutral",
+          "relevancia": 0.6385,
+          "snippet": "Este martes tiene lugar en la sede de Naciones Unidas en Nueva York la cumbre sobre cambio climático que busca generar respaldos para la firma de un acuerdo global el año que...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 589,
+          "titulo": "Miles de personas participan en jornada mundial de protestas por cambio climático",
+          "url": "http://www.bbc.co.uk/mundo/ultimas_noticias/2014/09/140921_ultnot_marchas_cambio_climatico_hr.shtml",
+          "categoria": "ciencia",
+          "sentimiento": "neutral",
+          "relevancia": 0.4785,
+          "snippet": "Desde Australia y Londres hasta Río de Janeiro y Nueva York, miles de personas, incluidas estrellas del cine y la música, exigieron que se tomen acciones urgentes sobre el cambio...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 1567,
+          "titulo": "Qué son las \"zonas muertas\" que amenazan el mar Báltico, el área de agua salobre más grande del mundo",
+          "url": "https://www.bbc.com/mundo/articles/c1722jpde91o?at_medium=RSS&at_campaign=rss",
+          "categoria": "ciencia",
+          "sentimiento": "neutral",
+          "relevancia": 0.4092,
+          "snippet": "Los esfuerzos por recuperar este mar europeo se topan con los retos que suponen la contaminación, el cambio climático y la difícil relación con Rusia.",
+          "metodo": "hibrida"
+        }
+      ]
+    },
+    {
+      "consulta": "gobierno elecciones ley",
+      "resultados": [
+        {
+          "doc_id": 1030,
+          "titulo": "Madrid aprobará en junio su Ley de Defensa del Contribuyente",
+          "url": "https://www.expansion.com/economia/2026/05/28/6a1737e5e5fdea99028b4588.html",
+          "categoria": "economia",
+          "sentimiento": "neutral",
+          "relevancia": 0.4995,
+          "snippet": "El Consejo de Gobierno de la Comunidad dará luz verde al proyecto de ley a lo largo del mes que viene para su posterior tramitación en la Asamblea regional.&nbsp;Leer",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 1094,
+          "titulo": "Sheinbaum insiste con el riesgo de injerencia extranjera en elecciones",
+          "url": "https://www.lapoliticaonline.com/mexico/politica-mx/sheinbaum-reconoce-riesgo-de-injerencia-extranjera-tras-reforma-de-morena-para-anular-elecciones-8947/",
+          "categoria": "gobierno",
+          "sentimiento": "positivo",
+          "relevancia": 0.2901,
+          "snippet": "Aseguró que ya ha habido financiamiento desde el exterior. Señaló que debe regularse la nueva iniciativa impulsada por Morena.",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 1148,
+          "titulo": "¿Quién va a gestionar el estado de ánimo de los progresistas?",
+          "url": "https://elpais.com/opinion/2026-05-30/quien-va-a-gestionar-el-estado-de-animo-de-los-progresistas.html",
+          "categoria": "gobierno",
+          "sentimiento": "negativo",
+          "relevancia": 0.2876,
+          "snippet": "Si Sánchez ironiza que no convoca elecciones porque primaría el interés partidista, es que no entiende cómo se siente hoy la izquierda",
+          "metodo": "hibrida"
+        }
+      ]
+    },
+    {
+      "consulta": "noticias internacionales conflicto",
+      "resultados": [
+        {
+          "doc_id": 1024,
+          "titulo": "El mes de los errores y el agobio",
+          "url": "https://www.expansion.com/economia/financial-times/2026/06/02/6a1ef635468aeb04468b4571.html",
+          "categoria": "economia",
+          "sentimiento": "neutral",
+          "relevancia": 0.417,
+          "snippet": "Desde eventos de negocios internacionales a recitales escolares, la agenda de junio trae más trabajo del que podemos asumir.&nbsp;Leer",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 264,
+          "titulo": "Inteligencia artificial para mejorar tratamientos de enfermedades raras",
+          "url": "https://www.agenciasinc.es/esl/Noticias/Inteligencia-artificial-para-mejorar-tratamientos-de-enfermedades-raras",
+          "categoria": "tecnologia",
+          "sentimiento": "neutral",
+          "relevancia": 0.2514,
+          "snippet": "Investigadores del Barcelona Supercomputing Center y otros centros internacionales han utilizado redes artificiales multicapa para descubrir las posibles causas de los síndromes...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 286,
+          "titulo": "Cuasicristales coloidales diseñados con ADN",
+          "url": "https://www.agenciasinc.es/esl/Noticias/Cuasicristales-coloidales-disenados-con-ADN",
+          "categoria": "tecnologia",
+          "sentimiento": "neutral",
+          "relevancia": 0.21,
+          "snippet": "Investigadores de CIC biomaGUNE y otros centros internacionales han desarrollado un modelo para la síntesis controlada de nanoestructuras complejas hasta ahora inalcanzables. El...",
+          "metodo": "hibrida"
+        }
+      ]
+    }
+  ],
+  "demostracion_lenguaje_natural": [
+    {
+      "consulta_original": "Muéstrame noticias positivas sobre tecnología",
+      "interpretacion": {
+        "categoria": "tecnologia",
+        "sentimiento": "positivo",
+        "modo": "hibrida",
+        "consulta_limpia": "tecnologia"
+      },
+      "total_resultados": 2,
+      "resultados": [
+        {
+          "doc_id": 725,
+          "titulo": "La fórmula para no equivocarte de coche: la tecnología Super Hybrid System de OMODA & JAECOO que resuelve tu transición al eléctrico de forma inteligente",
+          "url": "https://muyinteresante.okdiario.com/actualidad/shs-de-omoda-jaecoo-asi-funciona-su-tecnologia-hibrida.html",
+          "categoria": "tecnologia",
+          "sentimiento": "positivo",
+          "relevancia": 0.2394,
+          "snippet": "OMODA &#038; JAECOO ha convertido la tecnología SHS en el corazón de su ofensiva electrificada, con tres niveles de hibridación pensados para combinar eficiencia, autonomía,...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 147,
+          "titulo": "¿Por qué ver a otros jugar videojuegos es un éxito?",
+          "url": "http://www.bbc.co.uk/mundo/blogs/2014/08/140827_blog_un_mundo_feliz_twitch.shtml",
+          "categoria": "tecnologia",
+          "sentimiento": "positivo",
+          "relevancia": 0.1858,
+          "snippet": "Amazon pagará US$970 millones por Twitch y la apuesta parece exitosa. En nuestro bñog de tecnología, exploramos el porqué.",
+          "metodo": "hibrida"
+        }
+      ]
+    },
+    {
+      "consulta_original": "Busco información preocupante sobre economía",
+      "interpretacion": {
+        "categoria": "tecnologia",
+        "sentimiento": "negativo",
+        "modo": "hibrida",
+        "consulta_limpia": "busco economia"
+      },
+      "total_resultados": 2,
+      "resultados": [
+        {
+          "doc_id": 0,
+          "titulo": "En Aragón, las granjas están empezando a hacer algo con sus balsas de purines: cubrirlas de paneles solares",
+          "url": "https://www.xataka.com/energia/balsas-purines-dolor-muelas-medioambiental-aragon-han-tenido-idea-cubrirlas-paneles-solares",
+          "categoria": "tecnologia",
+          "sentimiento": "negativo",
+          "relevancia": 1.0,
+          "snippet": "Solo en Aragón hay más de 4.000 granjas de cerdos, explotaciones de las que cada año salen miles y miles de toneladas de carne que luego se comercializa en el resto del mundo. En...",
+          "metodo": "categoria"
+        },
+        {
+          "doc_id": 1,
+          "titulo": "Cuándo me pagan la devolución de la Renta 2025: cuánto suelen tardar en tu declaración de 2026 y qué pueden revisar si tardan",
+          "url": "https://www.xataka.com/basics/cuando-me-pagan-devolucion-renta-2025-cuanto-suelen-tardar-tu-declaracion-2026-que-pueden-revisar-tardan",
+          "categoria": "tecnologia",
+          "sentimiento": "negativo",
+          "relevancia": 1.0,
+          "snippet": "Vamos a decirte cuándo van a pagarte la devolución de la Renta 2025, que es la que hacemos en 2026 para ponernos al día del pasado año fiscal. Según el calendario de la Renta, el...",
+          "metodo": "categoria"
+        }
+      ]
+    },
+    {
+      "consulta_original": "¿Qué hay sobre investigación científica?",
+      "interpretacion": {
+        "categoria": "ciencia",
+        "sentimiento": null,
+        "modo": "hibrida",
+        "consulta_limpia": "que investigacion cientifica"
+      },
+      "total_resultados": 2,
+      "resultados": [
+        {
+          "doc_id": 516,
+          "titulo": "El telescopio James Webb capta por primera vez la imagen de un exoplaneta ligero",
+          "url": "https://www.agenciasinc.es/esl/Noticias/El-telescopio-James-Webb-capta-por-primera-vez-la-imagen-de-un-exoplaneta-ligero",
+          "categoria": "ciencia",
+          "sentimiento": "positivo",
+          "relevancia": 0.4912,
+          "snippet": "Un equipo liderado por una astrónoma del Centro Nacional de Investigación Científica de Francia ha detectado un planeta con una masa similar a la de Saturno en el disco de...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 571,
+          "titulo": "Oskar González Mendia: «La divulgación me ha ayudado mucho en el camino de la Ciencia al Arte»",
+          "url": "https://naukas.com/2025/12/21/oskar-gonzalez-mendia-la-divulgacion-me-ha-ayudado-mucho-en-el-camino-de-la-ciencia-al-arte/",
+          "categoria": "ciencia",
+          "sentimiento": "negativo",
+          "relevancia": 0.3667,
+          "snippet": "&#160; Oskar González Mendia es doctor en Química Analítica por la Universidad del País Vasco. Sin una vocación científica clara, los caminos químicos le llevaron a investigar...",
+          "metodo": "hibrida"
+        }
+      ]
+    },
+    {
+      "consulta_original": "Encuentra noticias internacionales recientes",
+      "interpretacion": {
+        "categoria": "tecnologia",
+        "sentimiento": null,
+        "modo": "hibrida",
+        "consulta_limpia": "internacionales"
+      },
+      "total_resultados": 2,
+      "resultados": [
+        {
+          "doc_id": 286,
+          "titulo": "Cuasicristales coloidales diseñados con ADN",
+          "url": "https://www.agenciasinc.es/esl/Noticias/Cuasicristales-coloidales-disenados-con-ADN",
+          "categoria": "tecnologia",
+          "sentimiento": "neutral",
+          "relevancia": 0.4041,
+          "snippet": "Investigadores de CIC biomaGUNE y otros centros internacionales han desarrollado un modelo para la síntesis controlada de nanoestructuras complejas hasta ahora inalcanzables. El...",
+          "metodo": "hibrida"
+        },
+        {
+          "doc_id": 290,
+          "titulo": "Un estudio revela amenazas para la privacidad y la seguridad en los hogares 'inteligentes'",
+          "url": "https://www.agenciasinc.es/esl/Noticias/Un-estudio-revela-amenazas-para-la-privacidad-y-la-seguridad-en-los-hogares-inteligentes",
+          "categoria": "tecnologia",
+          "sentimiento": "neutral",
+          "relevancia": 0.3609,
+          "snippet": "Un grupo de expertos de universidades y centros de investigación internacionales analizan las interacciones en red local de los artefactos de Internet de las Cosas y las...",
+          "metodo": "hibrida"
+        }
+      ]
+    }
+  ],
+  "evaluacion": {
+    "consultas_evaluadas": 6,
+    "map": 0.0,
+    "detalle": [
+      {
+        "consulta": "inteligencia artificial tecnología software",
+        "recuperados": [
+          198,
+          45,
+          691,
+          989,
+          263
+        ],
+        "relevantes": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "p@3": 0.0,
+        "average_precision": 0.0
+      },
+      {
+        "consulta": "psg champions deportes fútbol",
+        "recuperados": [
+          1341,
+          1250,
+          1296,
+          1369,
+          1340
+        ],
+        "relevantes": [
+          356,
+          357,
+          708,
+          1068,
+          1077
+        ],
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "p@3": 0.0,
+        "average_precision": 0.0
+      },
+      {
+        "consulta": "economía mercados inflación finanzas",
+        "recuperados": [
+          911,
+          974,
+          913,
+          746,
+          840
+        ],
+        "relevantes": [
+          36,
+          133,
+          202,
+          330,
+          363
+        ],
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "p@3": 0.0,
+        "average_precision": 0.0
+      },
+      {
+        "consulta": "investigación ciencia clima salud",
+        "recuperados": [
+          603,
+          688,
+          493,
+          1603,
+          613
+        ],
+        "relevantes": [
+          11,
+          159,
+          238,
+          246,
+          256
+        ],
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "p@3": 0.0,
+        "average_precision": 0.0
+      },
+      {
+        "consulta": "gobierno política elecciones ley",
+        "recuperados": [
+          1030,
+          1650,
+          1082,
+          1133,
+          1148
+        ],
+        "relevantes": [
+          784,
+          790,
+          814,
+          832,
+          870
+        ],
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "p@3": 0.0,
+        "average_precision": 0.0
+      },
+      {
+        "consulta": "internacional mundo conflicto países",
+        "recuperados": [
+          853,
+          1657,
+          319,
+          1648,
+          1698
+        ],
+        "relevantes": [
+          23,
+          787,
+          816,
+          856,
+          1553
+        ],
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "p@3": 0.0,
+        "average_precision": 0.0
+      }
+    ]
+  }
+}

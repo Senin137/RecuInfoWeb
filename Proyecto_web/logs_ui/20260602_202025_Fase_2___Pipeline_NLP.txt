@@ -1,0 +1,83 @@
+╔══════════════════════════════════════════════╗
+║   FASE 2 — Pipeline NLP                      ║
+╚══════════════════════════════════════════════╝
+  Noticias a procesar : 142
+
+  ▶ 2.1 Pre-procesamiento...
+  ▶ 2.2 Análisis léxico...
+     Total documentos    : 142
+     Total tokens        : 4871
+     Vocabulario único   : 2827
+     Riqueza léxica prom : 0.9088
+     Tokens/doc (prom)   : 34.3
+
+     Unigramas top-10    : ['mundo', 'ciencia', 'naukas', 'mujeres', 'xataka', 'hombres', 'país', 'colombia', 'tras', 'gobierno']
+     Bigramas top-10     : ['xataka ciencia', 'publicada originalmente', 'originalmente xataka', 'ciencia sergio', 'sergio parra', 'siguiente vídeo', 'naukas palma', 'iván cepeda', 'marilyn monroe', 'hombres mujeres']
+     Trigramas top-5     : ['publicada originalmente xataka', 'originalmente xataka ciencia', 'xataka ciencia sergio', 'ciencia sergio parra', 'primate cambió mundo']
+
+     Entidades nombradas : ['Colombia', 'Xataka Ciencia', 'Sergio Parra', 'Espriella', 'España', 'Venezuela', 'Universidad', 'Naukas Palma', 'Iván Cepeda', 'Quién', 'Marilyn Monroe', 'En Xataka Ciencia', 'Gobierno', 'Sánchez', 'Abelardo']
+
+     Por categoría:
+       [tecnologia] 687 tokens | vocab 534 | riqueza 0.7773
+         top: ['colombia', 'cepeda', 'espriella', 'iván', 'elecciones']
+       [ciencia] 2217 tokens | vocab 1300 | riqueza 0.5864
+         top: ['ciencia', 'mundo', 'naukas', 'xataka', 'hombres']
+       [economia] 604 tokens | vocab 523 | riqueza 0.8659
+         top: ['euros', 'millones', 'empresa', 'industria', 'mayor']
+       [gobierno] 749 tokens | vocab 561 | riqueza 0.749
+         top: ['sánchez', 'psoe', 'elecciones', 'gobierno', 'partido']
+       [mundo] 614 tokens | vocab 500 | riqueza 0.8143
+         top: ['mundo', 'minutos', 'mujeres', 'mundial', 'país']
+
+  ▶ 2.3 Vectorización TF-IDF...
+     Matriz: 142 docs × 3000 features
+     Densidad: 0.010676 | Términos/doc (prom): 32.0
+
+     Términos más relevantes por noticia:
+     [tecnologia] Abelardo de la Espriella gana en primera vuel...
+       primera vuelta            0.2254
+       presidencia               0.2254
+       abelardo espriella        0.2144
+       abelardo                  0.2144
+       vuelta                    0.2144
+     [tecnologia] Quién es Abelardo de la Espriella, el empresa...
+       espriella                 0.2807
+       empresario promete        0.2175
+       cepeda candidato          0.2175
+       candidato izquierda       0.2175
+       expertos medirá           0.2175
+     [tecnologia] Quién es Iván Cepeda, el filósofo cuyo padre ...
+       cepeda                    0.2547
+       crímenes candidato        0.1974
+       crímenes                  0.1974
+       colombia cepeda           0.1974
+       continuar                 0.1974
+     [tecnologia] 5 gráficos que muestran la Colombia que hered...
+       colombia heredará         0.3418
+       sucesor gustavo           0.3155
+       gustavo                   0.3155
+       gustavo petro             0.3155
+       sucesor                   0.3155
+     [tecnologia] "Creía que mi familia se había resistido a Hi...
+       nazi                      0.3291
+       hitler                    0.3291
+       fascista adolf            0.2106
+       familias apoyaron         0.2106
+       documentos                0.2106
+
+  ▶ 2.4 Similitud coseno...
+     Grupos temáticos detectados: 13
+     Grupo 1: 7 noticias
+       · Abelardo de la Espriella gana en primera vuelta con su ...
+       · Quién es Abelardo de la Espriella, el empresario que pr...
+       · Quién es Iván Cepeda, el filósofo cuyo padre fue asesin...
+     Grupo 2: 2 noticias
+       · Israel toma un castillo clave en Líbano mientras aument...
+       · Israel expande su control militar en Líbano y ocupa el ...
+     Grupo 3: 3 noticias
+       · Las incógnitas que aún rodean la muerte de Marilyn Monr...
+       · 100 años de Marilyn Monroe: su estrecha relación con Mé...
+       · Quiénes fueron los herederos de Marilyn Monroe y cuánto...
+
+  [Dataset NLP] 142 noticias → /home/yayo/Documentos/Proyecto_web/datos/dataset_nlp.json
+  [Stats NLP]   → /home/yayo/Documentos/Proyecto_web/reportes/estadisticas_nlp.json

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "simanw": "https://simanw.local/ontology#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "@id": "https://simanw.local/recurso/noticia_1000_f8976d9922",
+  "@type": [
+    "schema:NewsArticle",
+    "simanw:Noticia"
+  ],
+  "schema:headline": "Los delitos de odio marcan máximo histórico al subir un 23,6% en 2025 y aumenta la participación de menores",
+  "schema:url": "https://www.europapress.es/nacional/noticia-delitos-odio-marcan-maximo-historico-subir-236-2025-aumenta-participacion-menores-20260603102615.html",
+  "simanw:categoriaTexto": "gobierno",
+  "simanw:sentimientoEtiqueta": "neutral",
+  "dc:title": "Los delitos de odio marcan máximo histórico al subir un 23,6% en 2025 y aumenta la participación de menores"
+}

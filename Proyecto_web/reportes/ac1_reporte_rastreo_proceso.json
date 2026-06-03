@@ -1,0 +1,11 @@
+{
+  "actividad": "AC-1 Rastreo de sitio real con paginacion",
+  "sitio": "Proceso",
+  "url_inicio": "https://www.proceso.com.mx/nacional/",
+  "paginas_visitadas": 0,
+  "noticias_extraidas": 0,
+  "delay_segundos": 3,
+  "robots_txt_respetado": true,
+  "cumple_minimo_20": false,
+  "fecha": "2026-06-02T12:44:54"
+}

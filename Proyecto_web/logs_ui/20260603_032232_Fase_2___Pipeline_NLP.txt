@@ -1,0 +1,86 @@
+╔══════════════════════════════════════════════╗
+║   FASE 2 — Pipeline NLP                      ║
+╚══════════════════════════════════════════════╝
+  Noticias a procesar : 1364
+
+  ▶ 2.1 Pre-procesamiento...
+  ▶ 2.2 Análisis léxico...
+     Total documentos    : 1364
+     Total tokens        : 67308
+     Vocabulario único   : 16956
+     Riqueza léxica prom : 0.9162
+     Tokens/doc (prom)   : 49.3
+
+     Unigramas top-10    : ['euros', 'millones', 'españa', 'mundo', 'nuevo', 'forma', 'tras', 'xataka', 'sistema', 'nueva']
+     Bigramas top-10     : ['publicada originalmente', 'iphone pro', 'blog salmón', 'originalmente xataka', 'inteligencia artificial', 'galaxy ultra', 'millones dólares', 'real madrid', 'redes sociales', 'agencia espacial']
+     Trigramas top-5     : ['publicada originalmente xataka', 'publicada originalmente blog', 'originalmente blog salmón', 'estación espacial internacional', 'samsung galaxy ultra']
+
+     Entidades nombradas : ['España', 'México', 'Estados Unidos', 'Tierra', 'Según', 'China', 'Madrid', 'Apple', 'Cómo', 'Mundial', 'Ultra', 'Además', 'Europa', 'Xataka', 'Luna']
+
+     Por categoría:
+       [tecnologia] 30178 tokens | vocab 9538 | riqueza 0.3161
+         top: ['xataka', 'pro', 'iphone', 'móvil', 'forma']
+       [ciencia] 9321 tokens | vocab 4258 | riqueza 0.4568
+         top: ['estudio', 'mundo', 'tierra', 'espacial', 'ciencia']
+       [economia] 14552 tokens | vocab 5865 | riqueza 0.403
+         top: ['euros', 'leer', 'españa', 'millones', 'méxico']
+       [gobierno] 3095 tokens | vocab 1868 | riqueza 0.6036
+         top: ['sheinbaum', 'presidenta', 'gobierno', 'morena', 'méxico']
+       [deportes] 8110 tokens | vocab 4276 | riqueza 0.5273
+         top: ['quot', 'madrid', 'tras', 'real', 'mundial']
+       [mundo] 2052 tokens | vocab 1330 | riqueza 0.6481
+         top: ['trump', 'presidente', 'unidos', 'líbano', 'irán']
+
+  ▶ 2.3 Vectorización TF-IDF...
+     Matriz: 1364 docs × 3000 features
+     Densidad: 0.008327 | Términos/doc (prom): 25.0
+
+     Términos más relevantes por noticia:
+     [tecnologia] El "no" de España a los F-35 ha llevado a un ...
+       harrier                   0.2547
+       piezas                    0.1534
+       montar                    0.1534
+       aviones                   0.1473
+       eeuu                      0.1424
+     [tecnologia] Una tele por menos de 80 euros, el POCO X8 Pr...
+       xatakaes                  0.2254
+       cupón                     0.2148
+       xiaomi                    0.1984
+       cupón xatakaes            0.1913
+       euros cupón               0.1913
+     [tecnologia] Sale más barato y da menos ansiedad: el 'solo...
+       citas                     0.17
+       pareja                    0.119
+       generación                0.1187
+       relaciones                0.1155
+       jóvenes                   0.1142
+     [tecnologia] Tras probarlos, los expertos de Xataka coinci...
+       móvil                     0.1129
+       samsung galaxy            0.1083
+       galaxy                    0.1063
+       gama alta                 0.1028
+       galaxy ultra              0.1028
+     [tecnologia] China ha desarrollado una IA capaz de coordin...
+       str                       0.1827
+       enemigos                  0.1659
+       algoritmo                 0.1521
+       drones                    0.1449
+       autónoma                  0.1382
+
+  ▶ 2.4 Similitud coseno...
+     Grupos temáticos detectados: 302
+     Grupo 1: 5 noticias
+       · El "no" de España a los F-35 ha llevado a un curioso ac...
+       · Sale más barato y da menos ansiedad: el 'solo-maxxing' ...
+       · China ha desarrollado una IA capaz de coordinar drones ...
+     Grupo 2: 4 noticias
+       · Una tele por menos de 80 euros, el POCO X8 Pro, tablets...
+       · Tras probarlos, los expertos de Xataka coinciden: estos...
+       · Oppo Find X9 Ultra vs Galaxy S26 Ultra: una de las mejo...
+     Grupo 3: 3 noticias
+       · Un dron casero acaba de superar los 700 km/h. Y con ell...
+       · Uno de los aeropuertos más temidos de Europa afronta un...
+       · Un dron inspirado en un pájaro puede saltar para despeg...
+
+  [Dataset NLP] 1364 noticias → /home/yayo/Documentos/Proyecto_web/datos/dataset_nlp.json
+  [Stats NLP]   → /home/yayo/Documentos/Proyecto_web/reportes/estadisticas_nlp.json

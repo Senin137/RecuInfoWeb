@@ -1,0 +1,75 @@
+{
+  "tecnologia": [
+    "https://www.xataka.com/index.xml",
+    "https://www.genbeta.com/index.xml",
+    "https://hipertextual.com/feed",
+    "https://www.microsiervos.com/index.xml",
+    "https://wwwhatsnew.com/feed/",
+    "https://www.bbc.com/mundo/temas/tecnologia/index.xml",
+    "https://www.agenciasinc.es/feed/Tecnologia",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada",
+    "https://es.wired.com/feed/rss",
+    "https://computerhoy.com/feed",
+    "https://unaaldia.hispasec.com/feed"
+  ],
+  "ciencia": [
+    "https://www.agenciasinc.es/feed/Ciencia",
+    "https://www.agenciasinc.es/rss/todas",
+    "https://www.xatakaciencia.com/index.xml",
+    "https://naukas.com/feed/",
+    "https://www.bbc.com/mundo/temas/ciencia/index.xml",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+    "https://www.nationalgeographic.com.es/rss/noticias",
+    "https://www.muyinteresante.es/feed/",
+    "https://es.wired.com/category/ciencia/feed/rss"
+  ],
+  "economia": [
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+    "https://www.eleconomista.com.mx/rss/ultimas-noticias",
+    "https://www.jornada.com.mx/rss/economia.xml?v=1",
+    "https://www.elblogsalmon.com/index.xml",
+    "https://cincodias.elpais.com/rss/cincodias/portada.xml",
+    "https://www.expansion.com/rss/portada.xml",
+    "https://www.clarin.com/rss/economia/",
+    "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/",
+    "https://www.forbes.com.mx/feed/",
+    "https://www.eleconomista.es/rss/rss-portada.php"
+  ],
+  "gobierno": [
+    "https://www.jornada.com.mx/rss/politica.xml?v=1",
+    "https://editorial.aristeguinoticias.com/category/mexico/feed/",
+    "https://www.proceso.com.mx/rss/feed.html?r=3",
+    "https://www.animalpolitico.com/feed/",
+    "https://www.lapoliticaonline.com/files/rss/politica-mx.xml",
+    "https://www.europapress.es/rss/rss.aspx?ch=00066",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+    "https://www.eluniversal.com.mx/rss/nacion.xml",
+    "https://www.milenio.com/rss/politica",
+    "https://expansion.mx/rss/politica"
+  ],
+  "deportes": [
+  "https://www.espn.com.mx/espn/rss/news",
+    "https://www.mediotiempo.com/rss",
+    "https://www.record.com.mx/rss/noticias.xml",
+    "https://www.milenio.com/rss/la-aficion",
+    "https://www.eluniversal.com.mx/rss/deportes.xml",
+    "https://www.ole.com.ar/rss/",
+    "https://as.com/rss/mexico/portada.xml",
+    "https://e00-marca.uecdn.es/rss/portada.xml",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada",
+    "https://www.mundodeportivo.com/rss/home.xml",
+    "https://feeds.bbci.co.uk/mundo/topics/cdr56g57ywgt/rss.xml"
+  ],
+  "mundo": [
+    "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+    "https://cnnespanol.cnn.com/feed/",
+    "https://www.france24.com/es/rss",
+    "https://www.rtve.es/rss/temas_internacional.xml",
+    "https://editorial.aristeguinoticias.com/category/mundo/feed/",
+    "https://www.reforma.com/rss/internacional.xml",
+    "https://rss.dw.com/rdf/rss-spa-all",
+    "https://news.un.org/feed/view/es/news/all/rss.xml",
+    "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml"
+  ]
+}

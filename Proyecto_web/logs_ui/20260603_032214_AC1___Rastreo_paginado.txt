@@ -1,0 +1,26 @@
+  [robots.txt] Leído: https://news.ycombinator.com/robots.txt
+╔══════════════════════════════════════════════╗
+║   AC-1 — Rastreo real con paginación         ║
+╚══════════════════════════════════════════════╝
+  Sitio         : Hacker News
+  URL inicial   : https://news.ycombinator.com/news?p=1
+  Delay         : 3s
+  Meta noticias : 20
+
+  ▶ Página 1: https://news.ycombinator.com/news?p=1
+     Extraídas en página : 30
+     Nuevas agregadas    : 30
+     Total acumulado     : 30
+  [OK] Se alcanzó el mínimo de 20 noticias.
+
+  ── Resultado AC-1 ─────────────────────────
+  Noticias guardadas : 30
+  Dataset            : datos/ac1_rastreo_paginado.json
+  Reporte            : reportes/ac1_reporte_rastreo_paginado.json
+
+  Primeras noticias:
+   - 1-Click GitHub Token Stealing via a VSCode Bug
+   - Life and work is not meant to be spent in isolation
+   - AI Engineers aren't safe from being replaced by AI
+   - Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)
+   - AI outperforms law professors in Stanford Law study

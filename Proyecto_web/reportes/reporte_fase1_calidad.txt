@@ -1,0 +1,568 @@
+════════════════════════════════════════════════════════════
+  REPORTE DE CONTROL DE CALIDAD — SIMANW Fase 1
+════════════════════════════════════════════════════════════
+
+  Total evaluadas  : 1868
+  Aprobadas        : 1729
+  Rechazadas       : 139
+  Tasa de éxito    : 92.6%
+  Filtro de tiempo : INACTIVO
+
+DETALLE DE RECHAZOS:
+────────────────────────────────────────────────────────────
+
+1. ✗ Duplicado — URL ya registrada
+   Título : Un curioso invento para producir energía masticando chicle
+   URL    : http://www.bbc.co.uk/mundo/noticias/2014/09/140918_ciencia_correa_energia_movimiento_mandibula_np.shtml
+
+2. ✗ Duplicado — URL ya registrada
+   Título : Así son los taxis espaciales del futuro seleccionados por la NASA
+   URL    : http://www.bbc.co.uk/mundo/noticias/2014/09/140917_tecnologia_nasa_taxis_espaciales_ig.shtml
+
+3. ✗ Duplicado — URL ya registrada
+   Título : Superpronosticadores: la gente "normal" capaz de predecir el futuro
+   URL    : http://www.bbc.co.uk/mundo/noticias/2014/09/140909_vert_fut_mejor_manera_predecir_futuro_lv.shtml
+
+4. ✗ Duplicado — URL ya registrada
+   Título : Cómo se logró el primer saludo telepático por internet
+   URL    : http://www.bbc.co.uk/mundo/noticias/2014/09/140908_ciencia_telepatia_primer_saludo_cerebros_np.shtml
+
+5. ✗ Duplicado — URL ya registrada
+   Título : Ann Dooms, matemática: “En el mundo real, la intuición humana sigue siendo insustituible”
+   URL    : https://elpais.com/ciencia/2026-05-26/ann-dooms-matematica-en-el-mundo-real-la-intuicion-humana-sigue-siendo-insustituible.html
+
+6. ✗ Cuerpo insuficiente (45 chars < 50)
+   Título : Café y teoremas: punto y seguido a 10 años de matemáticas en la prensa
+   URL    : https://elpais.com/ciencia/cafe-y-teoremas/2026-03-10/cafe-y-teoremas-punto-y-seguido-a-10-anos-de-matematicas-en-la-prensa.html
+
+7. ✗ Cuerpo insuficiente (45 chars < 50)
+   Título : Un dinamismo laboral impulsado por los extranjeros
+   URL    : https://cincodias.elpais.com/opinion/2026-06-03/un-dinamismo-laboral-impulsado-por-los-extranjeros.html
+
+8. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : XXI Banorte invita a trabajadores independientes a mantener activa su cuenta afore mediante ahorro voluntario
+   URL    : http://localhost/politica/xxi-banorte-invita-trabajadores-independientes-mantener-activa-cuenta-afore-mediante-ahorro-voluntario-20260602-816563.html
+
+9. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Con policía profesionalizada gobierno de Puebla fortalece la seguridad de las familias
+   URL    : http://localhost/politica/policia-profesionalizada-gobierno-puebla-fortalece-seguridad-familias-20260602-816560.html
+
+10. ✗ Cuerpo insuficiente (45 chars < 50)
+   Título : El Ibex mantiene las subidas tras la leve moderación de la inflación estadounidense
+   URL    : https://cincodias.elpais.com/cincodias/2023/02/14/mercados/1676359494_751625.html#?ref=rss&format=simple&link=link
+
+11. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Consulta la información de más de 5 millones de empresas
+   URL    : https://cincodias.elpais.com/cincodias/2022/06/15/extras/1655280256_725343.html#?ref=rss&format=simple&link=link
+
+12. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Memes y frustración: la importancia de rediseñar la Administración digital
+   URL    : https://cincodias.elpais.com/cincodias/2023/02/08/extras/1675852262_165936.html#?ref=rss&format=simple&link=link
+
+13. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : España debe aprovechar un 2023 más despejado de lo previsto
+   URL    : https://cincodias.elpais.com/cincodias/2023/02/13/opinion/1676317058_407820.html#?ref=rss&format=simple&link=link
+
+14. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Calculadora de IRPF
+   URL    : https://cincodias.elpais.com/cincodias/2022/09/15/economia/1663239080_399527.html#?ref=rss&format=simple&link=link
+
+15. ✗ Cuerpo insuficiente (48 chars < 50)
+   Título : Simulador de hipotecas
+   URL    : https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490702551_649737.html#?ref=rss&format=simple&link=link
+
+16. ✗ Cuerpo insuficiente (48 chars < 50)
+   Título : Simulador de pensiones
+   URL    : https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490702635_182669.html#?ref=rss&format=simple&link=link
+
+17. ✗ Cuerpo insuficiente (10 chars < 50)
+   Título : ¿Veremos la inflación al 7%?
+   URL    : https://www.expansion.com/podcasts/en-accion/2026/05/29/6a196ecb468aebe8778b4573.html
+
+18. ✗ Cuerpo insuficiente (10 chars < 50)
+   Título : Fake news. Fake money. Aprende a distinguir lo que cuenta
+   URL    : https://www.escuelaunidadeditorial.es/businessschool/cursos/empresa/periodismo-economico-expansion-uc3m
+
+19. ✗ Cuerpo insuficiente (10 chars < 50)
+   Título : El nacionalismo no regalará la moción de censura
+   URL    : https://www.expansion.com/opinion/2026/06/03/6a1f3722468aeba6668b4596.html
+
+20. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Travesía en Michoacán
+   URL    : https://www.jornada.com.mx/2026/06/02/politica/010n2pol?partner=rss
+
+21. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Cercan la Plaza de la Constitución
+   URL    : https://www.jornada.com.mx/2026/06/02/politica/006n3pol?partner=rss
+
+22. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Trump firma orden ejecutiva para evaluar riesgos de Inteligencia Artificial
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/trump-firma-orden-ejecutiva-para-evaluar-riesgos-de-inteligencia-artificial-376223.html
+
+23. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Trump desmiente reportes de que Irán dejó la mesa de negociaciones para poner fin a la guerra
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/trump-desmiente-reportes-de-que-iran-dejo-la-mesa-de-negociaciones-para-poner-fin-la-guerra-376214.html
+
+24. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Denuncia Parlamento Europeo injerencia del presidente de Ecuador en comicios de Colombia
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/denuncia-parlamento-europeo-injerencia-del-presidente-de-ecuador-en-comicios-de-colombia-376211.html
+
+25. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Trump designa a William J. Pulte como director interino de Inteligencia Nacional
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/trump-designa-william-j-pulte-como-director-interino-de-inteligencia-nacional-376199.html
+
+26. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Comparecen niñas acusadas de planear y ejecutar incendio que mató a 16 menores en escuela de Kenia
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/comparecen-ninas-acusadas-de-planear-ejecutar-incendio-que-mato-16-menores-en-escuela-de-kenia-376196.html
+
+27. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Trump se enfurece con Netanyahu por la guerra en Líbano: “Estarías en la cárcel si no fuera por mí”
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/trump-se-enfurece-con-netanyahu-por-la-guerra-en-libano-estarias-en-la-carcel-si-no-fuera-por-mi-376194.html
+
+28. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Israel mata a ocho en el sur de Líbano, un día después de que Trump adelantó una desescalada
+   URL    : https://www.proceso.com.mx/internacional/2026/6/2/israel-mata-ocho-en-el-sur-de-libano-un-dia-despues-de-que-trump-adelanto-una-desescalada-376193.html
+
+29. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Trump afirma que Israel y Hezbolá acordaron reducir intensidad de los combates
+   URL    : https://www.proceso.com.mx/internacional/2026/6/1/trump-afirma-que-israel-hezbola-acordaron-reducir-intensidad-de-los-combates-376151.html
+
+30. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : “No hemos encontrado irregularidades en la elección”: Iván Cepeda sobre comicios en Colombia
+   URL    : https://www.proceso.com.mx/internacional/2026/6/1/no-hemos-encontrado-irregularidades-en-la-eleccion-ivan-cepeda-sobre-comicios-en-colombia-376143.html
+
+31. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : ONU condena la normativa talibán que permite el matrimonio infantil en Afganistán
+   URL    : https://www.proceso.com.mx/internacional/2026/6/1/onu-condena-la-normativa-taliban-que-permite-el-matrimonio-infantil-en-afganistan-376131.html
+
+32. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : EU bombardea recintos militares iraníes y Kuwait recibe ataques con drones y misiles
+   URL    : https://www.proceso.com.mx/internacional/2026/6/1/eu-bombardea-recintos-militares-iranies-kuwait-recibe-ataques-con-drones-misiles-376130.html
+
+33. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Cepeda y Petro cuestionan resultados de la elección en Colombia que dan ventaja a De la Espriella
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/cepeda-petro-cuestionan-resultados-de-la-eleccion-en-colombia-que-dan-ventaja-de-la-espriella-376115.html
+
+34. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Trump arremete contra juez que le prohibió cambiarle el nombre al Centro Kennedy
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/trump-arremete-contra-juez-que-le-prohibio-cambiarle-el-nombre-al-centro-kennedy-376109.html
+
+35. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Médico de Trump dice que el presidente es “apto” para cumplir su cargo
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/medico-de-trump-dice-que-el-presidente-es-apto-para-cumplir-su-cargo-376104.html
+
+36. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Un populista de extrema derecha y un izquierdista pasan a segunda vuelta en Colombia
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/un-populista-de-extrema-derecha-un-izquierdista-pasan-segunda-vuelta-en-colombia-376101.html
+
+37. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : El Pentágono impulsa la IA en el campo de batalla mientras algunos mandos militares piden cautela
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/el-pentagono-impulsa-la-ia-en-el-campo-de-batalla-mientras-algunos-mandos-militares-piden-cautela-376097.html
+
+38. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Edmundo González, candidato de la oposición venezolana, pide elecciones presidenciales
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/edmundo-gonzalez-candidato-de-la-oposicion-venezolana-pide-elecciones-presidenciales-376091.html
+
+39. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Brooklyn Rivera, líder indígena, muere en Nicaragua tras casi 3 años de detención
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/brooklyn-rivera-lider-indigena-muere-en-nicaragua-tras-casi-anos-de-detencion-376090.html
+
+40. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Explosión en edificio que almacenaba explosivos en Myanmar deja más de 45 muertos
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/explosion-en-edificio-que-almacenaba-explosivos-en-myanmar-deja-mas-de-45-muertos-376087.html
+
+41. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : OMS informa de 5 recuperaciones por ébola tras apertura de nuevo centro de tratamiento en el Congo
+   URL    : https://www.proceso.com.mx/internacional/2026/5/31/oms-informa-de-recuperaciones-por-ebola-tras-apertura-de-nuevo-centro-de-tratamiento-en-el-congo-376081.html
+
+42. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : La apariencia mentirosa del 'Tecatito' y el motor de Yuri
+   URL    : https://as.com/opinion/2022/03/21/portada/1647869455_288438.html#?ref=rss&format=simple&link=link
+
+43. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : La credencialización de las barras, el cuento de nunca acabar
+   URL    : https://as.com/mexico/2022/03/09/opinion/1646791363_136366.html#?ref=rss&format=simple&link=link
+
+44. ✗ Cuerpo insuficiente (40 chars < 50)
+   Título : España entrena sin Lamine Yamal, Nico Williams, ni Víctor Muñoz
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/03/espana-entrena-lamine-nico-victor-munoz.html
+
+45. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Fútbol y horror en el Irak de Sadam
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/03/futbol-horror-irak-sadam.html
+
+46. ✗ Cuerpo insuficiente (39 chars < 50)
+   Título : El Celta ve dificultades en la vuelta de Brais Méndez
+   URL    : https://www.marca.com/futbol/celta/2026/06/03/celta-ve-dificultades-vuelta-brais-mendez.html
+
+47. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Maria Sharapova y David Beckham, juntos en París: de fiesta durante Roland Garros
+   URL    : https://www.marca.com/tenis/roland-garros/2026/06/03/maria-sharapova-david-beckham-paris-fiesta-durante-roland-garros-video.html
+
+48. ✗ Cuerpo insuficiente (48 chars < 50)
+   Título : Incertidumbre por Bordalás&lt;br&gt;
+   URL    : https://www.marca.com/futbol/mercado-fichajes/2026/06/03/6a1fd3a71c831c17f44e43cb.html
+
+49. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : &quot;Orden Ejecutiva&quot; en Nueva York que deroga la hora de irse a dormir para ver las Finales NBA
+   URL    : https://www.marca.com/tiramillas/2026/06/03/orden-ejecutiva-nueva-york-deroga-hora-irse-dormir-ver-finales-nba-video.html
+
+50. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Primer entrenamiento de Brasil en Estados Unidos y primera charla de Ancelotti
+   URL    : https://www.marca.com/futbol/mundial/2026/06/03/primer-entrenamiento-brasil-estados-unidos-primera-charla-ancelott-video.html
+
+51. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Miles de pájaros colonizan Nueva York por la selección de Brasil: &quot;¡La ciudad ahora es nuestra!&quot;
+   URL    : https://www.marca.com/futbol/mundial/2026/06/03/miles-pajaros-colonizan-nueva-york-seleccion-brasil-ciudad-nuestra-video.html
+
+52. ✗ Cuerpo insuficiente (42 chars < 50)
+   Título : &quot;Thank you so much, señor Pep...&quot;
+   URL    : https://www.marca.com/futbol/premier-league/opinion/2026/06/03/thank-you-much-senor-pep.html
+
+53. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Estos son los datos que deja LALIGA este año
+   URL    : https://www.marca.com/futbol/2026/06/03/son-datos-deja-laliga-ano.html
+
+54. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Duralavita: del dominio de Aprilia sobre Ducati en el regreso de Marc Márquez en el GP de Mugello
+   URL    : https://www.marca.com/motor/motogp/gp-italia/2026/06/02/duralavita-directo-dominio-aprilia-sobre-ducati-regreso-marc-marquez-gp-mugell-video.html
+
+55. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : ¡Precioso! Lamine Yamal se rinde a Ronaldinho mientras jugaba con él: &quot;No se le va a caer, a mí a lo mejor&quot;
+   URL    : https://www.marca.com/futbol/barcelona/2026/06/02/precioso-lamine-yamal-rinde-ronaldinho-jugaba-le-caer-mi-mejor-video.html
+
+56. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Ataque total de Riquelme contra Florentino: &quot;Es una vergüenza&quot;
+   URL    : https://www.marca.com/futbol/real-madrid/2026/06/02/ataque-total-riquelme-florentino-vergueenza-video.html
+
+57. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : La española Awa Fam ya impone su talento y 1,94 m. en la WNBA: roza el doble-doble y récord de minutos
+   URL    : https://www.marca.com/baloncesto/nba/2026/06/02/espanola-awa-fam-impone-talento-1-94-m-wnba-roza-doble-doble-record-minutos-video.html
+
+58. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : El Barça pone los dientes largos con Lamine: va a volar en el Mundial
+   URL    : https://www.marca.com/futbol/barcelona/2026/06/02/barca-pone-dientes-largos-lamine-tope-mundial-video.html
+
+59. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Se filtra el vídeo de una estrella del fútbol conduciendo su Lamborghini drogado antes de estrellarse
+   URL    : https://www.marca.com/futbol/premier-league/2026/06/02/raheem-sterling-video-conduciendo-drogado-estrellar-lamborghini-deten-video.html
+
+60. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : &quot;Raúl ya no es ese niño bonito capaz de arrastrar votos por sí solo&quot;
+   URL    : https://www.marca.com/radio/2026/06/02/raul-ese-nino-bonito-capaz-arrastrar-votos-video.html
+
+61. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : 40 años del no gol más famoso de la historia de España: la volea de Míchel a Brasil
+   URL    : https://www.marca.com/futbol/2026/06/01/40-anos-gol-famoso-historia-espana-volea-michel-brasil-video.html
+
+62. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Desafió a su entrenador, obligó a sus compañeros a presionar... y encajaron un gol con solo 3 toques
+   URL    : https://www.marca.com/futbol/2026/06/01/desafio-entrenador-obligo-companeros-presionar-encajaron-gol-3-toques-video.html
+
+63. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Mbappé está más que listo para el Mundial, ¡menudo peazo golazo en un entreno!
+   URL    : https://www.marca.com/futbol/real-madrid/2026/06/01/mbappe-listo-mundial-menudo-peazo-golazo-entren-video.html
+
+64. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : La ilusión de Marc Pubill: &quot;No había hecho planes por si me llamaban...&quot;
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/01/ilusion-marc-pubill-habia-hecho-planes-me-llamaban-video.html
+
+65. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Grimaldo: &quot;Estoy muy feliz de estar aquí&quot;
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/01/grimaldo-feliz-aqu-video.html
+
+66. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Mikel Oyarzabal: &quot;Siempre que lo he hecho bien mis compañeros me lo han reconocido&quot;
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/01/mikel-oyarzabal-siempre-he-hecho-bien-mis-companeros-me-han-reconoc-video.html
+
+67. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Eric García: &quot;Si estamos a nuestro nivel tendremos posibilidades&quot;
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/01/eric-garcia-segundo-mundial-nuestro-nivel-tendremos-posibilidades-video.html
+
+68. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Rodri: &quot;Estoy centrado en ser un líder en la selección&quot;
+   URL    : https://www.marca.com/futbol/seleccion/2026/06/01/rodri-centrado-lider-seleccion-video.html
+
+69. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : ¡Salvaje agresión en Londres! Un hincha &#039;gunner&#039; estampa un jarrón contra la cabeza de un seguidor del PSG
+   URL    : https://www.marca.com/futbol/champions-league/2026/06/01/salvaje-agresion-londres-hincha-gunner-estampa-jarron-cabeza-seguidor-psg-video.html
+
+70. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Vinícius Jr desata la locura: los jugadores de Panamá hacen fila para hacerse una foto con él
+   URL    : https://www.marca.com/futbol/mundial/2026/06/01/vinicius-jr-desata-locura-jugadores-panama-fila-hacerse-fot-video.html
+
+71. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : El vídeo viral que desata la polémica de cara al Mundial: ¿Por qué el balón apenas bota?
+   URL    : https://www.marca.com/futbol/mundial/2026/06/01/video-viral-desata-polemica-cara-mundial-balon-apenas-bota-video.html
+
+72. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Cañizares no olvida: &quot;Me da pena el Arsenal... y los dos idiotas españoles que la perdemos&quot;
+   URL    : https://www.marca.com/futbol/champions-league/2026/06/01/canizares-olvida-me-da-pena-arsenal-dos-idiotas-espanoles-perdemos-video.html
+
+73. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : El proyecto que impulsa Sports Summit Madrid
+   URL    : https://www.marca.com/sport-business/2026/05/22/proyecto-impulsa-sports-summit-madrid.html
+
+74. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Las mejores apuestas deportivas para hoy
+   URL    : https://www.marca.com/futbol/2026/05/20/mejores-apuestas-deportivas-final-europa-league.html
+
+75. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : MODULO BT PORTADA 2
+   URL    : https://www.marca.com/include/portada/modulo-bt-portada-2.html
+
+76. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : MODULO BT PORTADA 1
+   URL    : https://www.marca.com/include/portada/modulo-bt-portada-1.html
+
+77. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Carousel Portada
+   URL    : https://www.marca.com/include/portada/carousel-portada.html
+
+78. ✗ Duplicado — Título ya registrado
+   Título : Leo Messi, Premio Princesa de Asturias de los Deportes 2026
+   URL    : https://www.mundodeportivo.com/otros-deportes/20260603/1004190797/premio-princesa-asturias-deportes-2025.html
+
+79. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Rueda de prensa Luis de la Fuente y Borja Iglesias, en directo
+   URL    : https://www.mundodeportivo.com/seleccion-espanola/20260603/1004190564/rueda-prensa-luis-fuente-xxx-directo-previa-espana-irak-amistoso-mundial-2026.html
+
+80. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Mercado de fichajes de fútbol, en directo
+   URL    : https://www.mundodeportivo.com/futbol/fichajes/20260601/1004189767/mercado-fichajes-futbol-directo-hoy-altas-bajas-rumores-vivo-online.html
+
+81. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : El 1x1 de los cedidos del Espanyol: varios han derribado la puerta
+   URL    : https://www.mundodeportivo.com/futbol/rcd-espanyol/20260603/1004190668/1x1-cedidos-espanyol-han-derribado-puerta.html
+
+82. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : Vingegaard conquista el Giro de Italia 2026
+   URL    : https://www.mundodeportivo.com/videos/polideportivo/20260531/1004189873/vingegaard-conquista-giro-italia-2026.html
+
+83. ✗ Duplicado — URL ya registrada
+   Título : "Solo hay una salida": la odisea de los miles de marineros atrapados por el bloqueo del estrecho de Ormuz desde hace casi 100 días
+   URL    : https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss
+
+84. ✗ Duplicado — URL ya registrada
+   Título : Por qué Iberostar y Blue Diamond, dos cadenas hoteleras clave en la industria turística de Cuba, abandonan operaciones en la isla "con efecto inmediato"
+   URL    : https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss
+
+85. ✗ Duplicado — URL ya registrada
+   Título : La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado
+   URL    : https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss
+
+86. ✗ Duplicado — URL ya registrada
+   Título : La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad
+   URL    : https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss
+
+87. ✗ Duplicado — URL ya registrada
+   Título : Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado
+   URL    : https://www.bbc.com/mundo/articles/c242jvdn93jo?at_medium=RSS&at_campaign=rss
+
+88. ✗ Duplicado — URL ya registrada
+   Título : Qué son las "zonas muertas" que amenazan el mar Báltico, el área de agua salobre más grande del mundo
+   URL    : https://www.bbc.com/mundo/articles/c1722jpde91o?at_medium=RSS&at_campaign=rss
+
+89. ✗ Duplicado — URL ya registrada
+   Título : "Es un honor darle mi apoyo": el polémico respaldo de Trump a Abelardo De la Espriella de cara a la segunda vuelta de las presidenciales en Colombia
+   URL    : https://www.bbc.com/mundo/articles/c3d2gx7r3kyo?at_medium=RSS&at_campaign=rss
+
+90. ✗ Duplicado — URL ya registrada
+   Título : La ofensiva de China contra las "cocinas fantasma" que acaparan las aplicaciones de comida a domicilio
+   URL    : https://www.bbc.com/mundo/articles/cgepllprdxgo?at_medium=RSS&at_campaign=rss
+
+91. ✗ Duplicado — URL ya registrada
+   Título : La controversia por los exorbitantes precios del transporte público para llegar a los estadios del Mundial 2026 en EE.UU.
+   URL    : https://www.bbc.com/mundo/articles/cvgz2519dvlo?at_medium=RSS&at_campaign=rss
+
+92. ✗ Duplicado — URL ya registrada
+   Título : "La primera innovación para partos desde los años 50": el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa
+   URL    : https://www.bbc.com/mundo/articles/cdrp4k3xd72o?at_medium=RSS&at_campaign=rss
+
+93. ✗ Duplicado — URL ya registrada
+   Título : Molly amazónica, la especie de pez de los ríos de México que ha sobrevivido 100.000 años sin machos
+   URL    : https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&at_campaign=rss
+
+94. ✗ Duplicado — URL ya registrada
+   Título : El estremecedor caso de Agostina Vega, la adolescente de 14 años que fue asesinada y descuartizada en Argentina
+   URL    : https://www.bbc.com/mundo/articles/cdrp8yxyvnvo?at_medium=RSS&at_campaign=rss
+
+95. ✗ Duplicado — URL ya registrada
+   Título : "Trump necesita que la guerra termine, pero Irán no se lo va a poner fácil"
+   URL    : https://www.bbc.com/mundo/articles/cj6pjgg4ne6o?at_medium=RSS&at_campaign=rss
+
+96. ✗ Duplicado — URL ya registrada
+   Título : Por qué Pedro Sánchez está en uno de sus peores momentos desde que es presidente del gobierno de España (y el contraste con los elogios que recibe fuera)
+   URL    : https://www.bbc.com/mundo/articles/cn7pn3e16dgo?at_medium=RSS&at_campaign=rss
+
+97. ✗ Duplicado — URL ya registrada
+   Título : Al menos 21 muertos en Ucrania en uno de los mayores ataques de Rusia en los últimos meses con más de 700 drones
+   URL    : https://www.bbc.com/mundo/articles/ce3p6d9penlo?at_medium=RSS&at_campaign=rss
+
+98. ✗ Duplicado — URL ya registrada
+   Título : "Había olvidado lo que se siente al estar al aire libre": cómo es la primera unidad de cuidados intensivos ubicada en una azotea y rodeada de jardines
+   URL    : https://www.bbc.com/mundo/articles/clypexw39ero?at_medium=RSS&at_campaign=rss
+
+99. ✗ Duplicado — URL ya registrada
+   Título : Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia
+   URL    : https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss
+
+100. ✗ Duplicado — URL ya registrada
+   Título : Cómo se compara la derecha que representa Abelardo de la Espriella con la que siempre gobernó Colombia
+   URL    : https://www.bbc.com/mundo/articles/cy42zj9gy4eo?at_medium=RSS&at_campaign=rss
+
+101. ✗ Duplicado — URL ya registrada
+   Título : Las imágenes de satélite que muestran que los ataques de Irán a instalaciones militares de EE.UU. son mucho más extensos de lo que se reconoce
+   URL    : https://www.bbc.com/mundo/articles/cx2185gex67o?at_medium=RSS&at_campaign=rss
+
+102. ✗ Duplicado — URL ya registrada
+   Título : Por qué Iván Cepeda denuncia que el gobierno de Ecuador interfirió en las elecciones de Colombia
+   URL    : https://www.bbc.com/mundo/articles/cn9pr3jl40eo?at_medium=RSS&at_campaign=rss
+
+103. ✗ Duplicado — URL ya registrada
+   Título : Por qué Marilyn Monroe es quizás el ícono más incomprendido y cómo llegó a significar tanto para mí
+   URL    : https://www.bbc.com/mundo/articles/cewpzxwn50po?at_medium=RSS&at_campaign=rss
+
+104. ✗ Duplicado — URL ya registrada
+   Título : Abelardo de la Espriella gana la primera vuelta con su nueva derecha y peleará la presidencia de Colombia frente a la izquierda de Iván Cepeda
+   URL    : https://www.bbc.com/mundo/articles/c9d3wz5vjlvo?at_medium=RSS&at_campaign=rss
+
+105. ✗ Duplicado — URL ya registrada
+   Título : Quién es Abelardo de la Espriella, el empresario que promete gobernar Colombia con "mano de hierro" inspirado en Bukele y Milei
+   URL    : https://www.bbc.com/mundo/articles/ce8pn4zlrd7o?at_medium=RSS&at_campaign=rss
+
+106. ✗ Duplicado — URL ya registrada
+   Título : Quién es Iván Cepeda, el filósofo cuyo padre fue asesinado en un crimen de Estado y ahora busca continuar la senda de Petro en Colombia
+   URL    : https://www.bbc.com/mundo/articles/c9d3glj965jo?at_medium=RSS&at_campaign=rss
+
+107. ✗ Duplicado — URL ya registrada
+   Título : En qué se parecen y en qué se diferencian la izquierda de Iván Cepeda y la de Gustavo Petro en Colombia
+   URL    : https://www.bbc.com/mundo/articles/c98r07dy8mgo?at_medium=RSS&at_campaign=rss
+
+108. ✗ Duplicado — URL ya registrada
+   Título : Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta
+   URL    : https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss
+
+109. ✗ Duplicado — URL ya registrada
+   Título : La importancia estratégica del castillo de 900 años de antigüedad que Israel capturó en Líbano
+   URL    : https://www.bbc.com/mundo/articles/cp9pg43xn0ro?at_medium=RSS&at_campaign=rss
+
+110. ✗ Duplicado — URL ya registrada
+   Título : El sufrimiento silencioso de los niños en Gaza que han perdido la capacidad de hablar
+   URL    : https://www.bbc.com/mundo/articles/cn8pjnl3m0go?at_medium=RSS&at_campaign=rss
+
+111. ✗ Duplicado — URL ya registrada
+   Título : Trump asegura que Israel y Hezbolá han aceptado un alto el fuego parcial, aunque continúan los enfrentamientos en el sur de Líbano
+   URL    : https://www.bbc.com/mundo/articles/cn9prj83xylo?at_medium=RSS&at_campaign=rss
+
+112. ✗ Duplicado — URL ya registrada
+   Título : Por qué los comunistas de India perdieron por completo el poder tras casi 70 años gobernando a millones de personas
+   URL    : https://www.bbc.com/mundo/articles/ce8pjly33ldo?at_medium=RSS&at_campaign=rss
+
+113. ✗ Duplicado — URL ya registrada
+   Título : Los 5 de Ulm: el controvertido juicio en Alemania que cuestiona el fuerte vínculo del país con Israel y la respuesta a las protestas a favor de los palestinos
+   URL    : https://www.bbc.com/mundo/articles/cpqp8y8zwqeo?at_medium=RSS&at_campaign=rss
+
+114. ✗ Duplicado — URL ya registrada
+   Título : "Mi hermano ahora es una persona completamente distinta": la metamorfosis del mexicano Temach para convertirse en la mayor estrella de la machosfera en América Latina
+   URL    : https://www.bbc.com/mundo/articles/clyp8d390vro?at_medium=RSS&at_campaign=rss
+
+115. ✗ Duplicado — URL ya registrada
+   Título : Cómo Nvidia desafía a Apple e Intel al anunciar un chip de IA para computadores personales
+   URL    : https://www.bbc.com/mundo/articles/clypd3r5p18o?at_medium=RSS&at_campaign=rss
+
+116. ✗ Duplicado — URL ya registrada
+   Título : Un golpe de suerte: cómo un desconocido farmacéutico británico inventó por casualidad los fósforos de madera hace 200 años
+   URL    : https://www.bbc.com/mundo/articles/cgqp54pp838o?at_medium=RSS&at_campaign=rss
+
+117. ✗ Duplicado — URL ya registrada
+   Título : La preocupante guerra invisible del GPS que está alterando el transporte aéreo
+   URL    : https://www.bbc.com/mundo/articles/cdjp03nmxxdo?at_medium=RSS&at_campaign=rss
+
+118. ✗ Duplicado — URL ya registrada
+   Título : En video: el momento en el que explota un cohete de Blue Origin que iba a llevar al espacio satélites de Amazon
+   URL    : https://www.bbc.com/mundo/articles/cm2pgw72230o?at_medium=RSS&at_campaign=rss
+
+119. ✗ Duplicado — URL ya registrada
+   Título : "Es como si la muerte viniera a buscarnos cada mes": la pesadilla de vivir con el trastorno disfórico premenstrual
+   URL    : https://www.bbc.com/mundo/articles/crkppvv103jo?at_medium=RSS&at_campaign=rss
+
+120. ✗ Duplicado — URL ya registrada
+   Título : Cómo estar apenas 20 minutos en contacto con la naturaleza puede mejorar tu salud
+   URL    : https://www.bbc.com/mundo/articles/cvgzd2z5xe7o?at_medium=RSS&at_campaign=rss
+
+121. ✗ Duplicado — URL ya registrada
+   Título : Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles
+   URL    : https://www.bbc.com/mundo/articles/clyp01kddwko?at_medium=RSS&at_campaign=rss
+
+122. ✗ Duplicado — URL ya registrada
+   Título : Por qué las mujeres viven más que los hombres
+   URL    : https://www.bbc.com/mundo/articles/cwy221qgkzqo?at_medium=RSS&at_campaign=rss
+
+123. ✗ Duplicado — URL ya registrada
+   Título : 5 técnicas de respiración que pueden reducir el estrés en pocos minutos y mejorar tu salud
+   URL    : https://www.bbc.com/mundo/articles/ce8pjng9n49o?at_medium=RSS&at_campaign=rss
+
+124. ✗ Duplicado — URL ya registrada
+   Título : Cómo la nueva película "Toy Story 5" muestra el "horror" de la adicción de los niños a las pantallas
+   URL    : https://www.bbc.com/mundo/articles/cr5py9d9dgno?at_medium=RSS&at_campaign=rss
+
+125. ✗ Duplicado — URL ya registrada
+   Título : Las revelaciones de la nueva película sobre la enigmática supermodelo Kate Moss
+   URL    : https://www.bbc.com/mundo/articles/c4g9v932gpgo?at_medium=RSS&at_campaign=rss
+
+126. ✗ Duplicado — URL ya registrada
+   Título : "Creía que mi familia se había resistido a Hitler, hasta que descubrí que mi bisabuelo era nazi"
+   URL    : https://www.bbc.com/mundo/articles/c362ykn25jno?at_medium=RSS&at_campaign=rss
+
+127. ✗ Duplicado — URL ya registrada
+   Título : Por qué sentir miedo por la caída mundial de la natalidad podría ser un error
+   URL    : https://www.bbc.com/mundo/articles/c1k2yzpk4p1o?at_medium=RSS&at_campaign=rss
+
+128. ✗ Duplicado — URL ya registrada
+   Título : Las incógnitas que aún rodean la muerte de Marilyn Monroe 100 años después de su nacimiento
+   URL    : https://www.bbc.com/mundo/articles/cg7pegxzelko?at_medium=RSS&at_campaign=rss
+
+129. ✗ Duplicado — URL ya registrada
+   Título : Lo que el precio de una sola taza de café dice sobre la agitación económica actual
+   URL    : https://www.bbc.com/mundo/articles/cg4pw44r4wlo?at_medium=RSS&at_campaign=rss
+
+130. ✗ Duplicado — URL ya registrada
+   Título : 5 gráficos que muestran la Colombia que heredará el próximo presidente
+   URL    : https://www.bbc.com/mundo/articles/c893347kw1qo?at_medium=RSS&at_campaign=rss
+
+131. ✗ Duplicado — URL ya registrada
+   Título : Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap
+   URL    : https://www.bbc.com/mundo/articles/c78qj9zy4j6o?at_medium=RSS&at_campaign=rss
+
+132. ✗ Duplicado — URL ya registrada
+   Título : Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica
+   URL    : https://www.bbc.com/mundo/articles/ckgp97n1l1do?at_medium=RSS&at_campaign=rss
+
+133. ✗ Duplicado — URL ya registrada
+   Título : Cómo Chile se convirtió en el "shopping" de cada vez más compradores argentinos
+   URL    : https://www.bbc.com/mundo/articles/c87qyrlz3p3o?at_medium=RSS&at_campaign=rss
+
+134. ✗ Duplicado — URL ya registrada
+   Título : Las imágenes del ejercicio militar de EE.UU. en Caracas autorizado por el gobierno de Venezuela
+   URL    : https://www.bbc.com/mundo/articles/cdep52y97p4o?at_medium=RSS&at_campaign=rss
+
+135. ✗ Duplicado — URL ya registrada
+   Título : En imágenes: la evacuación de los pasajeros del crucero afectado por el hantavirus en España
+   URL    : https://www.bbc.com/mundo/articles/c8jvgpn1rjno?at_medium=RSS&at_campaign=rss
+
+136. ✗ Duplicado — URL ya registrada
+   Título : "México Moderno": 8 espectaculares casas que muestran la riqueza arquitectónica del país
+   URL    : https://www.bbc.com/mundo/articles/c77my8kr2pmo?at_medium=RSS&at_campaign=rss
+
+137. ✗ Duplicado — URL ya registrada
+   Título : David Attenborough cumple 100 años: la vida en imágenes del arriesgado documentalista que cambió la forma en que vemos nuestro planeta
+   URL    : https://www.bbc.com/mundo/articles/c0728v55yxdo?at_medium=RSS&at_campaign=rss
+
+138. ✗ Duplicado — URL ya registrada
+   Título : Met Gala 2026: así desfilaron las celebridades en la extravagante cita de la moda en Nueva York
+   URL    : https://www.bbc.com/mundo/articles/czx2k5d56x6o?at_medium=RSS&at_campaign=rss
+
+139. ✗ Cuerpo insuficiente (0 chars < 50)
+   Título : EE. UU. emprende ataques en la isla iraní Qeshm tras el lanzamiento de misiles de Teherán a países vecinos
+   URL    : https://www.france24.com/es/minuto-a-minuto/20260603-ee-uu-emprende-ataques-en-la-isla-iran%C3%AD-qeshm-tras-el-lanzamiento-de-misiles-de-teher%C3%A1n-a-pa%C3%ADses-vecinos

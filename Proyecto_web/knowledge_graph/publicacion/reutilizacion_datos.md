@@ -1,0 +1,7 @@
+# AC-13: Reutilización externa de los datos SIMANW
+
+Un agente externo podría descubrir y reutilizar los datos del SIMANW sin acceder al código fuente mediante los artefactos publicados en la carpeta `knowledge_graph/publicacion/`. El archivo `manifiesto_publicacion.json` funciona como punto de entrada porque describe las serializaciones disponibles, el número de triples, los vocabularios usados y la ubicación de la documentación. A partir de ese manifiesto, un consumidor puede elegir el formato más conveniente: Turtle para lectura y depuración, RDF/XML para herramientas semánticas tradicionales o JSON-LD para aplicaciones web.
+
+La documentación del glosario permite entender el significado de las clases y propiedades sin revisar la implementación en Python. Las consultas SPARQL incluidas muestran ejemplos de uso para responder preguntas de negocio sobre categorías, fuentes, sentimiento, datasets abiertos y enlaces externos. Además, el archivo `noticia_ejemplo.jsonld` ofrece una plantilla clara para interpretar cómo se representa una noticia individual.
+
+Los enlaces con Wikidata, Schema.org y Dublin Core facilitan la interoperabilidad. Un agente puede seguir URIs externas para enriquecer categorías o combinar el grafo con otros datasets públicos. Finalmente, el reporte de validación informa si los recursos mínimos cumplen las restricciones estructurales esperadas, lo que permite evaluar la calidad del grafo antes de reutilizarlo.
